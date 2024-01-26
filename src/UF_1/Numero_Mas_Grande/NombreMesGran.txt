@@ -1,0 +1,15 @@
+Bon dia Marina!!
+
+Te hago esta anotacion para que entiendas por que he añadido 2 programas del ejercico "NombreMesGran".
+
+Este programa lo he enfocado de 2 formas diferentes. Uno con if anidados y otro sin anidar. Recordé que cundo hice un curso de Python, habia una manera para calcular el tiempo de ejecución de un programa con una libreria llamada TIME. La he buscado en internet y habia algo parecedo para JAVA, pero me he dado cuenta de que el tiempo de ejecucion de cada uno de los 2 programas se verá afectado por lo que tarde el usuario en ingresar los numeros.
+
+Esto dificulta determinar con exactitud el tiempo de ejecucion de cada programa y por lo tanto saber cual de los 2 sería más eficiente. Por ese motivo he añadido los 2.
+
+Para este ejercicio, en algunos momentos me he ayudado de ChatGPT. 
+
+No me suele gustar mucho consultarlo, ya que a veces es como si hiciese "trampa", pero por otra parte hay varias cosas que se han de añadir en los programas para que funcionen, que no las hemos dado en clase y sin ayuda del ChatGPT o docuementacion me sería imposible.
+
+Muchas Gracias
+
+Fernando Hdez.
