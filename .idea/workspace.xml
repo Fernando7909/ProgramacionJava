@@ -4,17 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Borrado Main.java default">
+    <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <change afterPath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/Captura de pantalla 2024-01-29 175621.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/UF2_ AEA1_AA1 - Activitats programació modular repàs.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UF_2/Prediccion_persona/Prediccion_Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UF_2/Prediccion_persona/Prediccion_Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -27,19 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.LlegirEnters.executor": "Run",
-    "Application.PrediccioPersona.executor": "Run",
-    "Application.Prediccion_Persona.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.CalculMinMaxMediana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LlegirEnters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotaMaxima.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrediccioPersona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prediccion_Persona.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,13 +86,22 @@
       <option name="project" value="LOCAL" />
       <updated>1706288306686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1706351522742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706351522742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Ejercicios Java UF1 &amp; UF2" />
     <MESSAGE value="Borrado Main.java default" />
-    <option name="LAST_COMMIT_MESSAGE" value="Borrado Main.java default" />
+    <MESSAGE value="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner." />
   </component>
 </project>
