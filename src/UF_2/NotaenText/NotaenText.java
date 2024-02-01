@@ -1,10 +1,12 @@
+package UF_2.NotaenText;
+
 import java.util.Scanner;
 
 public class NotaenText {
   private String text = "";
   private double[] arraynotes = new double[5];
 
-  public static void main (String args[]){
+  public static void main (String[] args){
     NotaenText programa = new NotaenText();
     programa.inici();
     }
