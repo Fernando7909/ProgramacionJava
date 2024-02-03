@@ -7,14 +7,12 @@ public class Ejercicio_7{
 
         Scanner lector = new Scanner(System.in);
         int[] array_int = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        int[] new_int = new int[array_int.length - 1];
+        int[] new_array = new int[array_int.length - 1];
         int input_int = 0;
         int contador = 0;
         boolean encontrado = false;
-        
 
         System.out.println("Introduce un numero del 1 al 9 para eliminarlo del array: ");
-
 
         if(lector.hasNextInt()){
         	input_int = lector.nextInt();
@@ -25,13 +23,13 @@ public class Ejercicio_7{
                         encontrado = true;
                     } 
                     else{                                   //Cada vez que no se cumpla el if, pasa al else donde en cada iteracion, suma el contador
-                    	new_int[contador] = array_int[i];   //De esta manera, concretamos el numero de huecos que tendra el array new_int
+                    	new_array[contador] = array_int[i];   //De esta manera, concretamos el numero de huecos que tendra el array new_int
                     	contador++;
                     }
                 }
                 System.out.println("Elemento eliminado. El nuevo array es ");
                 for(int j = 0; j < contador; j++){
-                    System.out.print(new_int[j] + " ");
+                    System.out.print(new_array[j] + " ");
                 } 
             }
             else{

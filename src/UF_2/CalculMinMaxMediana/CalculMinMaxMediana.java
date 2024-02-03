@@ -17,6 +17,7 @@ public class CalculMinMaxMediana {
         imprimir(max, min, media);
     }
     public void mostrarMenu(){
+
         System.out.println("BIENVENIDO!! Introduce 5 valores enteros por teclado: ");
     }
     public int[] leerDatos(){
