@@ -1,9 +1,8 @@
-package UF_2;
+package UF_2.Eliminar_elemento;
 
 import java.util.Scanner;
 
 public class Eliminar_elemento {
-
 	Scanner lector = new Scanner(System.in);
 	int Longitud;
 	int[] array_int;
@@ -12,6 +11,7 @@ public class Eliminar_elemento {
 	int contador;
 
 	public static void main(String[] args) {
+
 		Eliminar_elemento programa = new Eliminar_elemento();
 		programa.inicio();
 	}
@@ -23,6 +23,7 @@ public class Eliminar_elemento {
 		imprimir(contador, new_array);
 	}
 	public int Longitud_Vector() {
+
 		boolean Medida = false;
 		System.out.println("Introduce la medida del array: ");
 		while (!Medida) {
@@ -30,7 +31,8 @@ public class Eliminar_elemento {
 				Longitud = lector.nextInt();
 				array_int = new int[Longitud];
 				Medida = true;
-			} else {
+			}
+			else {
 				System.out.println("ERROR! Has introducido un valor equivocado");
 				lector.next();
 			}
@@ -38,6 +40,7 @@ public class Eliminar_elemento {
 		return Longitud;
 	}
 	public int[] Llenar_Vector(int Longitud) {
+
 		boolean Medida2 = false;
 		System.out.println("Introduce los numeros para llenar el array_int: ");
 		while (!Medida2) {
@@ -46,7 +49,8 @@ public class Eliminar_elemento {
 					array_int[i] = lector.nextInt();
 				}
 				Medida2 = true;
-			} else {
+			}
+			else {
 				System.out.println("ERROR! Has introducido un valor equivocado");
 				lector.next();
 			}
@@ -55,8 +59,19 @@ public class Eliminar_elemento {
 	}
 	public int numero_Eliminar() {
 
+		boolean Eliminar = false;
 		System.out.println("Introduce el numero del elemento que deseas eliminar del array:");
-		int input_int = lector.nextInt();
+
+		while (!Eliminar){
+			if (lector.hasNextInt()){
+				input_int = lector.nextInt();
+				Eliminar = true;
+			}
+			else {
+				System.out.println("ERROR!! Has introducido un valor equivocado.");
+				lector.next();
+			}
+		}
 		return input_int;
 	}
 
@@ -69,7 +84,8 @@ public class Eliminar_elemento {
 		for (int i = 0; i < array_int.length; i++) {
 			if (input_int == array_int[i]) {
 				encontrado = true;
-			} else {
+			}
+			else {
 				new_array[contador] = array_int[i];
 				contador++;
 			}
