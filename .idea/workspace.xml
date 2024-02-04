@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_funciones/NumeroMasGrande.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examen/Examen_arrays1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/Examen_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/Examen_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_6.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,7 @@
     "Application.CalculMinMaxMediana.executor": "Run",
     "Application.Ejercicio_7.executor": "Run",
     "Application.Eliminar_elemento.executor": "Run",
+    "Application.Examen_arrays1.executor": "Run",
     "Application.LlegirEnters.executor": "Run",
     "Application.NotaMaxima.executor": "Run",
     "Application.NotaenText.executor": "Run",
@@ -130,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706982007895</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1707054044374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707054044374</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
