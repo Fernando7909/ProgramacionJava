@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios_funciones/NumeroMasGrande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/Examen_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/Examen_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_examen/repas_6.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Areas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculMinMaxMediana.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eliminar_elemento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LlegirEnters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotaMaxima.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotaenText.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrediccioPersona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prediccion_Persona.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Areas.executor": "Run",
+    "Application.CalculMinMaxMediana.executor": "Run",
+    "Application.Ejercicio_7.executor": "Run",
+    "Application.Eliminar_elemento.executor": "Run",
+    "Application.LlegirEnters.executor": "Run",
+    "Application.NotaMaxima.executor": "Run",
+    "Application.NotaenText.executor": "Run",
+    "Application.NumeroMasGrande.executor": "Run",
+    "Application.PrediccioPersona.executor": "Run",
+    "Application.Prediccion_Persona.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706957549012</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1706982007895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706982007895</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
