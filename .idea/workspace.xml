@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/Examen/Examen_arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examen/Examen_arrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Application.Ejercicio_7.executor": "Run",
     "Application.Eliminar_elemento.executor": "Run",
     "Application.Examen_arrays1.executor": "Run",
+    "Application.Examen_arrays2.executor": "Run",
     "Application.LlegirEnters.executor": "Run",
     "Application.NotaMaxima.executor": "Run",
     "Application.NotaenText.executor": "Run",
@@ -130,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707054044374</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1707083622123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707083622123</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
