@@ -23,7 +23,7 @@ public class Ejercicio_7{
                         encontrado = true;
                     } 
                     else{                                   //Cada vez que no se cumpla el if, pasa al else donde en cada iteracion, suma el contador
-                    	new_array[contador] = array_int[i];   //De esta manera, concretamos el numero de huecos que tendra el array new_int
+                    	new_array[contador] = array_int[i]; //De esta manera, concretamos el numero de huecos que tendra el array new_int
                     	contador++;
                     }
                 }

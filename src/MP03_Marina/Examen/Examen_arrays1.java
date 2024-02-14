@@ -1,4 +1,4 @@
-package Examen;
+package MP03_Marina.Examen;
 
 import java.util.Scanner;
 public class Examen_arrays1 {
@@ -22,9 +22,9 @@ public class Examen_arrays1 {
             }
         }
         int[] array1 = new int[Longitud];
-        System.out.println("Intgrese los elementos del primer vector: ");
+        System.out.println("Ingrese los elementos del primer vector: ");
         while (!lleno1){
-            for (int i = 0; i < array1.length; i++){
+            for (int i = 0; i < Longitud; i++){
                 if (lector.hasNextInt()){
                     array1[i] = lector.nextInt();
                     System.out.println("Elemento " + (i+1) + ": " + array1[i]);

@@ -5,8 +5,558 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/Examen/Examen_arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_funciones/NumeroMasGrande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Examen_arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Examen_arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FH_Stop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FernandoHernandez_Stop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FernandoHernandez_TablaMultiplicar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FernandoHernandez_TaulaMultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FernandoHernandez_stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Loops_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Loops_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/MP03 - UF1  Loops test2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Stop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Stop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Adivina_semaforo/AdivSema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Adivina_semaforo/AdivSema.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Adivina_semaforo/AdivinaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Adivina_semaforo/UF1_ AEA2_AA22 - Endevina N.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/Areas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/Areas2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/Calculo_Areas2_Hernandez_Lopez_Fernando.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/Calculo_Areas_Hernandez_Lopez_Fernando.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/EXPLICACION DEL EJERCICIO AREAS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/EXPLICACION DEL EJERCICIO AREAS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Areas/UF1_ AEA2_PR4 - Càlcul d_àrees.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/UF1_AEA2_PR14 - Arrays.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo1For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo1While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo2For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo2While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo3For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo3While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo4For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemplo4While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemploclase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Arrays/ejemploclase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/CincoPalabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Corred_Insensatos/ACT1-CorredInsensatos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Corred_Insensatos/Corred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Corred_Insensatos/Corred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Corred_Insensatos/UF1_ AEA1_PR1 - Corred insensatos.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Descuento/Descuento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Descuento/UF1_ AEA2_PR3 - Descomptes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Descuento_Control_Errores/DesConErroes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Descuento_Control_Errores/DesConErrores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dia_de_la_semana/Diadelasemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dia_de_la_semana/Diadelasemana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dia_de_la_semana/UF1_ AEA2_AA12 - Dies setmana.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dias_del_mes/Diasdelmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dias_del_mes/Diasdelmes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Dias_del_mes/UF1_ AEA2_AA13 - Dies del mes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/DoWhileEjemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/DoWhileEjemplo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/EjemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/ValorFitat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplo_Dowhile/ValorFitat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplos_Arrays/LectorSequencia2ACT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Ejemplos_Arrays/LectorSequenciaACT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Encontrar_max_min/Encontrar_min_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Encontrar_max_min/Encontrar_min_max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Encontrar_max_min/Encontrar_min_max_orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Encontrar_max_min/Encontrar_min_max_orden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Encontrar_max_min/UF1_AEA2_PR15 - Trobar max i min.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/HolaMon/HolaMon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/HolaMon/HolaMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/HolaMon/UF1_ AEA1_AA1 - Hello world!.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposteriores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposteriores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresDoWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_num_posteriores/UF1_ AEA2_AA20 - Imprimir 10 nombres seguits posteriors.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_numeos/Imprimir10numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_numeos/Imprimir10numeros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Imprimir_10_numeos/UF1_ AEA2_AA19 - Imprimir 10 nombres seguits.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Inicio_Vectores/InicioVectores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_canviovalores/Matrices_canviovalores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_canviovalores/Matrices_canviovalores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_ejemplo/exempleMatrius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_filaspares/Matrices_filaspares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_filaspares/Matrices_filaspares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_filaspares/UF1_AEA2_PR16- Matrius.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_filycolpares/Matrices_filycolpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Matrices_filycolpares/Matrices_filycolpares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Media_Aritmética/Media_Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Media_suspensos_ordenados/Media_suspensos_ordenados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Media_suspensos_ordenados/Media_suspensos_ordenados.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Media_suspensos_ordenados/UF1_ AEA2_AA28 - Mitjana Suspesos Ordenats.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Modulo/Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Modulo/Modulo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Multiplicacion/Multiplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Multiplicacion/Multiplicacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Multiplicacion/UF1_ AEA1_AA6 - Multiplicació dinàmica.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Multiplicacion/UF1_ AEA2_AA4 - Multiplicació 3 nombres.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Nota10/Nota10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Nota_Maxima/NotaMaxima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Nota_maxima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Num_mas_alto_bajo/ArrayEjercico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Num_mas_alto_bajo/Buscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numero_Mas_Grande/Nmg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numero_Mas_Grande/NombreMesGran.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numero_Mas_Grande/NumeroMasGrande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numero_Mas_Grande/NumeroMasGrande.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numero_Mas_Grande/UF1_ AEA2_AA14 - NombreMesGran.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numeros_Reales_Iguales/NumerosRealesIguales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Numeros_Reales_Iguales/NumerosRealesIguales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Palabras/palabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Palabras/palabrasbuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Penalizacion/Penalizacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Penalizacion/UF1_ AEA2_AA5 - Penalització.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/Potencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/Potencias.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/PotenciasDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/PotenciasDoWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/PotenciasWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/PotenciasWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Potencias/UF1_ AEA2_AA21 - Potencies.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/MP03 - UF1 Activitats - copia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/MP03 - UF1 Activitats.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/PrediccionPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/Prediccion_Persona_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/Prediccion_persona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/UF1_ AEA2_PR5 - Predicció persona.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Prediccion_Persona/errorMp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaFor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Diamond/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Diamond/Diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Diamond/DiamondWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Diamond/DiamondWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Dibujo_Estrellas/DibujoEstrellas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Dibujo_Estrellas/DibujoEstrellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloFor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloWhile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Centrado/TrianguloCentrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Centrado/TrianguloCentrado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertidoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumeroFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumeroFor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre/UF1_ AEA2_PR11 - Programat formes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRepFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRepFor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Programando_Formas/UF1_ AEA2_PR11 - Programat formes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/RETOS_Practica/Creciente_Decreciente/CrecienteDecreciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/RETOS_Practica/UF1_ AEA2_PR7 - Repàs estructures bàsiques programació.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/RETOS_Practica/movil/movil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/RETOS_Practica/movil/movil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Suma_y_media/Sumaymedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Suma_y_media/Sumaymedia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Suma_y_media/UF1_ AEA2_AA11 - Suma i mitjana.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Sumar_Multiplos_3_For/SumarMultiplosTresFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Sumar_Multiplos_3_For/SumarMultiplosTresFor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Sumar_Multiplos_Tres/SumarMultiplosTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Sumar_Multiplos_Tres/SumarMultiplosTres.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Sumar_Multiplos_Tres/UF1_ AEA2_PR9 - Loops.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Suspenso/Suspenso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Switch/Diadelmesswitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Switch/Diadelmesswitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Switch/UF1_ AEA2_PR6 - Switch.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Tabla_Multiplicar/TablaMultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Tabla_Multiplicar_Invertida/TablaMultiplicarInvertida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Tabla_booleana/UF1_ AEA2_AA3 - Taula booleana OR.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Taula_Veritat/TaulaVeritat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Taula_Veritat/TaulaVeritat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Taula_Veritat/UF1_ AEA1_PR2 - Taula de la veritat.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Variables/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vector_char/UF1_ AEA2_AA27 - Sense vocals.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vector_char/VectorChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vector_invertido/UF1_ AEA2_AA29 - Vector invertit.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vector_invertido/Vector_invertido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vector_invertido/Vector_invertido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vocal_Consonante/UF1_ AEA2_AA15 - Vocal Consonant.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vocal_Consonante/VocalConsonante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/Vocal_Consonante/VocalConsonante.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/While_cubo/WhileCubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_1/While_ejemplo/EstructurasRepeticionEjemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/Captura de pantalla 2024-01-29 175621.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/UF2_ AEA1_AA1 - Activitats programació modular repàs.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Areas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/CalculArees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Captura de pantalla 2024-01-29 180237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Ej_Calcular_Areas/Areas_mod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Ej_Calcular_Areas/Calculo_poligonos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Ej_Calcular_Areas/calcularAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Ej_Calcular_Areas/leerdatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/LlegirEnters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/UF2_ AEA1_AA3 - Llegir reals.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaenText/NotaenText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaenText/UF2_ AEA1_AA1 - Activitats programació modular repàs.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Parametros_Salida/Parametros_Salida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Parametros_Salida/Parametros_Salida2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Captura de pantalla 2024-01-29 180009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/PrediccioPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Prediccion_Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreNotes/CalculsArrayReals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreNotes/RegistreNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreNotes/RegistreNotes_mod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/RegistreTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/UF2_ AEA1_PR1 - Registre temperatures (4).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/SimpleXMLParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_funciones/NumeroMasGrande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/Examen_arrays1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/Examen_arrays2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/FH_Stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/FernandoHernandez_Stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/FernandoHernandez_TablaMultiplicar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/FernandoHernandez_TaulaMultiplicar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/FernandoHernandez_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/MP03 - UF1  Loops test2 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/Stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/Stop2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Adivina_semaforo/AdivSema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Adivina_semaforo/AdivSema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Adivina_semaforo/AdivinaFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Adivina_semaforo/UF1_ AEA2_AA22 - Endevina N.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/Areas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/Areas2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/Calculo_Areas2_Hernandez_Lopez_Fernando.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/Calculo_Areas_Hernandez_Lopez_Fernando.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/EXPLICACION DEL EJERCICIO AREAS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/EXPLICACION DEL EJERCICIO AREAS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Areas/UF1_ AEA2_PR4 - Càlcul d_àrees.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/UF1_AEA2_PR14 - Arrays.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo1For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo1While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo2For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo2While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo3For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo3While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo4For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemplo4While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemploclase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Arrays/ejemploclase2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/BubbleSort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/CincoPalabras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Corred_Insensatos/ACT1-CorredInsensatos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Corred_Insensatos/Corred.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Corred_Insensatos/Corred.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Corred_Insensatos/UF1_ AEA1_PR1 - Corred insensatos.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Descuento/Descuento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Descuento/UF1_ AEA2_PR3 - Descomptes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Descuento_Control_Errores/DesConErroes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Descuento_Control_Errores/DesConErrores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dia_de_la_semana/Diadelasemana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dia_de_la_semana/Diadelasemana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dia_de_la_semana/UF1_ AEA2_AA12 - Dies setmana.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dias_del_mes/Diasdelmes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dias_del_mes/Diasdelmes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Dias_del_mes/UF1_ AEA2_AA13 - Dies del mes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/DoWhileEjemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/DoWhileEjemplo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/EjemploDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/ValorFitat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplo_Dowhile/ValorFitat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplos_Arrays/LectorSequencia2ACT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Ejemplos_Arrays/LectorSequenciaACT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Encontrar_max_min/Encontrar_min_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Encontrar_max_min/Encontrar_min_max.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Encontrar_max_min/Encontrar_min_max_orden.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Encontrar_max_min/Encontrar_min_max_orden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Encontrar_max_min/UF1_AEA2_PR15 - Trobar max i min.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/HolaMon/HolaMon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/HolaMon/HolaMon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/HolaMon/UF1_ AEA1_AA1 - Hello world!.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposteriores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposteriores.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresDoWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/Imp10numposterioresWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_num_posteriores/UF1_ AEA2_AA20 - Imprimir 10 nombres seguits posteriors.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_numeos/Imprimir10numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_numeos/Imprimir10numeros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Imprimir_10_numeos/UF1_ AEA2_AA19 - Imprimir 10 nombres seguits.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Inicio_Vectores/InicioVectores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_canviovalores/Matrices_canviovalores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_canviovalores/Matrices_canviovalores.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_ejemplo/exempleMatrius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_filaspares/Matrices_filaspares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_filaspares/Matrices_filaspares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_filaspares/UF1_AEA2_PR16- Matrius.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_filycolpares/Matrices_filycolpares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Matrices_filycolpares/Matrices_filycolpares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Media_Aritmética/Media_Aritmetica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Media_suspensos_ordenados/Media_suspensos_ordenados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Media_suspensos_ordenados/Media_suspensos_ordenados.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Media_suspensos_ordenados/UF1_ AEA2_AA28 - Mitjana Suspesos Ordenats.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Modulo/Modulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Modulo/Modulo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Multiplicacion/Multiplicacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Multiplicacion/Multiplicacion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Multiplicacion/UF1_ AEA1_AA6 - Multiplicació dinàmica.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Multiplicacion/UF1_ AEA2_AA4 - Multiplicació 3 nombres.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Nota10/Nota10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Nota_Maxima/NotaMaxima.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Nota_maxima.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Num_mas_alto_bajo/ArrayEjercico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Num_mas_alto_bajo/Buscar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numero_Mas_Grande/Nmg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numero_Mas_Grande/NombreMesGran.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numero_Mas_Grande/NumeroMasGrande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numero_Mas_Grande/NumeroMasGrande.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numero_Mas_Grande/UF1_ AEA2_AA14 - NombreMesGran.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numeros_Reales_Iguales/NumerosRealesIguales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Numeros_Reales_Iguales/NumerosRealesIguales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Palabras/palabras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Palabras/palabrasbuscar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Penalizacion/Penalizacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Penalizacion/UF1_ AEA2_AA5 - Penalització.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/Potencias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/Potencias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/PotenciasDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/PotenciasDoWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/PotenciasWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/PotenciasWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Potencias/UF1_ AEA2_AA21 - Potencies.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/MP03 - UF1 Activitats - copia.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/MP03 - UF1 Activitats.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/PrediccionPersona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/Prediccion_Persona_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/Prediccion_persona.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/UF1_ AEA2_PR5 - Predicció persona.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Prediccion_Persona/errorMp03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Bandera_Americana/BanderaAmericanaWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Diamond/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Diamond/Diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Diamond/DiamondWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Diamond/DiamondWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Dibujo_Estrellas/DibujoEstrellas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Dibujo_Estrellas/DibujoEstrellas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangul_Rectangulo/TrianguloRectanguloWhile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Centrado/TrianguloCentrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Centrado/TrianguloCentrado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Invertido/TrianguloInvertidoFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumeroFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre/TrianguloNumeroFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre/UF1_ AEA2_PR11 - Programat formes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRepFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/Triangulo_Nombre_Repetido/TriNomRepFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Programando_Formas/UF1_ AEA2_PR11 - Programat formes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/RETOS_Practica/Creciente_Decreciente/CrecienteDecreciente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/RETOS_Practica/UF1_ AEA2_PR7 - Repàs estructures bàsiques programació.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/RETOS_Practica/movil/movil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/RETOS_Practica/movil/movil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Suma_y_media/Sumaymedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Suma_y_media/Sumaymedia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Suma_y_media/UF1_ AEA2_AA11 - Suma i mitjana.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Sumar_Multiplos_3_For/SumarMultiplosTresFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Sumar_Multiplos_3_For/SumarMultiplosTresFor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Sumar_Multiplos_Tres/SumarMultiplosTres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Sumar_Multiplos_Tres/SumarMultiplosTres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Sumar_Multiplos_Tres/UF1_ AEA2_PR9 - Loops.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Suspenso/Suspenso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Switch/Diadelmesswitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Switch/Diadelmesswitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Switch/UF1_ AEA2_PR6 - Switch.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Tabla_Multiplicar/TablaMultiplicar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Tabla_Multiplicar_Invertida/TablaMultiplicarInvertida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Tabla_booleana/UF1_ AEA2_AA3 - Taula booleana OR.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Taula_Veritat/TaulaVeritat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Taula_Veritat/TaulaVeritat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Taula_Veritat/UF1_ AEA1_PR2 - Taula de la veritat.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Variables/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vector_char/UF1_ AEA2_AA27 - Sense vocals.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vector_char/VectorChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vector_invertido/UF1_ AEA2_AA29 - Vector invertit.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vector_invertido/Vector_invertido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vector_invertido/Vector_invertido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vocal_Consonante/UF1_ AEA2_AA15 - Vocal Consonant.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vocal_Consonante/VocalConsonante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/Vocal_Consonante/VocalConsonante.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/While_cubo/WhileCubo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_1/While_ejemplo/EstructurasRepeticionEjemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/Captura de pantalla 2024-01-29 175621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/CalculMinMaxMediana/UF2_ AEA1_AA1 - Activitats programació modular repàs.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Calcular_Areas/Areas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Calcular_Areas/CalculArees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Calcular_Areas/Captura de pantalla 2024-01-29 180237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Eliminar_elemento/Eliminar_elemento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/LlegirEnters/LlegirEnters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/LlegirEnters/UF2_ AEA1_AA3 - Llegir reals.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/NotaenText/NotaenText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/NotaenText/UF2_ AEA1_AA1 - Activitats programació modular repàs.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Parametros_Salida/Parametros_Salida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Parametros_Salida/Parametros_Salida2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Prediccion_persona/Captura de pantalla 2024-01-29 180009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Prediccion_persona/PrediccioPersona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/Prediccion_persona/Prediccion_Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/RegistreTemperatures/RegistreTemperatures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UF_2/RegistreTemperatures/UF2_ AEA1_PR1 - Registre temperatures (4).docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +574,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,17 +592,32 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Areas.executor": "Run",
+    "Application.Areas_mod.executor": "Run",
     "Application.CalculMinMaxMediana.executor": "Run",
+    "Application.Ej_1.executor": "Run",
+    "Application.Eje_1.executor": "Run",
+    "Application.Eje_2.executor": "Run",
+    "Application.Eje_3.executor": "Run",
+    "Application.Eje_4.executor": "Run",
+    "Application.Eje_5.executor": "Run",
+    "Application.Eje_6.executor": "Run",
     "Application.Ejercicio_7.executor": "Run",
     "Application.Eliminar_elemento.executor": "Run",
     "Application.Examen_arrays1.executor": "Run",
     "Application.Examen_arrays2.executor": "Run",
+    "Application.FernandoHernandez_TaulaMultiplicar.executor": "Run",
     "Application.LlegirEnters.executor": "Run",
+    "Application.Loops_1.executor": "Run",
+    "Application.Loops_2.executor": "Run",
     "Application.NotaMaxima.executor": "Run",
     "Application.NotaenText.executor": "Run",
     "Application.NumeroMasGrande.executor": "Run",
     "Application.PrediccioPersona.executor": "Run",
     "Application.Prediccion_Persona.executor": "Run",
+    "Application.RegistreNotes.executor": "Run",
+    "Application.RegistreNotes_mod.executor": "Run",
+    "Application.SimpleXMLParser.executor": "Run",
+    "Application.Stop2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -139,7 +705,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707083622123</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1707086152685</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707086152685</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

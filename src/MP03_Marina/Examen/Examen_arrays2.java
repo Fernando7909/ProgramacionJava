@@ -9,6 +9,8 @@ public class Examen_arrays2 {
         boolean Medida = false;
         boolean Medida1 = false;
         boolean Medida2 = false;
+        boolean Medida3 = false;
+        //boolean Medida3 = false;
         int numero_buscar = 0;
 
 
@@ -46,18 +48,19 @@ public class Examen_arrays2 {
                 Medida2 = true;
             }
             else {
-                System.out.println("ERROR! Has introducido un valor equivocado.");
+                System.out.println("ERROR! Has introducido un valor equivocado. Vuelve a intentarlo");
                 lector.next();
             }
         }
-        for (int i = 0; i < array_int.length; i++){
-            if (numero_buscar == array_int[i]){
-                System.out.println("El valor " + array_int[i] + " se encontró en la posición " + i + " del vector");
+        for (int j = 0; j < array_int.length; j++) {
+            if (array_int[j] == numero_buscar) {
+                System.out.println("El valor " + numero_buscar + " se encontró en la posición " + j + " del vector");
+                Medida3 = true;
+                //break;
             }
-            else {
+        }
+        if (!Medida3){
                 System.out.println("El valor " + numero_buscar + " no se encontro en el vector.");
-                break;
-            }
         }
     }
 }
