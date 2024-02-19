@@ -1,9 +1,8 @@
-/*Adivina el personaje
+package MP03_Marina.EJERCICIOS_REPASO_ARRAYS.Ejercicios_repaso_Arrays_4;/*Adivina el personaje
 Escribe un programa que cree un ArrayList de caracteres (elige tantos como quieras).
-
 Ahora permita que el usuario ingrese caracteres para adivinar qué caracteres están en la lista de matrices.
-
-Permítale continuar adivinando hasta que haya ingresado todos los caracteres de la lista (punto extra: imprima al final cuantos intentos hizo).*/
+Permítale continuar adivinando hasta que haya ingresado todos los caracteres de la lista
+(punto extra: imprima al final cuantos intentos hizo).*/
 
 import java.util.Scanner;
 

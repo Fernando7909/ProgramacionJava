@@ -1,0 +1,8002 @@
+[
+    {
+        "titulo": "Libro 1",
+        "autor": "Autor 1",
+        "isbn": "978-7407964915",
+        "paginas": 100,
+        "precio": 15,
+        "ventas": 44032
+    },
+    {
+        "titulo": "Libro 2",
+        "autor": "Autor 2",
+        "isbn": "978-4561473377",
+        "paginas": 443,
+        "precio": 15,
+        "ventas": 6154
+    },
+    {
+        "titulo": "Libro 3",
+        "autor": "Autor 3",
+        "isbn": "978-5809040817",
+        "paginas": 213,
+        "precio": 15,
+        "ventas": 7197
+    },
+    {
+        "titulo": "Libro 4",
+        "autor": "Autor 4",
+        "isbn": "978-7005610774",
+        "paginas": 166,
+        "precio": 15,
+        "ventas": 19438
+    },
+    {
+        "titulo": "Libro 5",
+        "autor": "Autor 5",
+        "isbn": "978-8497730745",
+        "paginas": 426,
+        "precio": 15,
+        "ventas": 12288
+    },
+    {
+        "titulo": "Libro 6",
+        "autor": "Autor 6",
+        "isbn": "978-5179792222",
+        "paginas": 89,
+        "precio": 20,
+        "ventas": 58783
+    },
+    {
+        "titulo": "Libro 7",
+        "autor": "Autor 7",
+        "isbn": "978-0612595586",
+        "paginas": 252,
+        "precio": 30,
+        "ventas": 18697
+    },
+    {
+        "titulo": "Libro 8",
+        "autor": "Autor 8",
+        "isbn": "978-9913953516",
+        "paginas": 147,
+        "precio": 40,
+        "ventas": 17404
+    },
+    {
+        "titulo": "Libro 9",
+        "autor": "Autor 9",
+        "isbn": "978-4778874674",
+        "paginas": 356,
+        "precio": 25,
+        "ventas": 20068
+    },
+    {
+        "titulo": "Libro 10",
+        "autor": "Autor 10",
+        "isbn": "978-9133137685",
+        "paginas": 358,
+        "precio": 15,
+        "ventas": 9806
+    },
+    {
+        "titulo": "Libro 11",
+        "autor": "Autor 11",
+        "isbn": "978-3216931389",
+        "paginas": 192,
+        "precio": 15,
+        "ventas": 21208
+    },
+    {
+        "titulo": "Libro 12",
+        "autor": "Autor 12",
+        "isbn": "978-6715304379",
+        "paginas": 595,
+        "precio": 25,
+        "ventas": 35347
+    },
+    {
+        "titulo": "Libro 13",
+        "autor": "Autor 13",
+        "isbn": "978-6754573489",
+        "paginas": 520,
+        "precio": 10,
+        "ventas": 5610
+    },
+    {
+        "titulo": "Libro 14",
+        "autor": "Autor 14",
+        "isbn": "978-2457013690",
+        "paginas": 263,
+        "precio": 35,
+        "ventas": 16790
+    },
+    {
+        "titulo": "Libro 15",
+        "autor": "Autor 15",
+        "isbn": "978-4101989816",
+        "paginas": 574,
+        "precio": 15,
+        "ventas": 40530
+    },
+    {
+        "titulo": "Libro 16",
+        "autor": "Autor 16",
+        "isbn": "978-8796171090",
+        "paginas": 370,
+        "precio": 20,
+        "ventas": 59963
+    },
+    {
+        "titulo": "Libro 17",
+        "autor": "Autor 17",
+        "isbn": "978-9158432077",
+        "paginas": 210,
+        "precio": 25,
+        "ventas": 27155
+    },
+    {
+        "titulo": "Libro 18",
+        "autor": "Autor 18",
+        "isbn": "978-5733183150",
+        "paginas": 270,
+        "precio": 30,
+        "ventas": 52794
+    },
+    {
+        "titulo": "Libro 19",
+        "autor": "Autor 19",
+        "isbn": "978-4084003232",
+        "paginas": 232,
+        "precio": 20,
+        "ventas": 7180
+    },
+    {
+        "titulo": "Libro 20",
+        "autor": "Autor 20",
+        "isbn": "978-1367429978",
+        "paginas": 537,
+        "precio": 10,
+        "ventas": 31550
+    },
+    {
+        "titulo": "Libro 21",
+        "autor": "Autor 21",
+        "isbn": "978-9357811410",
+        "paginas": 289,
+        "precio": 20,
+        "ventas": 5428
+    },
+    {
+        "titulo": "Libro 22",
+        "autor": "Autor 22",
+        "isbn": "978-1917282968",
+        "paginas": 527,
+        "precio": 20,
+        "ventas": 35565
+    },
+    {
+        "titulo": "Libro 23",
+        "autor": "Autor 23",
+        "isbn": "978-3540106959",
+        "paginas": 275,
+        "precio": 35,
+        "ventas": 55391
+    },
+    {
+        "titulo": "Libro 24",
+        "autor": "Autor 24",
+        "isbn": "978-0384755478",
+        "paginas": 295,
+        "precio": 30,
+        "ventas": 22550
+    },
+    {
+        "titulo": "Libro 25",
+        "autor": "Autor 25",
+        "isbn": "978-8669667353",
+        "paginas": 130,
+        "precio": 35,
+        "ventas": 21463
+    },
+    {
+        "titulo": "Libro 26",
+        "autor": "Autor 26",
+        "isbn": "978-9049490427",
+        "paginas": 263,
+        "precio": 25,
+        "ventas": 32418
+    },
+    {
+        "titulo": "Libro 27",
+        "autor": "Autor 27",
+        "isbn": "978-1480475584",
+        "paginas": 271,
+        "precio": 15,
+        "ventas": 4868
+    },
+    {
+        "titulo": "Libro 28",
+        "autor": "Autor 28",
+        "isbn": "978-3654308770",
+        "paginas": 452,
+        "precio": 20,
+        "ventas": 20363
+    },
+    {
+        "titulo": "Libro 29",
+        "autor": "Autor 29",
+        "isbn": "978-8378373291",
+        "paginas": 528,
+        "precio": 30,
+        "ventas": 30061
+    },
+    {
+        "titulo": "Libro 30",
+        "autor": "Autor 30",
+        "isbn": "978-3059173686",
+        "paginas": 324,
+        "precio": 30,
+        "ventas": 27106
+    },
+    {
+        "titulo": "Libro 31",
+        "autor": "Autor 31",
+        "isbn": "978-3000805637",
+        "paginas": 290,
+        "precio": 25,
+        "ventas": 49618
+    },
+    {
+        "titulo": "Libro 32",
+        "autor": "Autor 32",
+        "isbn": "978-1201240552",
+        "paginas": 122,
+        "precio": 40,
+        "ventas": 51346
+    },
+    {
+        "titulo": "Libro 33",
+        "autor": "Autor 33",
+        "isbn": "978-8555721915",
+        "paginas": 415,
+        "precio": 10,
+        "ventas": 1911
+    },
+    {
+        "titulo": "Libro 34",
+        "autor": "Autor 34",
+        "isbn": "978-8931142119",
+        "paginas": 522,
+        "precio": 25,
+        "ventas": 55349
+    },
+    {
+        "titulo": "Libro 35",
+        "autor": "Autor 35",
+        "isbn": "978-6907109301",
+        "paginas": 311,
+        "precio": 10,
+        "ventas": 49697
+    },
+    {
+        "titulo": "Libro 36",
+        "autor": "Autor 36",
+        "isbn": "978-8623106222",
+        "paginas": 150,
+        "precio": 20,
+        "ventas": 48762
+    },
+    {
+        "titulo": "Libro 37",
+        "autor": "Autor 37",
+        "isbn": "978-0496895146",
+        "paginas": 489,
+        "precio": 15,
+        "ventas": 31854
+    },
+    {
+        "titulo": "Libro 38",
+        "autor": "Autor 38",
+        "isbn": "978-9471718888",
+        "paginas": 562,
+        "precio": 15,
+        "ventas": 43958
+    },
+    {
+        "titulo": "Libro 39",
+        "autor": "Autor 39",
+        "isbn": "978-6173426712",
+        "paginas": 229,
+        "precio": 10,
+        "ventas": 26281
+    },
+    {
+        "titulo": "Libro 40",
+        "autor": "Autor 40",
+        "isbn": "978-5694330249",
+        "paginas": 394,
+        "precio": 40,
+        "ventas": 24957
+    },
+    {
+        "titulo": "Libro 41",
+        "autor": "Autor 41",
+        "isbn": "978-9087956988",
+        "paginas": 524,
+        "precio": 30,
+        "ventas": 43927
+    },
+    {
+        "titulo": "Libro 42",
+        "autor": "Autor 42",
+        "isbn": "978-9113426359",
+        "paginas": 453,
+        "precio": 25,
+        "ventas": 34528
+    },
+    {
+        "titulo": "Libro 43",
+        "autor": "Autor 43",
+        "isbn": "978-4867854956",
+        "paginas": 197,
+        "precio": 10,
+        "ventas": 49276
+    },
+    {
+        "titulo": "Libro 44",
+        "autor": "Autor 44",
+        "isbn": "978-2190725345",
+        "paginas": 97,
+        "precio": 40,
+        "ventas": 22793
+    },
+    {
+        "titulo": "Libro 45",
+        "autor": "Autor 45",
+        "isbn": "978-8245402689",
+        "paginas": 480,
+        "precio": 20,
+        "ventas": 43806
+    },
+    {
+        "titulo": "Libro 46",
+        "autor": "Autor 46",
+        "isbn": "978-4532066157",
+        "paginas": 392,
+        "precio": 35,
+        "ventas": 34746
+    },
+    {
+        "titulo": "Libro 47",
+        "autor": "Autor 47",
+        "isbn": "978-3772742098",
+        "paginas": 414,
+        "precio": 35,
+        "ventas": 47519
+    },
+    {
+        "titulo": "Libro 48",
+        "autor": "Autor 48",
+        "isbn": "978-8527690094",
+        "paginas": 235,
+        "precio": 20,
+        "ventas": 28862
+    },
+    {
+        "titulo": "Libro 49",
+        "autor": "Autor 49",
+        "isbn": "978-4249531273",
+        "paginas": 249,
+        "precio": 35,
+        "ventas": 51296
+    },
+    {
+        "titulo": "Libro 50",
+        "autor": "Autor 50",
+        "isbn": "978-1997875166",
+        "paginas": 501,
+        "precio": 30,
+        "ventas": 46544
+    },
+    {
+        "titulo": "Libro 51",
+        "autor": "Autor 51",
+        "isbn": "978-3549878292",
+        "paginas": 575,
+        "precio": 30,
+        "ventas": 2092
+    },
+    {
+        "titulo": "Libro 52",
+        "autor": "Autor 52",
+        "isbn": "978-9041752515",
+        "paginas": 275,
+        "precio": 40,
+        "ventas": 21993
+    },
+    {
+        "titulo": "Libro 53",
+        "autor": "Autor 53",
+        "isbn": "978-8206583668",
+        "paginas": 228,
+        "precio": 40,
+        "ventas": 39891
+    },
+    {
+        "titulo": "Libro 54",
+        "autor": "Autor 54",
+        "isbn": "978-2239191188",
+        "paginas": 103,
+        "precio": 40,
+        "ventas": 45584
+    },
+    {
+        "titulo": "Libro 55",
+        "autor": "Autor 55",
+        "isbn": "978-9427187370",
+        "paginas": 132,
+        "precio": 10,
+        "ventas": 32598
+    },
+    {
+        "titulo": "Libro 56",
+        "autor": "Autor 56",
+        "isbn": "978-4396840385",
+        "paginas": 520,
+        "precio": 40,
+        "ventas": 41461
+    },
+    {
+        "titulo": "Libro 57",
+        "autor": "Autor 57",
+        "isbn": "978-1351695390",
+        "paginas": 366,
+        "precio": 20,
+        "ventas": 38324
+    },
+    {
+        "titulo": "Libro 58",
+        "autor": "Autor 58",
+        "isbn": "978-8178875390",
+        "paginas": 339,
+        "precio": 40,
+        "ventas": 26187
+    },
+    {
+        "titulo": "Libro 59",
+        "autor": "Autor 59",
+        "isbn": "978-3230983975",
+        "paginas": 153,
+        "precio": 40,
+        "ventas": 7237
+    },
+    {
+        "titulo": "Libro 60",
+        "autor": "Autor 60",
+        "isbn": "978-9412113416",
+        "paginas": 243,
+        "precio": 30,
+        "ventas": 59785
+    },
+    {
+        "titulo": "Libro 61",
+        "autor": "Autor 61",
+        "isbn": "978-5934517257",
+        "paginas": 418,
+        "precio": 35,
+        "ventas": 55762
+    },
+    {
+        "titulo": "Libro 62",
+        "autor": "Autor 62",
+        "isbn": "978-3003988795",
+        "paginas": 317,
+        "precio": 40,
+        "ventas": 57985
+    },
+    {
+        "titulo": "Libro 63",
+        "autor": "Autor 63",
+        "isbn": "978-2487794126",
+        "paginas": 500,
+        "precio": 40,
+        "ventas": 32734
+    },
+    {
+        "titulo": "Libro 64",
+        "autor": "Autor 64",
+        "isbn": "978-3170803171",
+        "paginas": 600,
+        "precio": 40,
+        "ventas": 12104
+    },
+    {
+        "titulo": "Libro 65",
+        "autor": "Autor 65",
+        "isbn": "978-7724567686",
+        "paginas": 104,
+        "precio": 10,
+        "ventas": 378
+    },
+    {
+        "titulo": "Libro 66",
+        "autor": "Autor 66",
+        "isbn": "978-0989940655",
+        "paginas": 107,
+        "precio": 25,
+        "ventas": 8176
+    },
+    {
+        "titulo": "Libro 67",
+        "autor": "Autor 67",
+        "isbn": "978-3288480030",
+        "paginas": 234,
+        "precio": 35,
+        "ventas": 49660
+    },
+    {
+        "titulo": "Libro 68",
+        "autor": "Autor 68",
+        "isbn": "978-5582918032",
+        "paginas": 215,
+        "precio": 30,
+        "ventas": 37890
+    },
+    {
+        "titulo": "Libro 69",
+        "autor": "Autor 69",
+        "isbn": "978-2668697535",
+        "paginas": 231,
+        "precio": 20,
+        "ventas": 27521
+    },
+    {
+        "titulo": "Libro 70",
+        "autor": "Autor 70",
+        "isbn": "978-0196995280",
+        "paginas": 597,
+        "precio": 30,
+        "ventas": 54776
+    },
+    {
+        "titulo": "Libro 71",
+        "autor": "Autor 71",
+        "isbn": "978-4614366897",
+        "paginas": 188,
+        "precio": 40,
+        "ventas": 9046
+    },
+    {
+        "titulo": "Libro 72",
+        "autor": "Autor 72",
+        "isbn": "978-7393315345",
+        "paginas": 506,
+        "precio": 15,
+        "ventas": 45438
+    },
+    {
+        "titulo": "Libro 73",
+        "autor": "Autor 73",
+        "isbn": "978-8807195015",
+        "paginas": 176,
+        "precio": 25,
+        "ventas": 29301
+    },
+    {
+        "titulo": "Libro 74",
+        "autor": "Autor 74",
+        "isbn": "978-6691702431",
+        "paginas": 200,
+        "precio": 20,
+        "ventas": 38514
+    },
+    {
+        "titulo": "Libro 75",
+        "autor": "Autor 75",
+        "isbn": "978-8336239614",
+        "paginas": 597,
+        "precio": 40,
+        "ventas": 44675
+    },
+    {
+        "titulo": "Libro 76",
+        "autor": "Autor 76",
+        "isbn": "978-4930481070",
+        "paginas": 94,
+        "precio": 40,
+        "ventas": 44833
+    },
+    {
+        "titulo": "Libro 77",
+        "autor": "Autor 77",
+        "isbn": "978-9672554934",
+        "paginas": 189,
+        "precio": 40,
+        "ventas": 8216
+    },
+    {
+        "titulo": "Libro 78",
+        "autor": "Autor 78",
+        "isbn": "978-1953557090",
+        "paginas": 497,
+        "precio": 35,
+        "ventas": 46399
+    },
+    {
+        "titulo": "Libro 79",
+        "autor": "Autor 79",
+        "isbn": "978-3947213967",
+        "paginas": 348,
+        "precio": 30,
+        "ventas": 11014
+    },
+    {
+        "titulo": "Libro 80",
+        "autor": "Autor 80",
+        "isbn": "978-5708808478",
+        "paginas": 478,
+        "precio": 35,
+        "ventas": 482
+    },
+    {
+        "titulo": "Libro 81",
+        "autor": "Autor 81",
+        "isbn": "978-9239577105",
+        "paginas": 176,
+        "precio": 20,
+        "ventas": 38576
+    },
+    {
+        "titulo": "Libro 82",
+        "autor": "Autor 82",
+        "isbn": "978-3621181028",
+        "paginas": 357,
+        "precio": 15,
+        "ventas": 37360
+    },
+    {
+        "titulo": "Libro 83",
+        "autor": "Autor 83",
+        "isbn": "978-4309213726",
+        "paginas": 167,
+        "precio": 10,
+        "ventas": 9620
+    },
+    {
+        "titulo": "Libro 84",
+        "autor": "Autor 84",
+        "isbn": "978-6699796351",
+        "paginas": 269,
+        "precio": 20,
+        "ventas": 17614
+    },
+    {
+        "titulo": "Libro 85",
+        "autor": "Autor 85",
+        "isbn": "978-2269784799",
+        "paginas": 286,
+        "precio": 40,
+        "ventas": 37222
+    },
+    {
+        "titulo": "Libro 86",
+        "autor": "Autor 86",
+        "isbn": "978-0247286509",
+        "paginas": 441,
+        "precio": 15,
+        "ventas": 43195
+    },
+    {
+        "titulo": "Libro 87",
+        "autor": "Autor 87",
+        "isbn": "978-2817219639",
+        "paginas": 237,
+        "precio": 35,
+        "ventas": 21551
+    },
+    {
+        "titulo": "Libro 88",
+        "autor": "Autor 88",
+        "isbn": "978-4707975536",
+        "paginas": 595,
+        "precio": 35,
+        "ventas": 56608
+    },
+    {
+        "titulo": "Libro 89",
+        "autor": "Autor 89",
+        "isbn": "978-4493921986",
+        "paginas": 177,
+        "precio": 40,
+        "ventas": 57462
+    },
+    {
+        "titulo": "Libro 90",
+        "autor": "Autor 90",
+        "isbn": "978-0652655948",
+        "paginas": 435,
+        "precio": 15,
+        "ventas": 32100
+    },
+    {
+        "titulo": "Libro 91",
+        "autor": "Autor 91",
+        "isbn": "978-8968534220",
+        "paginas": 249,
+        "precio": 40,
+        "ventas": 1958
+    },
+    {
+        "titulo": "Libro 92",
+        "autor": "Autor 92",
+        "isbn": "978-8068397830",
+        "paginas": 545,
+        "precio": 25,
+        "ventas": 28145
+    },
+    {
+        "titulo": "Libro 93",
+        "autor": "Autor 93",
+        "isbn": "978-5194586475",
+        "paginas": 406,
+        "precio": 30,
+        "ventas": 17918
+    },
+    {
+        "titulo": "Libro 94",
+        "autor": "Autor 94",
+        "isbn": "978-9970235472",
+        "paginas": 401,
+        "precio": 20,
+        "ventas": 7108
+    },
+    {
+        "titulo": "Libro 95",
+        "autor": "Autor 95",
+        "isbn": "978-2934096811",
+        "paginas": 217,
+        "precio": 30,
+        "ventas": 13481
+    },
+    {
+        "titulo": "Libro 96",
+        "autor": "Autor 96",
+        "isbn": "978-1996587445",
+        "paginas": 317,
+        "precio": 15,
+        "ventas": 44360
+    },
+    {
+        "titulo": "Libro 97",
+        "autor": "Autor 97",
+        "isbn": "978-4590647303",
+        "paginas": 151,
+        "precio": 40,
+        "ventas": 23542
+    },
+    {
+        "titulo": "Libro 98",
+        "autor": "Autor 98",
+        "isbn": "978-2384549870",
+        "paginas": 134,
+        "precio": 30,
+        "ventas": 8212
+    },
+    {
+        "titulo": "Libro 99",
+        "autor": "Autor 99",
+        "isbn": "978-5710683301",
+        "paginas": 545,
+        "precio": 35,
+        "ventas": 10542
+    },
+    {
+        "titulo": "Libro 100",
+        "autor": "Autor 100",
+        "isbn": "978-1439023007",
+        "paginas": 146,
+        "precio": 25,
+        "ventas": 26900
+    },
+    {
+        "titulo": "Libro 101",
+        "autor": "Autor 101",
+        "isbn": "978-3329596638",
+        "paginas": 362,
+        "precio": 15,
+        "ventas": 40535
+    },
+    {
+        "titulo": "Libro 102",
+        "autor": "Autor 102",
+        "isbn": "978-6521650704",
+        "paginas": 584,
+        "precio": 15,
+        "ventas": 51327
+    },
+    {
+        "titulo": "Libro 103",
+        "autor": "Autor 103",
+        "isbn": "978-0904830457",
+        "paginas": 136,
+        "precio": 10,
+        "ventas": 3412
+    },
+    {
+        "titulo": "Libro 104",
+        "autor": "Autor 104",
+        "isbn": "978-6739868295",
+        "paginas": 350,
+        "precio": 40,
+        "ventas": 52495
+    },
+    {
+        "titulo": "Libro 105",
+        "autor": "Autor 105",
+        "isbn": "978-0998255728",
+        "paginas": 539,
+        "precio": 40,
+        "ventas": 23092
+    },
+    {
+        "titulo": "Libro 106",
+        "autor": "Autor 106",
+        "isbn": "978-9917843943",
+        "paginas": 305,
+        "precio": 35,
+        "ventas": 1729
+    },
+    {
+        "titulo": "Libro 107",
+        "autor": "Autor 107",
+        "isbn": "978-9098049468",
+        "paginas": 395,
+        "precio": 40,
+        "ventas": 26019
+    },
+    {
+        "titulo": "Libro 108",
+        "autor": "Autor 108",
+        "isbn": "978-3931534153",
+        "paginas": 158,
+        "precio": 25,
+        "ventas": 1188
+    },
+    {
+        "titulo": "Libro 109",
+        "autor": "Autor 109",
+        "isbn": "978-2322559588",
+        "paginas": 145,
+        "precio": 30,
+        "ventas": 22148
+    },
+    {
+        "titulo": "Libro 110",
+        "autor": "Autor 110",
+        "isbn": "978-2121362828",
+        "paginas": 539,
+        "precio": 15,
+        "ventas": 52776
+    },
+    {
+        "titulo": "Libro 111",
+        "autor": "Autor 111",
+        "isbn": "978-8015533139",
+        "paginas": 588,
+        "precio": 25,
+        "ventas": 42655
+    },
+    {
+        "titulo": "Libro 112",
+        "autor": "Autor 112",
+        "isbn": "978-5998169460",
+        "paginas": 218,
+        "precio": 35,
+        "ventas": 46723
+    },
+    {
+        "titulo": "Libro 113",
+        "autor": "Autor 113",
+        "isbn": "978-1322496006",
+        "paginas": 310,
+        "precio": 40,
+        "ventas": 16633
+    },
+    {
+        "titulo": "Libro 114",
+        "autor": "Autor 114",
+        "isbn": "978-3354204451",
+        "paginas": 477,
+        "precio": 20,
+        "ventas": 17112
+    },
+    {
+        "titulo": "Libro 115",
+        "autor": "Autor 115",
+        "isbn": "978-1430458717",
+        "paginas": 86,
+        "precio": 35,
+        "ventas": 40309
+    },
+    {
+        "titulo": "Libro 116",
+        "autor": "Autor 116",
+        "isbn": "978-8457191759",
+        "paginas": 491,
+        "precio": 40,
+        "ventas": 57790
+    },
+    {
+        "titulo": "Libro 117",
+        "autor": "Autor 117",
+        "isbn": "978-0194078775",
+        "paginas": 350,
+        "precio": 10,
+        "ventas": 34296
+    },
+    {
+        "titulo": "Libro 118",
+        "autor": "Autor 118",
+        "isbn": "978-6791021586",
+        "paginas": 403,
+        "precio": 20,
+        "ventas": 27577
+    },
+    {
+        "titulo": "Libro 119",
+        "autor": "Autor 119",
+        "isbn": "978-7718982114",
+        "paginas": 149,
+        "precio": 40,
+        "ventas": 35350
+    },
+    {
+        "titulo": "Libro 120",
+        "autor": "Autor 120",
+        "isbn": "978-2896588606",
+        "paginas": 427,
+        "precio": 20,
+        "ventas": 11603
+    },
+    {
+        "titulo": "Libro 121",
+        "autor": "Autor 121",
+        "isbn": "978-2154671727",
+        "paginas": 371,
+        "precio": 25,
+        "ventas": 2915
+    },
+    {
+        "titulo": "Libro 122",
+        "autor": "Autor 122",
+        "isbn": "978-7419961155",
+        "paginas": 397,
+        "precio": 40,
+        "ventas": 46532
+    },
+    {
+        "titulo": "Libro 123",
+        "autor": "Autor 123",
+        "isbn": "978-2608940837",
+        "paginas": 239,
+        "precio": 40,
+        "ventas": 33391
+    },
+    {
+        "titulo": "Libro 124",
+        "autor": "Autor 124",
+        "isbn": "978-5397889291",
+        "paginas": 534,
+        "precio": 15,
+        "ventas": 44159
+    },
+    {
+        "titulo": "Libro 125",
+        "autor": "Autor 125",
+        "isbn": "978-9055761773",
+        "paginas": 427,
+        "precio": 40,
+        "ventas": 53571
+    },
+    {
+        "titulo": "Libro 126",
+        "autor": "Autor 126",
+        "isbn": "978-4353469664",
+        "paginas": 597,
+        "precio": 10,
+        "ventas": 16652
+    },
+    {
+        "titulo": "Libro 127",
+        "autor": "Autor 127",
+        "isbn": "978-3497924576",
+        "paginas": 526,
+        "precio": 25,
+        "ventas": 4980
+    },
+    {
+        "titulo": "Libro 128",
+        "autor": "Autor 128",
+        "isbn": "978-5556493222",
+        "paginas": 120,
+        "precio": 25,
+        "ventas": 52454
+    },
+    {
+        "titulo": "Libro 129",
+        "autor": "Autor 129",
+        "isbn": "978-6607931145",
+        "paginas": 578,
+        "precio": 30,
+        "ventas": 59290
+    },
+    {
+        "titulo": "Libro 130",
+        "autor": "Autor 130",
+        "isbn": "978-1833339759",
+        "paginas": 514,
+        "precio": 20,
+        "ventas": 46907
+    },
+    {
+        "titulo": "Libro 131",
+        "autor": "Autor 131",
+        "isbn": "978-0817639957",
+        "paginas": 121,
+        "precio": 35,
+        "ventas": 55320
+    },
+    {
+        "titulo": "Libro 132",
+        "autor": "Autor 132",
+        "isbn": "978-8634753961",
+        "paginas": 385,
+        "precio": 15,
+        "ventas": 4009
+    },
+    {
+        "titulo": "Libro 133",
+        "autor": "Autor 133",
+        "isbn": "978-1009433815",
+        "paginas": 190,
+        "precio": 10,
+        "ventas": 13535
+    },
+    {
+        "titulo": "Libro 134",
+        "autor": "Autor 134",
+        "isbn": "978-9812580928",
+        "paginas": 497,
+        "precio": 30,
+        "ventas": 44234
+    },
+    {
+        "titulo": "Libro 135",
+        "autor": "Autor 135",
+        "isbn": "978-5972451051",
+        "paginas": 229,
+        "precio": 10,
+        "ventas": 46663
+    },
+    {
+        "titulo": "Libro 136",
+        "autor": "Autor 136",
+        "isbn": "978-4300171421",
+        "paginas": 238,
+        "precio": 30,
+        "ventas": 45241
+    },
+    {
+        "titulo": "Libro 137",
+        "autor": "Autor 137",
+        "isbn": "978-2383873617",
+        "paginas": 473,
+        "precio": 25,
+        "ventas": 34481
+    },
+    {
+        "titulo": "Libro 138",
+        "autor": "Autor 138",
+        "isbn": "978-7903333402",
+        "paginas": 409,
+        "precio": 20,
+        "ventas": 7274
+    },
+    {
+        "titulo": "Libro 139",
+        "autor": "Autor 139",
+        "isbn": "978-5376475770",
+        "paginas": 441,
+        "precio": 40,
+        "ventas": 21957
+    },
+    {
+        "titulo": "Libro 140",
+        "autor": "Autor 140",
+        "isbn": "978-5799434020",
+        "paginas": 489,
+        "precio": 35,
+        "ventas": 16159
+    },
+    {
+        "titulo": "Libro 141",
+        "autor": "Autor 141",
+        "isbn": "978-8460828489",
+        "paginas": 539,
+        "precio": 40,
+        "ventas": 56498
+    },
+    {
+        "titulo": "Libro 142",
+        "autor": "Autor 142",
+        "isbn": "978-6362386319",
+        "paginas": 451,
+        "precio": 35,
+        "ventas": 48370
+    },
+    {
+        "titulo": "Libro 143",
+        "autor": "Autor 143",
+        "isbn": "978-5158266269",
+        "paginas": 577,
+        "precio": 40,
+        "ventas": 48538
+    },
+    {
+        "titulo": "Libro 144",
+        "autor": "Autor 144",
+        "isbn": "978-0775784505",
+        "paginas": 150,
+        "precio": 15,
+        "ventas": 1969
+    },
+    {
+        "titulo": "Libro 145",
+        "autor": "Autor 145",
+        "isbn": "978-9924137111",
+        "paginas": 244,
+        "precio": 40,
+        "ventas": 14332
+    },
+    {
+        "titulo": "Libro 146",
+        "autor": "Autor 146",
+        "isbn": "978-0627708566",
+        "paginas": 111,
+        "precio": 30,
+        "ventas": 23602
+    },
+    {
+        "titulo": "Libro 147",
+        "autor": "Autor 147",
+        "isbn": "978-3295722401",
+        "paginas": 257,
+        "precio": 35,
+        "ventas": 25910
+    },
+    {
+        "titulo": "Libro 148",
+        "autor": "Autor 148",
+        "isbn": "978-5920881171",
+        "paginas": 305,
+        "precio": 15,
+        "ventas": 45459
+    },
+    {
+        "titulo": "Libro 149",
+        "autor": "Autor 149",
+        "isbn": "978-0159866037",
+        "paginas": 572,
+        "precio": 35,
+        "ventas": 20294
+    },
+    {
+        "titulo": "Libro 150",
+        "autor": "Autor 150",
+        "isbn": "978-9412715510",
+        "paginas": 81,
+        "precio": 10,
+        "ventas": 54501
+    },
+    {
+        "titulo": "Libro 151",
+        "autor": "Autor 151",
+        "isbn": "978-0233946794",
+        "paginas": 586,
+        "precio": 25,
+        "ventas": 59096
+    },
+    {
+        "titulo": "Libro 152",
+        "autor": "Autor 152",
+        "isbn": "978-1768305492",
+        "paginas": 106,
+        "precio": 25,
+        "ventas": 58363
+    },
+    {
+        "titulo": "Libro 153",
+        "autor": "Autor 153",
+        "isbn": "978-4489204779",
+        "paginas": 134,
+        "precio": 20,
+        "ventas": 31719
+    },
+    {
+        "titulo": "Libro 154",
+        "autor": "Autor 154",
+        "isbn": "978-4206229716",
+        "paginas": 565,
+        "precio": 35,
+        "ventas": 343
+    },
+    {
+        "titulo": "Libro 155",
+        "autor": "Autor 155",
+        "isbn": "978-0079579072",
+        "paginas": 223,
+        "precio": 35,
+        "ventas": 3349
+    },
+    {
+        "titulo": "Libro 156",
+        "autor": "Autor 156",
+        "isbn": "978-3448295420",
+        "paginas": 344,
+        "precio": 30,
+        "ventas": 19948
+    },
+    {
+        "titulo": "Libro 157",
+        "autor": "Autor 157",
+        "isbn": "978-3271217558",
+        "paginas": 460,
+        "precio": 35,
+        "ventas": 40131
+    },
+    {
+        "titulo": "Libro 158",
+        "autor": "Autor 158",
+        "isbn": "978-0699371490",
+        "paginas": 476,
+        "precio": 20,
+        "ventas": 17025
+    },
+    {
+        "titulo": "Libro 159",
+        "autor": "Autor 159",
+        "isbn": "978-9274139499",
+        "paginas": 134,
+        "precio": 40,
+        "ventas": 55818
+    },
+    {
+        "titulo": "Libro 160",
+        "autor": "Autor 160",
+        "isbn": "978-5113640335",
+        "paginas": 335,
+        "precio": 10,
+        "ventas": 52260
+    },
+    {
+        "titulo": "Libro 161",
+        "autor": "Autor 161",
+        "isbn": "978-9928713472",
+        "paginas": 157,
+        "precio": 25,
+        "ventas": 30286
+    },
+    {
+        "titulo": "Libro 162",
+        "autor": "Autor 162",
+        "isbn": "978-2756892091",
+        "paginas": 141,
+        "precio": 20,
+        "ventas": 12263
+    },
+    {
+        "titulo": "Libro 163",
+        "autor": "Autor 163",
+        "isbn": "978-2165175300",
+        "paginas": 156,
+        "precio": 40,
+        "ventas": 9448
+    },
+    {
+        "titulo": "Libro 164",
+        "autor": "Autor 164",
+        "isbn": "978-2942270636",
+        "paginas": 504,
+        "precio": 40,
+        "ventas": 8433
+    },
+    {
+        "titulo": "Libro 165",
+        "autor": "Autor 165",
+        "isbn": "978-9466227576",
+        "paginas": 200,
+        "precio": 20,
+        "ventas": 16797
+    },
+    {
+        "titulo": "Libro 166",
+        "autor": "Autor 166",
+        "isbn": "978-8131232548",
+        "paginas": 525,
+        "precio": 40,
+        "ventas": 38328
+    },
+    {
+        "titulo": "Libro 167",
+        "autor": "Autor 167",
+        "isbn": "978-7912460958",
+        "paginas": 586,
+        "precio": 15,
+        "ventas": 29011
+    },
+    {
+        "titulo": "Libro 168",
+        "autor": "Autor 168",
+        "isbn": "978-8153432797",
+        "paginas": 540,
+        "precio": 35,
+        "ventas": 40182
+    },
+    {
+        "titulo": "Libro 169",
+        "autor": "Autor 169",
+        "isbn": "978-2898262537",
+        "paginas": 567,
+        "precio": 40,
+        "ventas": 55053
+    },
+    {
+        "titulo": "Libro 170",
+        "autor": "Autor 170",
+        "isbn": "978-2780547911",
+        "paginas": 472,
+        "precio": 10,
+        "ventas": 30743
+    },
+    {
+        "titulo": "Libro 171",
+        "autor": "Autor 171",
+        "isbn": "978-6749913946",
+        "paginas": 381,
+        "precio": 40,
+        "ventas": 9903
+    },
+    {
+        "titulo": "Libro 172",
+        "autor": "Autor 172",
+        "isbn": "978-5435864100",
+        "paginas": 473,
+        "precio": 40,
+        "ventas": 28446
+    },
+    {
+        "titulo": "Libro 173",
+        "autor": "Autor 173",
+        "isbn": "978-7099949736",
+        "paginas": 457,
+        "precio": 40,
+        "ventas": 11579
+    },
+    {
+        "titulo": "Libro 174",
+        "autor": "Autor 174",
+        "isbn": "978-7555647384",
+        "paginas": 89,
+        "precio": 30,
+        "ventas": 49983
+    },
+    {
+        "titulo": "Libro 175",
+        "autor": "Autor 175",
+        "isbn": "978-7345509804",
+        "paginas": 278,
+        "precio": 25,
+        "ventas": 50799
+    },
+    {
+        "titulo": "Libro 176",
+        "autor": "Autor 176",
+        "isbn": "978-3002461350",
+        "paginas": 103,
+        "precio": 40,
+        "ventas": 294
+    },
+    {
+        "titulo": "Libro 177",
+        "autor": "Autor 177",
+        "isbn": "978-1989198204",
+        "paginas": 184,
+        "precio": 15,
+        "ventas": 28651
+    },
+    {
+        "titulo": "Libro 178",
+        "autor": "Autor 178",
+        "isbn": "978-4825182399",
+        "paginas": 236,
+        "precio": 25,
+        "ventas": 58195
+    },
+    {
+        "titulo": "Libro 179",
+        "autor": "Autor 179",
+        "isbn": "978-5240082695",
+        "paginas": 567,
+        "precio": 15,
+        "ventas": 58560
+    },
+    {
+        "titulo": "Libro 180",
+        "autor": "Autor 180",
+        "isbn": "978-8891475656",
+        "paginas": 170,
+        "precio": 30,
+        "ventas": 2592
+    },
+    {
+        "titulo": "Libro 181",
+        "autor": "Autor 181",
+        "isbn": "978-7338684199",
+        "paginas": 328,
+        "precio": 25,
+        "ventas": 53052
+    },
+    {
+        "titulo": "Libro 182",
+        "autor": "Autor 182",
+        "isbn": "978-9826898784",
+        "paginas": 327,
+        "precio": 40,
+        "ventas": 52885
+    },
+    {
+        "titulo": "Libro 183",
+        "autor": "Autor 183",
+        "isbn": "978-4795430303",
+        "paginas": 183,
+        "precio": 20,
+        "ventas": 46174
+    },
+    {
+        "titulo": "Libro 184",
+        "autor": "Autor 184",
+        "isbn": "978-6212063582",
+        "paginas": 575,
+        "precio": 40,
+        "ventas": 37334
+    },
+    {
+        "titulo": "Libro 185",
+        "autor": "Autor 185",
+        "isbn": "978-6212684942",
+        "paginas": 503,
+        "precio": 30,
+        "ventas": 54444
+    },
+    {
+        "titulo": "Libro 186",
+        "autor": "Autor 186",
+        "isbn": "978-6594218042",
+        "paginas": 593,
+        "precio": 20,
+        "ventas": 33226
+    },
+    {
+        "titulo": "Libro 187",
+        "autor": "Autor 187",
+        "isbn": "978-1901555220",
+        "paginas": 597,
+        "precio": 15,
+        "ventas": 59050
+    },
+    {
+        "titulo": "Libro 188",
+        "autor": "Autor 188",
+        "isbn": "978-9984824006",
+        "paginas": 501,
+        "precio": 15,
+        "ventas": 10464
+    },
+    {
+        "titulo": "Libro 189",
+        "autor": "Autor 189",
+        "isbn": "978-4169596555",
+        "paginas": 366,
+        "precio": 40,
+        "ventas": 16626
+    },
+    {
+        "titulo": "Libro 190",
+        "autor": "Autor 190",
+        "isbn": "978-4609671106",
+        "paginas": 94,
+        "precio": 20,
+        "ventas": 16773
+    },
+    {
+        "titulo": "Libro 191",
+        "autor": "Autor 191",
+        "isbn": "978-3189999688",
+        "paginas": 348,
+        "precio": 30,
+        "ventas": 28186
+    },
+    {
+        "titulo": "Libro 192",
+        "autor": "Autor 192",
+        "isbn": "978-5735119123",
+        "paginas": 188,
+        "precio": 25,
+        "ventas": 48766
+    },
+    {
+        "titulo": "Libro 193",
+        "autor": "Autor 193",
+        "isbn": "978-5329193235",
+        "paginas": 309,
+        "precio": 20,
+        "ventas": 36557
+    },
+    {
+        "titulo": "Libro 194",
+        "autor": "Autor 194",
+        "isbn": "978-0906197432",
+        "paginas": 195,
+        "precio": 10,
+        "ventas": 14650
+    },
+    {
+        "titulo": "Libro 195",
+        "autor": "Autor 195",
+        "isbn": "978-9865504435",
+        "paginas": 575,
+        "precio": 20,
+        "ventas": 30146
+    },
+    {
+        "titulo": "Libro 196",
+        "autor": "Autor 196",
+        "isbn": "978-8893052116",
+        "paginas": 562,
+        "precio": 20,
+        "ventas": 55858
+    },
+    {
+        "titulo": "Libro 197",
+        "autor": "Autor 197",
+        "isbn": "978-2601101088",
+        "paginas": 342,
+        "precio": 10,
+        "ventas": 52252
+    },
+    {
+        "titulo": "Libro 198",
+        "autor": "Autor 198",
+        "isbn": "978-2558516506",
+        "paginas": 435,
+        "precio": 40,
+        "ventas": 49799
+    },
+    {
+        "titulo": "Libro 199",
+        "autor": "Autor 199",
+        "isbn": "978-8500098877",
+        "paginas": 369,
+        "precio": 30,
+        "ventas": 45685
+    },
+    {
+        "titulo": "Libro 200",
+        "autor": "Autor 200",
+        "isbn": "978-4805740951",
+        "paginas": 171,
+        "precio": 20,
+        "ventas": 20877
+    },
+    {
+        "titulo": "Libro 201",
+        "autor": "Autor 201",
+        "isbn": "978-7382899094",
+        "paginas": 184,
+        "precio": 10,
+        "ventas": 24433
+    },
+    {
+        "titulo": "Libro 202",
+        "autor": "Autor 202",
+        "isbn": "978-5230094254",
+        "paginas": 310,
+        "precio": 35,
+        "ventas": 12823
+    },
+    {
+        "titulo": "Libro 203",
+        "autor": "Autor 203",
+        "isbn": "978-1352537621",
+        "paginas": 321,
+        "precio": 25,
+        "ventas": 15209
+    },
+    {
+        "titulo": "Libro 204",
+        "autor": "Autor 204",
+        "isbn": "978-3313064184",
+        "paginas": 287,
+        "precio": 40,
+        "ventas": 24686
+    },
+    {
+        "titulo": "Libro 205",
+        "autor": "Autor 205",
+        "isbn": "978-6245721671",
+        "paginas": 422,
+        "precio": 15,
+        "ventas": 4686
+    },
+    {
+        "titulo": "Libro 206",
+        "autor": "Autor 206",
+        "isbn": "978-7003006933",
+        "paginas": 86,
+        "precio": 20,
+        "ventas": 33949
+    },
+    {
+        "titulo": "Libro 207",
+        "autor": "Autor 207",
+        "isbn": "978-6485169953",
+        "paginas": 575,
+        "precio": 30,
+        "ventas": 27792
+    },
+    {
+        "titulo": "Libro 208",
+        "autor": "Autor 208",
+        "isbn": "978-4485646965",
+        "paginas": 301,
+        "precio": 35,
+        "ventas": 49356
+    },
+    {
+        "titulo": "Libro 209",
+        "autor": "Autor 209",
+        "isbn": "978-6151581648",
+        "paginas": 401,
+        "precio": 35,
+        "ventas": 57691
+    },
+    {
+        "titulo": "Libro 210",
+        "autor": "Autor 210",
+        "isbn": "978-7935075317",
+        "paginas": 232,
+        "precio": 25,
+        "ventas": 10327
+    },
+    {
+        "titulo": "Libro 211",
+        "autor": "Autor 211",
+        "isbn": "978-5128539359",
+        "paginas": 208,
+        "precio": 40,
+        "ventas": 41789
+    },
+    {
+        "titulo": "Libro 212",
+        "autor": "Autor 212",
+        "isbn": "978-4333303677",
+        "paginas": 379,
+        "precio": 20,
+        "ventas": 18952
+    },
+    {
+        "titulo": "Libro 213",
+        "autor": "Autor 213",
+        "isbn": "978-2481250184",
+        "paginas": 523,
+        "precio": 25,
+        "ventas": 19890
+    },
+    {
+        "titulo": "Libro 214",
+        "autor": "Autor 214",
+        "isbn": "978-0752953257",
+        "paginas": 208,
+        "precio": 30,
+        "ventas": 13683
+    },
+    {
+        "titulo": "Libro 215",
+        "autor": "Autor 215",
+        "isbn": "978-2951571112",
+        "paginas": 209,
+        "precio": 40,
+        "ventas": 52779
+    },
+    {
+        "titulo": "Libro 216",
+        "autor": "Autor 216",
+        "isbn": "978-5374274745",
+        "paginas": 537,
+        "precio": 10,
+        "ventas": 20247
+    },
+    {
+        "titulo": "Libro 217",
+        "autor": "Autor 217",
+        "isbn": "978-4747793626",
+        "paginas": 557,
+        "precio": 40,
+        "ventas": 49585
+    },
+    {
+        "titulo": "Libro 218",
+        "autor": "Autor 218",
+        "isbn": "978-8262189180",
+        "paginas": 300,
+        "precio": 20,
+        "ventas": 21682
+    },
+    {
+        "titulo": "Libro 219",
+        "autor": "Autor 219",
+        "isbn": "978-5664335703",
+        "paginas": 219,
+        "precio": 35,
+        "ventas": 22289
+    },
+    {
+        "titulo": "Libro 220",
+        "autor": "Autor 220",
+        "isbn": "978-9773201397",
+        "paginas": 541,
+        "precio": 20,
+        "ventas": 18822
+    },
+    {
+        "titulo": "Libro 221",
+        "autor": "Autor 221",
+        "isbn": "978-5316413708",
+        "paginas": 121,
+        "precio": 30,
+        "ventas": 44172
+    },
+    {
+        "titulo": "Libro 222",
+        "autor": "Autor 222",
+        "isbn": "978-2029830682",
+        "paginas": 459,
+        "precio": 40,
+        "ventas": 54780
+    },
+    {
+        "titulo": "Libro 223",
+        "autor": "Autor 223",
+        "isbn": "978-4918654229",
+        "paginas": 532,
+        "precio": 40,
+        "ventas": 7064
+    },
+    {
+        "titulo": "Libro 224",
+        "autor": "Autor 224",
+        "isbn": "978-6369346333",
+        "paginas": 392,
+        "precio": 15,
+        "ventas": 57522
+    },
+    {
+        "titulo": "Libro 225",
+        "autor": "Autor 225",
+        "isbn": "978-6395638659",
+        "paginas": 527,
+        "precio": 35,
+        "ventas": 56608
+    },
+    {
+        "titulo": "Libro 226",
+        "autor": "Autor 226",
+        "isbn": "978-4816165469",
+        "paginas": 424,
+        "precio": 15,
+        "ventas": 29468
+    },
+    {
+        "titulo": "Libro 227",
+        "autor": "Autor 227",
+        "isbn": "978-7310662456",
+        "paginas": 100,
+        "precio": 10,
+        "ventas": 14593
+    },
+    {
+        "titulo": "Libro 228",
+        "autor": "Autor 228",
+        "isbn": "978-8684852375",
+        "paginas": 96,
+        "precio": 20,
+        "ventas": 45460
+    },
+    {
+        "titulo": "Libro 229",
+        "autor": "Autor 229",
+        "isbn": "978-3019590374",
+        "paginas": 554,
+        "precio": 20,
+        "ventas": 2716
+    },
+    {
+        "titulo": "Libro 230",
+        "autor": "Autor 230",
+        "isbn": "978-3677846259",
+        "paginas": 400,
+        "precio": 25,
+        "ventas": 33262
+    },
+    {
+        "titulo": "Libro 231",
+        "autor": "Autor 231",
+        "isbn": "978-7881607290",
+        "paginas": 555,
+        "precio": 10,
+        "ventas": 1066
+    },
+    {
+        "titulo": "Libro 232",
+        "autor": "Autor 232",
+        "isbn": "978-7038576139",
+        "paginas": 360,
+        "precio": 25,
+        "ventas": 22376
+    },
+    {
+        "titulo": "Libro 233",
+        "autor": "Autor 233",
+        "isbn": "978-9462037504",
+        "paginas": 432,
+        "precio": 30,
+        "ventas": 34803
+    },
+    {
+        "titulo": "Libro 234",
+        "autor": "Autor 234",
+        "isbn": "978-9141016141",
+        "paginas": 195,
+        "precio": 25,
+        "ventas": 50558
+    },
+    {
+        "titulo": "Libro 235",
+        "autor": "Autor 235",
+        "isbn": "978-5841788273",
+        "paginas": 400,
+        "precio": 15,
+        "ventas": 53256
+    },
+    {
+        "titulo": "Libro 236",
+        "autor": "Autor 236",
+        "isbn": "978-3799769920",
+        "paginas": 263,
+        "precio": 10,
+        "ventas": 6371
+    },
+    {
+        "titulo": "Libro 237",
+        "autor": "Autor 237",
+        "isbn": "978-6295822691",
+        "paginas": 87,
+        "precio": 25,
+        "ventas": 3087
+    },
+    {
+        "titulo": "Libro 238",
+        "autor": "Autor 238",
+        "isbn": "978-4697718789",
+        "paginas": 249,
+        "precio": 30,
+        "ventas": 39171
+    },
+    {
+        "titulo": "Libro 239",
+        "autor": "Autor 239",
+        "isbn": "978-4956942911",
+        "paginas": 86,
+        "precio": 35,
+        "ventas": 44692
+    },
+    {
+        "titulo": "Libro 240",
+        "autor": "Autor 240",
+        "isbn": "978-3695206973",
+        "paginas": 563,
+        "precio": 40,
+        "ventas": 18261
+    },
+    {
+        "titulo": "Libro 241",
+        "autor": "Autor 241",
+        "isbn": "978-8985635953",
+        "paginas": 362,
+        "precio": 30,
+        "ventas": 54560
+    },
+    {
+        "titulo": "Libro 242",
+        "autor": "Autor 242",
+        "isbn": "978-8150659271",
+        "paginas": 461,
+        "precio": 10,
+        "ventas": 16408
+    },
+    {
+        "titulo": "Libro 243",
+        "autor": "Autor 243",
+        "isbn": "978-7633689570",
+        "paginas": 499,
+        "precio": 20,
+        "ventas": 41876
+    },
+    {
+        "titulo": "Libro 244",
+        "autor": "Autor 244",
+        "isbn": "978-3367232144",
+        "paginas": 166,
+        "precio": 15,
+        "ventas": 37795
+    },
+    {
+        "titulo": "Libro 245",
+        "autor": "Autor 245",
+        "isbn": "978-9244365398",
+        "paginas": 327,
+        "precio": 35,
+        "ventas": 49226
+    },
+    {
+        "titulo": "Libro 246",
+        "autor": "Autor 246",
+        "isbn": "978-1633272344",
+        "paginas": 198,
+        "precio": 40,
+        "ventas": 46110
+    },
+    {
+        "titulo": "Libro 247",
+        "autor": "Autor 247",
+        "isbn": "978-9553871228",
+        "paginas": 319,
+        "precio": 15,
+        "ventas": 26702
+    },
+    {
+        "titulo": "Libro 248",
+        "autor": "Autor 248",
+        "isbn": "978-9075920256",
+        "paginas": 260,
+        "precio": 15,
+        "ventas": 38093
+    },
+    {
+        "titulo": "Libro 249",
+        "autor": "Autor 249",
+        "isbn": "978-6975626576",
+        "paginas": 408,
+        "precio": 15,
+        "ventas": 38588
+    },
+    {
+        "titulo": "Libro 250",
+        "autor": "Autor 250",
+        "isbn": "978-1549472188",
+        "paginas": 169,
+        "precio": 20,
+        "ventas": 17733
+    },
+    {
+        "titulo": "Libro 251",
+        "autor": "Autor 251",
+        "isbn": "978-2940362637",
+        "paginas": 158,
+        "precio": 25,
+        "ventas": 57558
+    },
+    {
+        "titulo": "Libro 252",
+        "autor": "Autor 252",
+        "isbn": "978-1312537276",
+        "paginas": 452,
+        "precio": 40,
+        "ventas": 12117
+    },
+    {
+        "titulo": "Libro 253",
+        "autor": "Autor 253",
+        "isbn": "978-6397264637",
+        "paginas": 497,
+        "precio": 40,
+        "ventas": 57474
+    },
+    {
+        "titulo": "Libro 254",
+        "autor": "Autor 254",
+        "isbn": "978-0458593363",
+        "paginas": 551,
+        "precio": 25,
+        "ventas": 28603
+    },
+    {
+        "titulo": "Libro 255",
+        "autor": "Autor 255",
+        "isbn": "978-2098981696",
+        "paginas": 169,
+        "precio": 15,
+        "ventas": 55847
+    },
+    {
+        "titulo": "Libro 256",
+        "autor": "Autor 256",
+        "isbn": "978-9916973569",
+        "paginas": 141,
+        "precio": 15,
+        "ventas": 56368
+    },
+    {
+        "titulo": "Libro 257",
+        "autor": "Autor 257",
+        "isbn": "978-5090746135",
+        "paginas": 591,
+        "precio": 20,
+        "ventas": 7055
+    },
+    {
+        "titulo": "Libro 258",
+        "autor": "Autor 258",
+        "isbn": "978-8420689348",
+        "paginas": 144,
+        "precio": 20,
+        "ventas": 47881
+    },
+    {
+        "titulo": "Libro 259",
+        "autor": "Autor 259",
+        "isbn": "978-4839498074",
+        "paginas": 398,
+        "precio": 30,
+        "ventas": 50401
+    },
+    {
+        "titulo": "Libro 260",
+        "autor": "Autor 260",
+        "isbn": "978-4814988800",
+        "paginas": 157,
+        "precio": 40,
+        "ventas": 27150
+    },
+    {
+        "titulo": "Libro 261",
+        "autor": "Autor 261",
+        "isbn": "978-8602411647",
+        "paginas": 272,
+        "precio": 35,
+        "ventas": 23468
+    },
+    {
+        "titulo": "Libro 262",
+        "autor": "Autor 262",
+        "isbn": "978-7157665637",
+        "paginas": 587,
+        "precio": 30,
+        "ventas": 21515
+    },
+    {
+        "titulo": "Libro 263",
+        "autor": "Autor 263",
+        "isbn": "978-1429903110",
+        "paginas": 586,
+        "precio": 40,
+        "ventas": 11500
+    },
+    {
+        "titulo": "Libro 264",
+        "autor": "Autor 264",
+        "isbn": "978-0490565828",
+        "paginas": 540,
+        "precio": 25,
+        "ventas": 18904
+    },
+    {
+        "titulo": "Libro 265",
+        "autor": "Autor 265",
+        "isbn": "978-5902302565",
+        "paginas": 323,
+        "precio": 40,
+        "ventas": 43964
+    },
+    {
+        "titulo": "Libro 266",
+        "autor": "Autor 266",
+        "isbn": "978-4642558478",
+        "paginas": 412,
+        "precio": 10,
+        "ventas": 30688
+    },
+    {
+        "titulo": "Libro 267",
+        "autor": "Autor 267",
+        "isbn": "978-1023321571",
+        "paginas": 530,
+        "precio": 30,
+        "ventas": 404
+    },
+    {
+        "titulo": "Libro 268",
+        "autor": "Autor 268",
+        "isbn": "978-4836399320",
+        "paginas": 420,
+        "precio": 15,
+        "ventas": 36944
+    },
+    {
+        "titulo": "Libro 269",
+        "autor": "Autor 269",
+        "isbn": "978-9949099168",
+        "paginas": 417,
+        "precio": 35,
+        "ventas": 33485
+    },
+    {
+        "titulo": "Libro 270",
+        "autor": "Autor 270",
+        "isbn": "978-1355885723",
+        "paginas": 329,
+        "precio": 40,
+        "ventas": 29761
+    },
+    {
+        "titulo": "Libro 271",
+        "autor": "Autor 271",
+        "isbn": "978-1780912057",
+        "paginas": 200,
+        "precio": 20,
+        "ventas": 42926
+    },
+    {
+        "titulo": "Libro 272",
+        "autor": "Autor 272",
+        "isbn": "978-0083866209",
+        "paginas": 150,
+        "precio": 35,
+        "ventas": 5804
+    },
+    {
+        "titulo": "Libro 273",
+        "autor": "Autor 273",
+        "isbn": "978-0580632574",
+        "paginas": 121,
+        "precio": 25,
+        "ventas": 35370
+    },
+    {
+        "titulo": "Libro 274",
+        "autor": "Autor 274",
+        "isbn": "978-3722415678",
+        "paginas": 313,
+        "precio": 40,
+        "ventas": 32420
+    },
+    {
+        "titulo": "Libro 275",
+        "autor": "Autor 275",
+        "isbn": "978-4259740646",
+        "paginas": 578,
+        "precio": 15,
+        "ventas": 3882
+    },
+    {
+        "titulo": "Libro 276",
+        "autor": "Autor 276",
+        "isbn": "978-7834538433",
+        "paginas": 229,
+        "precio": 30,
+        "ventas": 57222
+    },
+    {
+        "titulo": "Libro 277",
+        "autor": "Autor 277",
+        "isbn": "978-4811747854",
+        "paginas": 122,
+        "precio": 25,
+        "ventas": 10616
+    },
+    {
+        "titulo": "Libro 278",
+        "autor": "Autor 278",
+        "isbn": "978-2384612769",
+        "paginas": 541,
+        "precio": 25,
+        "ventas": 55300
+    },
+    {
+        "titulo": "Libro 279",
+        "autor": "Autor 279",
+        "isbn": "978-2005696563",
+        "paginas": 327,
+        "precio": 15,
+        "ventas": 36357
+    },
+    {
+        "titulo": "Libro 280",
+        "autor": "Autor 280",
+        "isbn": "978-9284920248",
+        "paginas": 170,
+        "precio": 25,
+        "ventas": 44865
+    },
+    {
+        "titulo": "Libro 281",
+        "autor": "Autor 281",
+        "isbn": "978-7689368738",
+        "paginas": 384,
+        "precio": 40,
+        "ventas": 16800
+    },
+    {
+        "titulo": "Libro 282",
+        "autor": "Autor 282",
+        "isbn": "978-4960907110",
+        "paginas": 543,
+        "precio": 30,
+        "ventas": 58479
+    },
+    {
+        "titulo": "Libro 283",
+        "autor": "Autor 283",
+        "isbn": "978-4399218909",
+        "paginas": 278,
+        "precio": 30,
+        "ventas": 41280
+    },
+    {
+        "titulo": "Libro 284",
+        "autor": "Autor 284",
+        "isbn": "978-7564024473",
+        "paginas": 380,
+        "precio": 40,
+        "ventas": 57212
+    },
+    {
+        "titulo": "Libro 285",
+        "autor": "Autor 285",
+        "isbn": "978-5018969691",
+        "paginas": 305,
+        "precio": 20,
+        "ventas": 5866
+    },
+    {
+        "titulo": "Libro 286",
+        "autor": "Autor 286",
+        "isbn": "978-7917388617",
+        "paginas": 372,
+        "precio": 15,
+        "ventas": 12244
+    },
+    {
+        "titulo": "Libro 287",
+        "autor": "Autor 287",
+        "isbn": "978-0617581470",
+        "paginas": 246,
+        "precio": 30,
+        "ventas": 52225
+    },
+    {
+        "titulo": "Libro 288",
+        "autor": "Autor 288",
+        "isbn": "978-0338851603",
+        "paginas": 211,
+        "precio": 35,
+        "ventas": 39129
+    },
+    {
+        "titulo": "Libro 289",
+        "autor": "Autor 289",
+        "isbn": "978-3033213823",
+        "paginas": 412,
+        "precio": 10,
+        "ventas": 55839
+    },
+    {
+        "titulo": "Libro 290",
+        "autor": "Autor 290",
+        "isbn": "978-5707058040",
+        "paginas": 229,
+        "precio": 15,
+        "ventas": 51319
+    },
+    {
+        "titulo": "Libro 291",
+        "autor": "Autor 291",
+        "isbn": "978-0741787175",
+        "paginas": 288,
+        "precio": 35,
+        "ventas": 14756
+    },
+    {
+        "titulo": "Libro 292",
+        "autor": "Autor 292",
+        "isbn": "978-7009835658",
+        "paginas": 276,
+        "precio": 40,
+        "ventas": 14918
+    },
+    {
+        "titulo": "Libro 293",
+        "autor": "Autor 293",
+        "isbn": "978-4811261268",
+        "paginas": 466,
+        "precio": 30,
+        "ventas": 20868
+    },
+    {
+        "titulo": "Libro 294",
+        "autor": "Autor 294",
+        "isbn": "978-5855134100",
+        "paginas": 575,
+        "precio": 15,
+        "ventas": 6322
+    },
+    {
+        "titulo": "Libro 295",
+        "autor": "Autor 295",
+        "isbn": "978-2502772322",
+        "paginas": 103,
+        "precio": 25,
+        "ventas": 36356
+    },
+    {
+        "titulo": "Libro 296",
+        "autor": "Autor 296",
+        "isbn": "978-0277569678",
+        "paginas": 229,
+        "precio": 40,
+        "ventas": 9577
+    },
+    {
+        "titulo": "Libro 297",
+        "autor": "Autor 297",
+        "isbn": "978-9884558801",
+        "paginas": 108,
+        "precio": 15,
+        "ventas": 2294
+    },
+    {
+        "titulo": "Libro 298",
+        "autor": "Autor 298",
+        "isbn": "978-1441531336",
+        "paginas": 520,
+        "precio": 30,
+        "ventas": 26642
+    },
+    {
+        "titulo": "Libro 299",
+        "autor": "Autor 299",
+        "isbn": "978-8342958467",
+        "paginas": 202,
+        "precio": 30,
+        "ventas": 6541
+    },
+    {
+        "titulo": "Libro 300",
+        "autor": "Autor 300",
+        "isbn": "978-8865278250",
+        "paginas": 310,
+        "precio": 10,
+        "ventas": 52833
+    },
+    {
+        "titulo": "Libro 301",
+        "autor": "Autor 301",
+        "isbn": "978-4361839423",
+        "paginas": 407,
+        "precio": 20,
+        "ventas": 45004
+    },
+    {
+        "titulo": "Libro 302",
+        "autor": "Autor 302",
+        "isbn": "978-0583131300",
+        "paginas": 277,
+        "precio": 40,
+        "ventas": 24534
+    },
+    {
+        "titulo": "Libro 303",
+        "autor": "Autor 303",
+        "isbn": "978-4601121121",
+        "paginas": 124,
+        "precio": 35,
+        "ventas": 20890
+    },
+    {
+        "titulo": "Libro 304",
+        "autor": "Autor 304",
+        "isbn": "978-3634830263",
+        "paginas": 182,
+        "precio": 30,
+        "ventas": 33481
+    },
+    {
+        "titulo": "Libro 305",
+        "autor": "Autor 305",
+        "isbn": "978-3940967489",
+        "paginas": 369,
+        "precio": 25,
+        "ventas": 11168
+    },
+    {
+        "titulo": "Libro 306",
+        "autor": "Autor 306",
+        "isbn": "978-4023789863",
+        "paginas": 453,
+        "precio": 10,
+        "ventas": 55727
+    },
+    {
+        "titulo": "Libro 307",
+        "autor": "Autor 307",
+        "isbn": "978-2561422550",
+        "paginas": 442,
+        "precio": 10,
+        "ventas": 21283
+    },
+    {
+        "titulo": "Libro 308",
+        "autor": "Autor 308",
+        "isbn": "978-4300491994",
+        "paginas": 400,
+        "precio": 15,
+        "ventas": 49754
+    },
+    {
+        "titulo": "Libro 309",
+        "autor": "Autor 309",
+        "isbn": "978-7476708359",
+        "paginas": 351,
+        "precio": 35,
+        "ventas": 2847
+    },
+    {
+        "titulo": "Libro 310",
+        "autor": "Autor 310",
+        "isbn": "978-9543363078",
+        "paginas": 484,
+        "precio": 25,
+        "ventas": 56518
+    },
+    {
+        "titulo": "Libro 311",
+        "autor": "Autor 311",
+        "isbn": "978-7718430244",
+        "paginas": 539,
+        "precio": 35,
+        "ventas": 36200
+    },
+    {
+        "titulo": "Libro 312",
+        "autor": "Autor 312",
+        "isbn": "978-0454318921",
+        "paginas": 400,
+        "precio": 25,
+        "ventas": 47375
+    },
+    {
+        "titulo": "Libro 313",
+        "autor": "Autor 313",
+        "isbn": "978-3874776076",
+        "paginas": 391,
+        "precio": 25,
+        "ventas": 39183
+    },
+    {
+        "titulo": "Libro 314",
+        "autor": "Autor 314",
+        "isbn": "978-8744426134",
+        "paginas": 199,
+        "precio": 10,
+        "ventas": 9231
+    },
+    {
+        "titulo": "Libro 315",
+        "autor": "Autor 315",
+        "isbn": "978-5110012075",
+        "paginas": 448,
+        "precio": 10,
+        "ventas": 23838
+    },
+    {
+        "titulo": "Libro 316",
+        "autor": "Autor 316",
+        "isbn": "978-8575668922",
+        "paginas": 486,
+        "precio": 15,
+        "ventas": 1291
+    },
+    {
+        "titulo": "Libro 317",
+        "autor": "Autor 317",
+        "isbn": "978-2222103346",
+        "paginas": 435,
+        "precio": 35,
+        "ventas": 37651
+    },
+    {
+        "titulo": "Libro 318",
+        "autor": "Autor 318",
+        "isbn": "978-5493592153",
+        "paginas": 480,
+        "precio": 25,
+        "ventas": 57885
+    },
+    {
+        "titulo": "Libro 319",
+        "autor": "Autor 319",
+        "isbn": "978-6232957360",
+        "paginas": 261,
+        "precio": 35,
+        "ventas": 26476
+    },
+    {
+        "titulo": "Libro 320",
+        "autor": "Autor 320",
+        "isbn": "978-9083815806",
+        "paginas": 229,
+        "precio": 10,
+        "ventas": 53944
+    },
+    {
+        "titulo": "Libro 321",
+        "autor": "Autor 321",
+        "isbn": "978-8543600268",
+        "paginas": 315,
+        "precio": 30,
+        "ventas": 52199
+    },
+    {
+        "titulo": "Libro 322",
+        "autor": "Autor 322",
+        "isbn": "978-2471448301",
+        "paginas": 549,
+        "precio": 35,
+        "ventas": 36880
+    },
+    {
+        "titulo": "Libro 323",
+        "autor": "Autor 323",
+        "isbn": "978-2271103059",
+        "paginas": 239,
+        "precio": 20,
+        "ventas": 29565
+    },
+    {
+        "titulo": "Libro 324",
+        "autor": "Autor 324",
+        "isbn": "978-4260523344",
+        "paginas": 348,
+        "precio": 40,
+        "ventas": 5911
+    },
+    {
+        "titulo": "Libro 325",
+        "autor": "Autor 325",
+        "isbn": "978-5556987739",
+        "paginas": 561,
+        "precio": 10,
+        "ventas": 12878
+    },
+    {
+        "titulo": "Libro 326",
+        "autor": "Autor 326",
+        "isbn": "978-4640069074",
+        "paginas": 258,
+        "precio": 35,
+        "ventas": 6704
+    },
+    {
+        "titulo": "Libro 327",
+        "autor": "Autor 327",
+        "isbn": "978-2938681942",
+        "paginas": 517,
+        "precio": 30,
+        "ventas": 22939
+    },
+    {
+        "titulo": "Libro 328",
+        "autor": "Autor 328",
+        "isbn": "978-3255805645",
+        "paginas": 506,
+        "precio": 10,
+        "ventas": 50743
+    },
+    {
+        "titulo": "Libro 329",
+        "autor": "Autor 329",
+        "isbn": "978-0056503817",
+        "paginas": 141,
+        "precio": 40,
+        "ventas": 12578
+    },
+    {
+        "titulo": "Libro 330",
+        "autor": "Autor 330",
+        "isbn": "978-5054097682",
+        "paginas": 514,
+        "precio": 40,
+        "ventas": 19157
+    },
+    {
+        "titulo": "Libro 331",
+        "autor": "Autor 331",
+        "isbn": "978-5996196523",
+        "paginas": 319,
+        "precio": 10,
+        "ventas": 37244
+    },
+    {
+        "titulo": "Libro 332",
+        "autor": "Autor 332",
+        "isbn": "978-6192205483",
+        "paginas": 540,
+        "precio": 25,
+        "ventas": 18907
+    },
+    {
+        "titulo": "Libro 333",
+        "autor": "Autor 333",
+        "isbn": "978-0588663005",
+        "paginas": 439,
+        "precio": 30,
+        "ventas": 34491
+    },
+    {
+        "titulo": "Libro 334",
+        "autor": "Autor 334",
+        "isbn": "978-6099611593",
+        "paginas": 570,
+        "precio": 10,
+        "ventas": 26240
+    },
+    {
+        "titulo": "Libro 335",
+        "autor": "Autor 335",
+        "isbn": "978-8180895551",
+        "paginas": 499,
+        "precio": 30,
+        "ventas": 25630
+    },
+    {
+        "titulo": "Libro 336",
+        "autor": "Autor 336",
+        "isbn": "978-7869083797",
+        "paginas": 353,
+        "precio": 15,
+        "ventas": 9785
+    },
+    {
+        "titulo": "Libro 337",
+        "autor": "Autor 337",
+        "isbn": "978-0946305836",
+        "paginas": 99,
+        "precio": 15,
+        "ventas": 55496
+    },
+    {
+        "titulo": "Libro 338",
+        "autor": "Autor 338",
+        "isbn": "978-7650089273",
+        "paginas": 433,
+        "precio": 30,
+        "ventas": 31812
+    },
+    {
+        "titulo": "Libro 339",
+        "autor": "Autor 339",
+        "isbn": "978-5230573279",
+        "paginas": 108,
+        "precio": 25,
+        "ventas": 9323
+    },
+    {
+        "titulo": "Libro 340",
+        "autor": "Autor 340",
+        "isbn": "978-9182672785",
+        "paginas": 151,
+        "precio": 10,
+        "ventas": 45825
+    },
+    {
+        "titulo": "Libro 341",
+        "autor": "Autor 341",
+        "isbn": "978-8932428917",
+        "paginas": 514,
+        "precio": 20,
+        "ventas": 27518
+    },
+    {
+        "titulo": "Libro 342",
+        "autor": "Autor 342",
+        "isbn": "978-3715102529",
+        "paginas": 166,
+        "precio": 25,
+        "ventas": 37505
+    },
+    {
+        "titulo": "Libro 343",
+        "autor": "Autor 343",
+        "isbn": "978-1660144150",
+        "paginas": 221,
+        "precio": 15,
+        "ventas": 40627
+    },
+    {
+        "titulo": "Libro 344",
+        "autor": "Autor 344",
+        "isbn": "978-8498090839",
+        "paginas": 281,
+        "precio": 30,
+        "ventas": 670
+    },
+    {
+        "titulo": "Libro 345",
+        "autor": "Autor 345",
+        "isbn": "978-4574938953",
+        "paginas": 560,
+        "precio": 20,
+        "ventas": 27014
+    },
+    {
+        "titulo": "Libro 346",
+        "autor": "Autor 346",
+        "isbn": "978-9333941399",
+        "paginas": 455,
+        "precio": 40,
+        "ventas": 43931
+    },
+    {
+        "titulo": "Libro 347",
+        "autor": "Autor 347",
+        "isbn": "978-2076599771",
+        "paginas": 467,
+        "precio": 10,
+        "ventas": 11974
+    },
+    {
+        "titulo": "Libro 348",
+        "autor": "Autor 348",
+        "isbn": "978-1710014202",
+        "paginas": 192,
+        "precio": 10,
+        "ventas": 12549
+    },
+    {
+        "titulo": "Libro 349",
+        "autor": "Autor 349",
+        "isbn": "978-1084093748",
+        "paginas": 318,
+        "precio": 20,
+        "ventas": 46537
+    },
+    {
+        "titulo": "Libro 350",
+        "autor": "Autor 350",
+        "isbn": "978-5784064420",
+        "paginas": 136,
+        "precio": 25,
+        "ventas": 55386
+    },
+    {
+        "titulo": "Libro 351",
+        "autor": "Autor 351",
+        "isbn": "978-6388939346",
+        "paginas": 379,
+        "precio": 30,
+        "ventas": 11153
+    },
+    {
+        "titulo": "Libro 352",
+        "autor": "Autor 352",
+        "isbn": "978-6532159440",
+        "paginas": 574,
+        "precio": 25,
+        "ventas": 12936
+    },
+    {
+        "titulo": "Libro 353",
+        "autor": "Autor 353",
+        "isbn": "978-7630224009",
+        "paginas": 583,
+        "precio": 15,
+        "ventas": 26369
+    },
+    {
+        "titulo": "Libro 354",
+        "autor": "Autor 354",
+        "isbn": "978-7730997454",
+        "paginas": 293,
+        "precio": 15,
+        "ventas": 55588
+    },
+    {
+        "titulo": "Libro 355",
+        "autor": "Autor 355",
+        "isbn": "978-9515893174",
+        "paginas": 508,
+        "precio": 35,
+        "ventas": 25412
+    },
+    {
+        "titulo": "Libro 356",
+        "autor": "Autor 356",
+        "isbn": "978-7135069948",
+        "paginas": 137,
+        "precio": 40,
+        "ventas": 40332
+    },
+    {
+        "titulo": "Libro 357",
+        "autor": "Autor 357",
+        "isbn": "978-6250205209",
+        "paginas": 449,
+        "precio": 20,
+        "ventas": 8170
+    },
+    {
+        "titulo": "Libro 358",
+        "autor": "Autor 358",
+        "isbn": "978-1439689463",
+        "paginas": 474,
+        "precio": 35,
+        "ventas": 124
+    },
+    {
+        "titulo": "Libro 359",
+        "autor": "Autor 359",
+        "isbn": "978-2629727162",
+        "paginas": 98,
+        "precio": 35,
+        "ventas": 2997
+    },
+    {
+        "titulo": "Libro 360",
+        "autor": "Autor 360",
+        "isbn": "978-1414966609",
+        "paginas": 101,
+        "precio": 30,
+        "ventas": 41105
+    },
+    {
+        "titulo": "Libro 361",
+        "autor": "Autor 361",
+        "isbn": "978-7634984419",
+        "paginas": 346,
+        "precio": 35,
+        "ventas": 31314
+    },
+    {
+        "titulo": "Libro 362",
+        "autor": "Autor 362",
+        "isbn": "978-3630349697",
+        "paginas": 377,
+        "precio": 15,
+        "ventas": 39538
+    },
+    {
+        "titulo": "Libro 363",
+        "autor": "Autor 363",
+        "isbn": "978-8433897755",
+        "paginas": 157,
+        "precio": 25,
+        "ventas": 10326
+    },
+    {
+        "titulo": "Libro 364",
+        "autor": "Autor 364",
+        "isbn": "978-1096575478",
+        "paginas": 215,
+        "precio": 35,
+        "ventas": 59170
+    },
+    {
+        "titulo": "Libro 365",
+        "autor": "Autor 365",
+        "isbn": "978-0189023587",
+        "paginas": 568,
+        "precio": 15,
+        "ventas": 24124
+    },
+    {
+        "titulo": "Libro 366",
+        "autor": "Autor 366",
+        "isbn": "978-0423561582",
+        "paginas": 83,
+        "precio": 20,
+        "ventas": 19338
+    },
+    {
+        "titulo": "Libro 367",
+        "autor": "Autor 367",
+        "isbn": "978-4141794961",
+        "paginas": 351,
+        "precio": 25,
+        "ventas": 9394
+    },
+    {
+        "titulo": "Libro 368",
+        "autor": "Autor 368",
+        "isbn": "978-5604854217",
+        "paginas": 438,
+        "precio": 15,
+        "ventas": 20840
+    },
+    {
+        "titulo": "Libro 369",
+        "autor": "Autor 369",
+        "isbn": "978-9364047498",
+        "paginas": 491,
+        "precio": 35,
+        "ventas": 23530
+    },
+    {
+        "titulo": "Libro 370",
+        "autor": "Autor 370",
+        "isbn": "978-2126438446",
+        "paginas": 311,
+        "precio": 40,
+        "ventas": 15504
+    },
+    {
+        "titulo": "Libro 371",
+        "autor": "Autor 371",
+        "isbn": "978-5458430761",
+        "paginas": 254,
+        "precio": 10,
+        "ventas": 3724
+    },
+    {
+        "titulo": "Libro 372",
+        "autor": "Autor 372",
+        "isbn": "978-5049710927",
+        "paginas": 198,
+        "precio": 15,
+        "ventas": 58825
+    },
+    {
+        "titulo": "Libro 373",
+        "autor": "Autor 373",
+        "isbn": "978-4837539576",
+        "paginas": 262,
+        "precio": 35,
+        "ventas": 52404
+    },
+    {
+        "titulo": "Libro 374",
+        "autor": "Autor 374",
+        "isbn": "978-0027056899",
+        "paginas": 327,
+        "precio": 25,
+        "ventas": 31184
+    },
+    {
+        "titulo": "Libro 375",
+        "autor": "Autor 375",
+        "isbn": "978-3841136165",
+        "paginas": 389,
+        "precio": 10,
+        "ventas": 31558
+    },
+    {
+        "titulo": "Libro 376",
+        "autor": "Autor 376",
+        "isbn": "978-9282696135",
+        "paginas": 333,
+        "precio": 20,
+        "ventas": 3561
+    },
+    {
+        "titulo": "Libro 377",
+        "autor": "Autor 377",
+        "isbn": "978-7895992307",
+        "paginas": 576,
+        "precio": 25,
+        "ventas": 38284
+    },
+    {
+        "titulo": "Libro 378",
+        "autor": "Autor 378",
+        "isbn": "978-5866343776",
+        "paginas": 215,
+        "precio": 20,
+        "ventas": 21782
+    },
+    {
+        "titulo": "Libro 379",
+        "autor": "Autor 379",
+        "isbn": "978-5664386334",
+        "paginas": 498,
+        "precio": 20,
+        "ventas": 22212
+    },
+    {
+        "titulo": "Libro 380",
+        "autor": "Autor 380",
+        "isbn": "978-5944499588",
+        "paginas": 286,
+        "precio": 10,
+        "ventas": 28662
+    },
+    {
+        "titulo": "Libro 381",
+        "autor": "Autor 381",
+        "isbn": "978-9758300045",
+        "paginas": 241,
+        "precio": 35,
+        "ventas": 36588
+    },
+    {
+        "titulo": "Libro 382",
+        "autor": "Autor 382",
+        "isbn": "978-9226933365",
+        "paginas": 487,
+        "precio": 10,
+        "ventas": 3103
+    },
+    {
+        "titulo": "Libro 383",
+        "autor": "Autor 383",
+        "isbn": "978-7094998788",
+        "paginas": 178,
+        "precio": 40,
+        "ventas": 23150
+    },
+    {
+        "titulo": "Libro 384",
+        "autor": "Autor 384",
+        "isbn": "978-3689442087",
+        "paginas": 405,
+        "precio": 40,
+        "ventas": 12577
+    },
+    {
+        "titulo": "Libro 385",
+        "autor": "Autor 385",
+        "isbn": "978-2574125633",
+        "paginas": 187,
+        "precio": 30,
+        "ventas": 53667
+    },
+    {
+        "titulo": "Libro 386",
+        "autor": "Autor 386",
+        "isbn": "978-5008998931",
+        "paginas": 384,
+        "precio": 30,
+        "ventas": 43249
+    },
+    {
+        "titulo": "Libro 387",
+        "autor": "Autor 387",
+        "isbn": "978-5201129251",
+        "paginas": 516,
+        "precio": 35,
+        "ventas": 42751
+    },
+    {
+        "titulo": "Libro 388",
+        "autor": "Autor 388",
+        "isbn": "978-6964713555",
+        "paginas": 131,
+        "precio": 25,
+        "ventas": 17637
+    },
+    {
+        "titulo": "Libro 389",
+        "autor": "Autor 389",
+        "isbn": "978-5828011974",
+        "paginas": 511,
+        "precio": 10,
+        "ventas": 31132
+    },
+    {
+        "titulo": "Libro 390",
+        "autor": "Autor 390",
+        "isbn": "978-9268381477",
+        "paginas": 315,
+        "precio": 35,
+        "ventas": 45725
+    },
+    {
+        "titulo": "Libro 391",
+        "autor": "Autor 391",
+        "isbn": "978-9374815518",
+        "paginas": 83,
+        "precio": 30,
+        "ventas": 34588
+    },
+    {
+        "titulo": "Libro 392",
+        "autor": "Autor 392",
+        "isbn": "978-9986599609",
+        "paginas": 428,
+        "precio": 35,
+        "ventas": 48960
+    },
+    {
+        "titulo": "Libro 393",
+        "autor": "Autor 393",
+        "isbn": "978-3091101182",
+        "paginas": 459,
+        "precio": 35,
+        "ventas": 23043
+    },
+    {
+        "titulo": "Libro 394",
+        "autor": "Autor 394",
+        "isbn": "978-4068868272",
+        "paginas": 245,
+        "precio": 10,
+        "ventas": 32038
+    },
+    {
+        "titulo": "Libro 395",
+        "autor": "Autor 395",
+        "isbn": "978-3624313567",
+        "paginas": 322,
+        "precio": 15,
+        "ventas": 41162
+    },
+    {
+        "titulo": "Libro 396",
+        "autor": "Autor 396",
+        "isbn": "978-8569967786",
+        "paginas": 365,
+        "precio": 15,
+        "ventas": 51117
+    },
+    {
+        "titulo": "Libro 397",
+        "autor": "Autor 397",
+        "isbn": "978-3818287664",
+        "paginas": 174,
+        "precio": 20,
+        "ventas": 43484
+    },
+    {
+        "titulo": "Libro 398",
+        "autor": "Autor 398",
+        "isbn": "978-5618178047",
+        "paginas": 338,
+        "precio": 15,
+        "ventas": 12448
+    },
+    {
+        "titulo": "Libro 399",
+        "autor": "Autor 399",
+        "isbn": "978-4905994055",
+        "paginas": 513,
+        "precio": 25,
+        "ventas": 48914
+    },
+    {
+        "titulo": "Libro 400",
+        "autor": "Autor 400",
+        "isbn": "978-8746839555",
+        "paginas": 261,
+        "precio": 25,
+        "ventas": 5564
+    },
+    {
+        "titulo": "Libro 401",
+        "autor": "Autor 401",
+        "isbn": "978-3870566156",
+        "paginas": 394,
+        "precio": 35,
+        "ventas": 15363
+    },
+    {
+        "titulo": "Libro 402",
+        "autor": "Autor 402",
+        "isbn": "978-2093553474",
+        "paginas": 277,
+        "precio": 10,
+        "ventas": 56768
+    },
+    {
+        "titulo": "Libro 403",
+        "autor": "Autor 403",
+        "isbn": "978-0891704285",
+        "paginas": 372,
+        "precio": 35,
+        "ventas": 50689
+    },
+    {
+        "titulo": "Libro 404",
+        "autor": "Autor 404",
+        "isbn": "978-0244246591",
+        "paginas": 570,
+        "precio": 15,
+        "ventas": 2188
+    },
+    {
+        "titulo": "Libro 405",
+        "autor": "Autor 405",
+        "isbn": "978-0217072483",
+        "paginas": 543,
+        "precio": 20,
+        "ventas": 46530
+    },
+    {
+        "titulo": "Libro 406",
+        "autor": "Autor 406",
+        "isbn": "978-4792731754",
+        "paginas": 266,
+        "precio": 15,
+        "ventas": 53651
+    },
+    {
+        "titulo": "Libro 407",
+        "autor": "Autor 407",
+        "isbn": "978-1408818517",
+        "paginas": 278,
+        "precio": 25,
+        "ventas": 39543
+    },
+    {
+        "titulo": "Libro 408",
+        "autor": "Autor 408",
+        "isbn": "978-9786754470",
+        "paginas": 154,
+        "precio": 25,
+        "ventas": 28588
+    },
+    {
+        "titulo": "Libro 409",
+        "autor": "Autor 409",
+        "isbn": "978-6703579902",
+        "paginas": 431,
+        "precio": 15,
+        "ventas": 18858
+    },
+    {
+        "titulo": "Libro 410",
+        "autor": "Autor 410",
+        "isbn": "978-3944802765",
+        "paginas": 157,
+        "precio": 20,
+        "ventas": 7846
+    },
+    {
+        "titulo": "Libro 411",
+        "autor": "Autor 411",
+        "isbn": "978-1278225246",
+        "paginas": 518,
+        "precio": 25,
+        "ventas": 44925
+    },
+    {
+        "titulo": "Libro 412",
+        "autor": "Autor 412",
+        "isbn": "978-0037149460",
+        "paginas": 491,
+        "precio": 20,
+        "ventas": 684
+    },
+    {
+        "titulo": "Libro 413",
+        "autor": "Autor 413",
+        "isbn": "978-7186703790",
+        "paginas": 82,
+        "precio": 35,
+        "ventas": 9158
+    },
+    {
+        "titulo": "Libro 414",
+        "autor": "Autor 414",
+        "isbn": "978-6211665297",
+        "paginas": 161,
+        "precio": 10,
+        "ventas": 38328
+    },
+    {
+        "titulo": "Libro 415",
+        "autor": "Autor 415",
+        "isbn": "978-5429828691",
+        "paginas": 563,
+        "precio": 30,
+        "ventas": 41960
+    },
+    {
+        "titulo": "Libro 416",
+        "autor": "Autor 416",
+        "isbn": "978-1757316046",
+        "paginas": 517,
+        "precio": 25,
+        "ventas": 48787
+    },
+    {
+        "titulo": "Libro 417",
+        "autor": "Autor 417",
+        "isbn": "978-8955599103",
+        "paginas": 373,
+        "precio": 15,
+        "ventas": 16368
+    },
+    {
+        "titulo": "Libro 418",
+        "autor": "Autor 418",
+        "isbn": "978-3095101134",
+        "paginas": 124,
+        "precio": 10,
+        "ventas": 41439
+    },
+    {
+        "titulo": "Libro 419",
+        "autor": "Autor 419",
+        "isbn": "978-2599394046",
+        "paginas": 118,
+        "precio": 20,
+        "ventas": 40870
+    },
+    {
+        "titulo": "Libro 420",
+        "autor": "Autor 420",
+        "isbn": "978-9154126736",
+        "paginas": 384,
+        "precio": 15,
+        "ventas": 20290
+    },
+    {
+        "titulo": "Libro 421",
+        "autor": "Autor 421",
+        "isbn": "978-3696588734",
+        "paginas": 599,
+        "precio": 40,
+        "ventas": 33803
+    },
+    {
+        "titulo": "Libro 422",
+        "autor": "Autor 422",
+        "isbn": "978-5538666118",
+        "paginas": 424,
+        "precio": 35,
+        "ventas": 10664
+    },
+    {
+        "titulo": "Libro 423",
+        "autor": "Autor 423",
+        "isbn": "978-1658385376",
+        "paginas": 341,
+        "precio": 25,
+        "ventas": 27853
+    },
+    {
+        "titulo": "Libro 424",
+        "autor": "Autor 424",
+        "isbn": "978-6688973272",
+        "paginas": 476,
+        "precio": 10,
+        "ventas": 23822
+    },
+    {
+        "titulo": "Libro 425",
+        "autor": "Autor 425",
+        "isbn": "978-0433368901",
+        "paginas": 195,
+        "precio": 30,
+        "ventas": 28223
+    },
+    {
+        "titulo": "Libro 426",
+        "autor": "Autor 426",
+        "isbn": "978-5939377127",
+        "paginas": 562,
+        "precio": 35,
+        "ventas": 44238
+    },
+    {
+        "titulo": "Libro 427",
+        "autor": "Autor 427",
+        "isbn": "978-0330762157",
+        "paginas": 325,
+        "precio": 20,
+        "ventas": 25234
+    },
+    {
+        "titulo": "Libro 428",
+        "autor": "Autor 428",
+        "isbn": "978-1547785337",
+        "paginas": 247,
+        "precio": 20,
+        "ventas": 52500
+    },
+    {
+        "titulo": "Libro 429",
+        "autor": "Autor 429",
+        "isbn": "978-7851748092",
+        "paginas": 358,
+        "precio": 30,
+        "ventas": 48761
+    },
+    {
+        "titulo": "Libro 430",
+        "autor": "Autor 430",
+        "isbn": "978-7654263814",
+        "paginas": 377,
+        "precio": 25,
+        "ventas": 35279
+    },
+    {
+        "titulo": "Libro 431",
+        "autor": "Autor 431",
+        "isbn": "978-3819859769",
+        "paginas": 260,
+        "precio": 35,
+        "ventas": 52332
+    },
+    {
+        "titulo": "Libro 432",
+        "autor": "Autor 432",
+        "isbn": "978-3387161163",
+        "paginas": 421,
+        "precio": 10,
+        "ventas": 58992
+    },
+    {
+        "titulo": "Libro 433",
+        "autor": "Autor 433",
+        "isbn": "978-0971995269",
+        "paginas": 438,
+        "precio": 15,
+        "ventas": 13183
+    },
+    {
+        "titulo": "Libro 434",
+        "autor": "Autor 434",
+        "isbn": "978-9990369907",
+        "paginas": 473,
+        "precio": 20,
+        "ventas": 59614
+    },
+    {
+        "titulo": "Libro 435",
+        "autor": "Autor 435",
+        "isbn": "978-4185215753",
+        "paginas": 87,
+        "precio": 25,
+        "ventas": 7931
+    },
+    {
+        "titulo": "Libro 436",
+        "autor": "Autor 436",
+        "isbn": "978-7579179130",
+        "paginas": 278,
+        "precio": 35,
+        "ventas": 31250
+    },
+    {
+        "titulo": "Libro 437",
+        "autor": "Autor 437",
+        "isbn": "978-8282129813",
+        "paginas": 430,
+        "precio": 40,
+        "ventas": 17061
+    },
+    {
+        "titulo": "Libro 438",
+        "autor": "Autor 438",
+        "isbn": "978-1417068487",
+        "paginas": 133,
+        "precio": 25,
+        "ventas": 10791
+    },
+    {
+        "titulo": "Libro 439",
+        "autor": "Autor 439",
+        "isbn": "978-2213770047",
+        "paginas": 306,
+        "precio": 10,
+        "ventas": 46949
+    },
+    {
+        "titulo": "Libro 440",
+        "autor": "Autor 440",
+        "isbn": "978-2642217799",
+        "paginas": 421,
+        "precio": 40,
+        "ventas": 56640
+    },
+    {
+        "titulo": "Libro 441",
+        "autor": "Autor 441",
+        "isbn": "978-1358124294",
+        "paginas": 417,
+        "precio": 20,
+        "ventas": 41354
+    },
+    {
+        "titulo": "Libro 442",
+        "autor": "Autor 442",
+        "isbn": "978-5149181712",
+        "paginas": 298,
+        "precio": 10,
+        "ventas": 32406
+    },
+    {
+        "titulo": "Libro 443",
+        "autor": "Autor 443",
+        "isbn": "978-6246246560",
+        "paginas": 390,
+        "precio": 35,
+        "ventas": 19929
+    },
+    {
+        "titulo": "Libro 444",
+        "autor": "Autor 444",
+        "isbn": "978-0865690915",
+        "paginas": 402,
+        "precio": 10,
+        "ventas": 44232
+    },
+    {
+        "titulo": "Libro 445",
+        "autor": "Autor 445",
+        "isbn": "978-3958440196",
+        "paginas": 433,
+        "precio": 10,
+        "ventas": 37957
+    },
+    {
+        "titulo": "Libro 446",
+        "autor": "Autor 446",
+        "isbn": "978-1827018639",
+        "paginas": 276,
+        "precio": 25,
+        "ventas": 22879
+    },
+    {
+        "titulo": "Libro 447",
+        "autor": "Autor 447",
+        "isbn": "978-0623521648",
+        "paginas": 549,
+        "precio": 15,
+        "ventas": 9464
+    },
+    {
+        "titulo": "Libro 448",
+        "autor": "Autor 448",
+        "isbn": "978-6022950098",
+        "paginas": 238,
+        "precio": 10,
+        "ventas": 41758
+    },
+    {
+        "titulo": "Libro 449",
+        "autor": "Autor 449",
+        "isbn": "978-9241017578",
+        "paginas": 486,
+        "precio": 35,
+        "ventas": 34321
+    },
+    {
+        "titulo": "Libro 450",
+        "autor": "Autor 450",
+        "isbn": "978-8074654766",
+        "paginas": 339,
+        "precio": 10,
+        "ventas": 58218
+    },
+    {
+        "titulo": "Libro 451",
+        "autor": "Autor 451",
+        "isbn": "978-6240365156",
+        "paginas": 169,
+        "precio": 40,
+        "ventas": 28586
+    },
+    {
+        "titulo": "Libro 452",
+        "autor": "Autor 452",
+        "isbn": "978-1824434954",
+        "paginas": 236,
+        "precio": 30,
+        "ventas": 22379
+    },
+    {
+        "titulo": "Libro 453",
+        "autor": "Autor 453",
+        "isbn": "978-5829286599",
+        "paginas": 106,
+        "precio": 20,
+        "ventas": 24820
+    },
+    {
+        "titulo": "Libro 454",
+        "autor": "Autor 454",
+        "isbn": "978-8540216395",
+        "paginas": 386,
+        "precio": 20,
+        "ventas": 1713
+    },
+    {
+        "titulo": "Libro 455",
+        "autor": "Autor 455",
+        "isbn": "978-5230633972",
+        "paginas": 493,
+        "precio": 25,
+        "ventas": 10963
+    },
+    {
+        "titulo": "Libro 456",
+        "autor": "Autor 456",
+        "isbn": "978-0701303350",
+        "paginas": 419,
+        "precio": 40,
+        "ventas": 38043
+    },
+    {
+        "titulo": "Libro 457",
+        "autor": "Autor 457",
+        "isbn": "978-3842550301",
+        "paginas": 545,
+        "precio": 30,
+        "ventas": 22711
+    },
+    {
+        "titulo": "Libro 458",
+        "autor": "Autor 458",
+        "isbn": "978-3648981724",
+        "paginas": 536,
+        "precio": 20,
+        "ventas": 10792
+    },
+    {
+        "titulo": "Libro 459",
+        "autor": "Autor 459",
+        "isbn": "978-5322335886",
+        "paginas": 419,
+        "precio": 40,
+        "ventas": 53299
+    },
+    {
+        "titulo": "Libro 460",
+        "autor": "Autor 460",
+        "isbn": "978-3058451593",
+        "paginas": 282,
+        "precio": 15,
+        "ventas": 31162
+    },
+    {
+        "titulo": "Libro 461",
+        "autor": "Autor 461",
+        "isbn": "978-0127818824",
+        "paginas": 487,
+        "precio": 15,
+        "ventas": 31288
+    },
+    {
+        "titulo": "Libro 462",
+        "autor": "Autor 462",
+        "isbn": "978-5187531090",
+        "paginas": 306,
+        "precio": 20,
+        "ventas": 5447
+    },
+    {
+        "titulo": "Libro 463",
+        "autor": "Autor 463",
+        "isbn": "978-5465079530",
+        "paginas": 309,
+        "precio": 15,
+        "ventas": 11556
+    },
+    {
+        "titulo": "Libro 464",
+        "autor": "Autor 464",
+        "isbn": "978-9460806683",
+        "paginas": 465,
+        "precio": 35,
+        "ventas": 36113
+    },
+    {
+        "titulo": "Libro 465",
+        "autor": "Autor 465",
+        "isbn": "978-8774803871",
+        "paginas": 150,
+        "precio": 35,
+        "ventas": 55236
+    },
+    {
+        "titulo": "Libro 466",
+        "autor": "Autor 466",
+        "isbn": "978-4046191615",
+        "paginas": 234,
+        "precio": 10,
+        "ventas": 54997
+    },
+    {
+        "titulo": "Libro 467",
+        "autor": "Autor 467",
+        "isbn": "978-6958445728",
+        "paginas": 132,
+        "precio": 35,
+        "ventas": 17794
+    },
+    {
+        "titulo": "Libro 468",
+        "autor": "Autor 468",
+        "isbn": "978-4535129149",
+        "paginas": 283,
+        "precio": 20,
+        "ventas": 44421
+    },
+    {
+        "titulo": "Libro 469",
+        "autor": "Autor 469",
+        "isbn": "978-4018305201",
+        "paginas": 182,
+        "precio": 25,
+        "ventas": 19929
+    },
+    {
+        "titulo": "Libro 470",
+        "autor": "Autor 470",
+        "isbn": "978-2693752382",
+        "paginas": 381,
+        "precio": 25,
+        "ventas": 21229
+    },
+    {
+        "titulo": "Libro 471",
+        "autor": "Autor 471",
+        "isbn": "978-6260535415",
+        "paginas": 530,
+        "precio": 20,
+        "ventas": 20017
+    },
+    {
+        "titulo": "Libro 472",
+        "autor": "Autor 472",
+        "isbn": "978-4199101553",
+        "paginas": 123,
+        "precio": 10,
+        "ventas": 42023
+    },
+    {
+        "titulo": "Libro 473",
+        "autor": "Autor 473",
+        "isbn": "978-9066492216",
+        "paginas": 596,
+        "precio": 25,
+        "ventas": 45778
+    },
+    {
+        "titulo": "Libro 474",
+        "autor": "Autor 474",
+        "isbn": "978-3754996916",
+        "paginas": 129,
+        "precio": 40,
+        "ventas": 2000
+    },
+    {
+        "titulo": "Libro 475",
+        "autor": "Autor 475",
+        "isbn": "978-0714604632",
+        "paginas": 507,
+        "precio": 10,
+        "ventas": 16689
+    },
+    {
+        "titulo": "Libro 476",
+        "autor": "Autor 476",
+        "isbn": "978-0641426089",
+        "paginas": 468,
+        "precio": 20,
+        "ventas": 34790
+    },
+    {
+        "titulo": "Libro 477",
+        "autor": "Autor 477",
+        "isbn": "978-9188960038",
+        "paginas": 98,
+        "precio": 35,
+        "ventas": 13191
+    },
+    {
+        "titulo": "Libro 478",
+        "autor": "Autor 478",
+        "isbn": "978-5074026872",
+        "paginas": 180,
+        "precio": 10,
+        "ventas": 44636
+    },
+    {
+        "titulo": "Libro 479",
+        "autor": "Autor 479",
+        "isbn": "978-8665741503",
+        "paginas": 409,
+        "precio": 35,
+        "ventas": 4338
+    },
+    {
+        "titulo": "Libro 480",
+        "autor": "Autor 480",
+        "isbn": "978-4938078200",
+        "paginas": 455,
+        "precio": 40,
+        "ventas": 51767
+    },
+    {
+        "titulo": "Libro 481",
+        "autor": "Autor 481",
+        "isbn": "978-7879483734",
+        "paginas": 155,
+        "precio": 40,
+        "ventas": 17420
+    },
+    {
+        "titulo": "Libro 482",
+        "autor": "Autor 482",
+        "isbn": "978-3754130676",
+        "paginas": 261,
+        "precio": 20,
+        "ventas": 32281
+    },
+    {
+        "titulo": "Libro 483",
+        "autor": "Autor 483",
+        "isbn": "978-2806965616",
+        "paginas": 244,
+        "precio": 40,
+        "ventas": 57012
+    },
+    {
+        "titulo": "Libro 484",
+        "autor": "Autor 484",
+        "isbn": "978-0209734964",
+        "paginas": 324,
+        "precio": 20,
+        "ventas": 38815
+    },
+    {
+        "titulo": "Libro 485",
+        "autor": "Autor 485",
+        "isbn": "978-2565955985",
+        "paginas": 254,
+        "precio": 20,
+        "ventas": 10457
+    },
+    {
+        "titulo": "Libro 486",
+        "autor": "Autor 486",
+        "isbn": "978-7777188257",
+        "paginas": 417,
+        "precio": 15,
+        "ventas": 42481
+    },
+    {
+        "titulo": "Libro 487",
+        "autor": "Autor 487",
+        "isbn": "978-8416345834",
+        "paginas": 139,
+        "precio": 30,
+        "ventas": 48378
+    },
+    {
+        "titulo": "Libro 488",
+        "autor": "Autor 488",
+        "isbn": "978-4485068095",
+        "paginas": 277,
+        "precio": 35,
+        "ventas": 36495
+    },
+    {
+        "titulo": "Libro 489",
+        "autor": "Autor 489",
+        "isbn": "978-6925400799",
+        "paginas": 340,
+        "precio": 30,
+        "ventas": 28413
+    },
+    {
+        "titulo": "Libro 490",
+        "autor": "Autor 490",
+        "isbn": "978-9347086119",
+        "paginas": 434,
+        "precio": 25,
+        "ventas": 44139
+    },
+    {
+        "titulo": "Libro 491",
+        "autor": "Autor 491",
+        "isbn": "978-4632787371",
+        "paginas": 537,
+        "precio": 30,
+        "ventas": 14326
+    },
+    {
+        "titulo": "Libro 492",
+        "autor": "Autor 492",
+        "isbn": "978-1683260970",
+        "paginas": 302,
+        "precio": 25,
+        "ventas": 17248
+    },
+    {
+        "titulo": "Libro 493",
+        "autor": "Autor 493",
+        "isbn": "978-5919885546",
+        "paginas": 261,
+        "precio": 10,
+        "ventas": 27816
+    },
+    {
+        "titulo": "Libro 494",
+        "autor": "Autor 494",
+        "isbn": "978-3076740731",
+        "paginas": 360,
+        "precio": 30,
+        "ventas": 24013
+    },
+    {
+        "titulo": "Libro 495",
+        "autor": "Autor 495",
+        "isbn": "978-0121675804",
+        "paginas": 267,
+        "precio": 10,
+        "ventas": 690
+    },
+    {
+        "titulo": "Libro 496",
+        "autor": "Autor 496",
+        "isbn": "978-9962460429",
+        "paginas": 410,
+        "precio": 20,
+        "ventas": 18760
+    },
+    {
+        "titulo": "Libro 497",
+        "autor": "Autor 497",
+        "isbn": "978-1191333665",
+        "paginas": 348,
+        "precio": 35,
+        "ventas": 7192
+    },
+    {
+        "titulo": "Libro 498",
+        "autor": "Autor 498",
+        "isbn": "978-3653694115",
+        "paginas": 383,
+        "precio": 40,
+        "ventas": 33800
+    },
+    {
+        "titulo": "Libro 499",
+        "autor": "Autor 499",
+        "isbn": "978-7367863517",
+        "paginas": 231,
+        "precio": 40,
+        "ventas": 9037
+    },
+    {
+        "titulo": "Libro 500",
+        "autor": "Autor 500",
+        "isbn": "978-8742689640",
+        "paginas": 270,
+        "precio": 25,
+        "ventas": 24574
+    },
+    {
+        "titulo": "Libro 501",
+        "autor": "Autor 501",
+        "isbn": "978-2306602947",
+        "paginas": 577,
+        "precio": 35,
+        "ventas": 35311
+    },
+    {
+        "titulo": "Libro 502",
+        "autor": "Autor 502",
+        "isbn": "978-3906059198",
+        "paginas": 204,
+        "precio": 35,
+        "ventas": 11929
+    },
+    {
+        "titulo": "Libro 503",
+        "autor": "Autor 503",
+        "isbn": "978-0047665112",
+        "paginas": 134,
+        "precio": 30,
+        "ventas": 30942
+    },
+    {
+        "titulo": "Libro 504",
+        "autor": "Autor 504",
+        "isbn": "978-0972757300",
+        "paginas": 464,
+        "precio": 20,
+        "ventas": 32395
+    },
+    {
+        "titulo": "Libro 505",
+        "autor": "Autor 505",
+        "isbn": "978-1895097680",
+        "paginas": 100,
+        "precio": 30,
+        "ventas": 55204
+    },
+    {
+        "titulo": "Libro 506",
+        "autor": "Autor 506",
+        "isbn": "978-2085846737",
+        "paginas": 593,
+        "precio": 40,
+        "ventas": 57089
+    },
+    {
+        "titulo": "Libro 507",
+        "autor": "Autor 507",
+        "isbn": "978-6041108216",
+        "paginas": 372,
+        "precio": 40,
+        "ventas": 47835
+    },
+    {
+        "titulo": "Libro 508",
+        "autor": "Autor 508",
+        "isbn": "978-3334849250",
+        "paginas": 132,
+        "precio": 30,
+        "ventas": 46282
+    },
+    {
+        "titulo": "Libro 509",
+        "autor": "Autor 509",
+        "isbn": "978-2649023031",
+        "paginas": 583,
+        "precio": 20,
+        "ventas": 24301
+    },
+    {
+        "titulo": "Libro 510",
+        "autor": "Autor 510",
+        "isbn": "978-6722281635",
+        "paginas": 173,
+        "precio": 15,
+        "ventas": 10646
+    },
+    {
+        "titulo": "Libro 511",
+        "autor": "Autor 511",
+        "isbn": "978-8017828771",
+        "paginas": 155,
+        "precio": 10,
+        "ventas": 56324
+    },
+    {
+        "titulo": "Libro 512",
+        "autor": "Autor 512",
+        "isbn": "978-3096261388",
+        "paginas": 364,
+        "precio": 10,
+        "ventas": 6318
+    },
+    {
+        "titulo": "Libro 513",
+        "autor": "Autor 513",
+        "isbn": "978-7588134189",
+        "paginas": 526,
+        "precio": 30,
+        "ventas": 24469
+    },
+    {
+        "titulo": "Libro 514",
+        "autor": "Autor 514",
+        "isbn": "978-3526716813",
+        "paginas": 168,
+        "precio": 40,
+        "ventas": 18536
+    },
+    {
+        "titulo": "Libro 515",
+        "autor": "Autor 515",
+        "isbn": "978-9295176988",
+        "paginas": 264,
+        "precio": 25,
+        "ventas": 5749
+    },
+    {
+        "titulo": "Libro 516",
+        "autor": "Autor 516",
+        "isbn": "978-6401910588",
+        "paginas": 500,
+        "precio": 15,
+        "ventas": 45242
+    },
+    {
+        "titulo": "Libro 517",
+        "autor": "Autor 517",
+        "isbn": "978-0890683058",
+        "paginas": 148,
+        "precio": 25,
+        "ventas": 38199
+    },
+    {
+        "titulo": "Libro 518",
+        "autor": "Autor 518",
+        "isbn": "978-9428391148",
+        "paginas": 302,
+        "precio": 30,
+        "ventas": 18760
+    },
+    {
+        "titulo": "Libro 519",
+        "autor": "Autor 519",
+        "isbn": "978-3703013754",
+        "paginas": 206,
+        "precio": 40,
+        "ventas": 15384
+    },
+    {
+        "titulo": "Libro 520",
+        "autor": "Autor 520",
+        "isbn": "978-9107794728",
+        "paginas": 393,
+        "precio": 40,
+        "ventas": 25309
+    },
+    {
+        "titulo": "Libro 521",
+        "autor": "Autor 521",
+        "isbn": "978-6370056003",
+        "paginas": 467,
+        "precio": 20,
+        "ventas": 38276
+    },
+    {
+        "titulo": "Libro 522",
+        "autor": "Autor 522",
+        "isbn": "978-9592777166",
+        "paginas": 176,
+        "precio": 40,
+        "ventas": 26693
+    },
+    {
+        "titulo": "Libro 523",
+        "autor": "Autor 523",
+        "isbn": "978-1512504664",
+        "paginas": 502,
+        "precio": 10,
+        "ventas": 52276
+    },
+    {
+        "titulo": "Libro 524",
+        "autor": "Autor 524",
+        "isbn": "978-6749382249",
+        "paginas": 240,
+        "precio": 15,
+        "ventas": 15877
+    },
+    {
+        "titulo": "Libro 525",
+        "autor": "Autor 525",
+        "isbn": "978-7974050450",
+        "paginas": 287,
+        "precio": 35,
+        "ventas": 35816
+    },
+    {
+        "titulo": "Libro 526",
+        "autor": "Autor 526",
+        "isbn": "978-8983039058",
+        "paginas": 110,
+        "precio": 30,
+        "ventas": 29086
+    },
+    {
+        "titulo": "Libro 527",
+        "autor": "Autor 527",
+        "isbn": "978-0854491104",
+        "paginas": 505,
+        "precio": 10,
+        "ventas": 39700
+    },
+    {
+        "titulo": "Libro 528",
+        "autor": "Autor 528",
+        "isbn": "978-9890824808",
+        "paginas": 365,
+        "precio": 20,
+        "ventas": 35286
+    },
+    {
+        "titulo": "Libro 529",
+        "autor": "Autor 529",
+        "isbn": "978-6275831733",
+        "paginas": 374,
+        "precio": 20,
+        "ventas": 55616
+    },
+    {
+        "titulo": "Libro 530",
+        "autor": "Autor 530",
+        "isbn": "978-7302620842",
+        "paginas": 394,
+        "precio": 40,
+        "ventas": 40495
+    },
+    {
+        "titulo": "Libro 531",
+        "autor": "Autor 531",
+        "isbn": "978-0842150073",
+        "paginas": 506,
+        "precio": 15,
+        "ventas": 50623
+    },
+    {
+        "titulo": "Libro 532",
+        "autor": "Autor 532",
+        "isbn": "978-0375268793",
+        "paginas": 503,
+        "precio": 35,
+        "ventas": 35902
+    },
+    {
+        "titulo": "Libro 533",
+        "autor": "Autor 533",
+        "isbn": "978-4134753532",
+        "paginas": 366,
+        "precio": 15,
+        "ventas": 53086
+    },
+    {
+        "titulo": "Libro 534",
+        "autor": "Autor 534",
+        "isbn": "978-6257961305",
+        "paginas": 583,
+        "precio": 30,
+        "ventas": 31509
+    },
+    {
+        "titulo": "Libro 535",
+        "autor": "Autor 535",
+        "isbn": "978-8499986746",
+        "paginas": 489,
+        "precio": 20,
+        "ventas": 105
+    },
+    {
+        "titulo": "Libro 536",
+        "autor": "Autor 536",
+        "isbn": "978-2030702135",
+        "paginas": 458,
+        "precio": 30,
+        "ventas": 10322
+    },
+    {
+        "titulo": "Libro 537",
+        "autor": "Autor 537",
+        "isbn": "978-1000372288",
+        "paginas": 143,
+        "precio": 25,
+        "ventas": 37346
+    },
+    {
+        "titulo": "Libro 538",
+        "autor": "Autor 538",
+        "isbn": "978-0522315169",
+        "paginas": 123,
+        "precio": 35,
+        "ventas": 28832
+    },
+    {
+        "titulo": "Libro 539",
+        "autor": "Autor 539",
+        "isbn": "978-5744970706",
+        "paginas": 493,
+        "precio": 15,
+        "ventas": 50236
+    },
+    {
+        "titulo": "Libro 540",
+        "autor": "Autor 540",
+        "isbn": "978-2044321774",
+        "paginas": 147,
+        "precio": 25,
+        "ventas": 59564
+    },
+    {
+        "titulo": "Libro 541",
+        "autor": "Autor 541",
+        "isbn": "978-2358989919",
+        "paginas": 182,
+        "precio": 15,
+        "ventas": 9310
+    },
+    {
+        "titulo": "Libro 542",
+        "autor": "Autor 542",
+        "isbn": "978-9276486033",
+        "paginas": 499,
+        "precio": 40,
+        "ventas": 31436
+    },
+    {
+        "titulo": "Libro 543",
+        "autor": "Autor 543",
+        "isbn": "978-3133710702",
+        "paginas": 111,
+        "precio": 25,
+        "ventas": 2375
+    },
+    {
+        "titulo": "Libro 544",
+        "autor": "Autor 544",
+        "isbn": "978-4676466655",
+        "paginas": 134,
+        "precio": 40,
+        "ventas": 55976
+    },
+    {
+        "titulo": "Libro 545",
+        "autor": "Autor 545",
+        "isbn": "978-1210792178",
+        "paginas": 189,
+        "precio": 15,
+        "ventas": 57239
+    },
+    {
+        "titulo": "Libro 546",
+        "autor": "Autor 546",
+        "isbn": "978-2200018755",
+        "paginas": 280,
+        "precio": 20,
+        "ventas": 1466
+    },
+    {
+        "titulo": "Libro 547",
+        "autor": "Autor 547",
+        "isbn": "978-9599039008",
+        "paginas": 545,
+        "precio": 10,
+        "ventas": 517
+    },
+    {
+        "titulo": "Libro 548",
+        "autor": "Autor 548",
+        "isbn": "978-0331893969",
+        "paginas": 372,
+        "precio": 35,
+        "ventas": 36831
+    },
+    {
+        "titulo": "Libro 549",
+        "autor": "Autor 549",
+        "isbn": "978-0943229316",
+        "paginas": 170,
+        "precio": 30,
+        "ventas": 44162
+    },
+    {
+        "titulo": "Libro 550",
+        "autor": "Autor 550",
+        "isbn": "978-6278643118",
+        "paginas": 536,
+        "precio": 30,
+        "ventas": 28201
+    },
+    {
+        "titulo": "Libro 551",
+        "autor": "Autor 551",
+        "isbn": "978-5705856300",
+        "paginas": 126,
+        "precio": 25,
+        "ventas": 5805
+    },
+    {
+        "titulo": "Libro 552",
+        "autor": "Autor 552",
+        "isbn": "978-4424216519",
+        "paginas": 371,
+        "precio": 40,
+        "ventas": 8021
+    },
+    {
+        "titulo": "Libro 553",
+        "autor": "Autor 553",
+        "isbn": "978-4591737848",
+        "paginas": 193,
+        "precio": 30,
+        "ventas": 20733
+    },
+    {
+        "titulo": "Libro 554",
+        "autor": "Autor 554",
+        "isbn": "978-7560028078",
+        "paginas": 561,
+        "precio": 20,
+        "ventas": 49111
+    },
+    {
+        "titulo": "Libro 555",
+        "autor": "Autor 555",
+        "isbn": "978-1809421604",
+        "paginas": 393,
+        "precio": 40,
+        "ventas": 10192
+    },
+    {
+        "titulo": "Libro 556",
+        "autor": "Autor 556",
+        "isbn": "978-7459278541",
+        "paginas": 285,
+        "precio": 30,
+        "ventas": 12962
+    },
+    {
+        "titulo": "Libro 557",
+        "autor": "Autor 557",
+        "isbn": "978-1822631141",
+        "paginas": 384,
+        "precio": 20,
+        "ventas": 16667
+    },
+    {
+        "titulo": "Libro 558",
+        "autor": "Autor 558",
+        "isbn": "978-1811122184",
+        "paginas": 502,
+        "precio": 20,
+        "ventas": 30943
+    },
+    {
+        "titulo": "Libro 559",
+        "autor": "Autor 559",
+        "isbn": "978-6078353404",
+        "paginas": 250,
+        "precio": 35,
+        "ventas": 24439
+    },
+    {
+        "titulo": "Libro 560",
+        "autor": "Autor 560",
+        "isbn": "978-0098027775",
+        "paginas": 144,
+        "precio": 20,
+        "ventas": 46070
+    },
+    {
+        "titulo": "Libro 561",
+        "autor": "Autor 561",
+        "isbn": "978-7886004238",
+        "paginas": 378,
+        "precio": 25,
+        "ventas": 28278
+    },
+    {
+        "titulo": "Libro 562",
+        "autor": "Autor 562",
+        "isbn": "978-4888527812",
+        "paginas": 102,
+        "precio": 25,
+        "ventas": 42110
+    },
+    {
+        "titulo": "Libro 563",
+        "autor": "Autor 563",
+        "isbn": "978-4896441083",
+        "paginas": 356,
+        "precio": 20,
+        "ventas": 57509
+    },
+    {
+        "titulo": "Libro 564",
+        "autor": "Autor 564",
+        "isbn": "978-5892145655",
+        "paginas": 561,
+        "precio": 40,
+        "ventas": 9895
+    },
+    {
+        "titulo": "Libro 565",
+        "autor": "Autor 565",
+        "isbn": "978-6238305161",
+        "paginas": 527,
+        "precio": 30,
+        "ventas": 24416
+    },
+    {
+        "titulo": "Libro 566",
+        "autor": "Autor 566",
+        "isbn": "978-4122173632",
+        "paginas": 591,
+        "precio": 15,
+        "ventas": 38325
+    },
+    {
+        "titulo": "Libro 567",
+        "autor": "Autor 567",
+        "isbn": "978-3159421257",
+        "paginas": 548,
+        "precio": 20,
+        "ventas": 11527
+    },
+    {
+        "titulo": "Libro 568",
+        "autor": "Autor 568",
+        "isbn": "978-2129108775",
+        "paginas": 325,
+        "precio": 40,
+        "ventas": 23001
+    },
+    {
+        "titulo": "Libro 569",
+        "autor": "Autor 569",
+        "isbn": "978-5122672963",
+        "paginas": 83,
+        "precio": 35,
+        "ventas": 33109
+    },
+    {
+        "titulo": "Libro 570",
+        "autor": "Autor 570",
+        "isbn": "978-5908021743",
+        "paginas": 382,
+        "precio": 15,
+        "ventas": 29631
+    },
+    {
+        "titulo": "Libro 571",
+        "autor": "Autor 571",
+        "isbn": "978-5564033734",
+        "paginas": 132,
+        "precio": 15,
+        "ventas": 18531
+    },
+    {
+        "titulo": "Libro 572",
+        "autor": "Autor 572",
+        "isbn": "978-6173469192",
+        "paginas": 413,
+        "precio": 40,
+        "ventas": 9765
+    },
+    {
+        "titulo": "Libro 573",
+        "autor": "Autor 573",
+        "isbn": "978-8450532199",
+        "paginas": 380,
+        "precio": 30,
+        "ventas": 31080
+    },
+    {
+        "titulo": "Libro 574",
+        "autor": "Autor 574",
+        "isbn": "978-3815170432",
+        "paginas": 447,
+        "precio": 30,
+        "ventas": 29168
+    },
+    {
+        "titulo": "Libro 575",
+        "autor": "Autor 575",
+        "isbn": "978-4057625080",
+        "paginas": 134,
+        "precio": 20,
+        "ventas": 56982
+    },
+    {
+        "titulo": "Libro 576",
+        "autor": "Autor 576",
+        "isbn": "978-4104551227",
+        "paginas": 236,
+        "precio": 30,
+        "ventas": 29439
+    },
+    {
+        "titulo": "Libro 577",
+        "autor": "Autor 577",
+        "isbn": "978-1419567721",
+        "paginas": 187,
+        "precio": 20,
+        "ventas": 3562
+    },
+    {
+        "titulo": "Libro 578",
+        "autor": "Autor 578",
+        "isbn": "978-0721304384",
+        "paginas": 249,
+        "precio": 35,
+        "ventas": 16139
+    },
+    {
+        "titulo": "Libro 579",
+        "autor": "Autor 579",
+        "isbn": "978-1442463518",
+        "paginas": 219,
+        "precio": 10,
+        "ventas": 12517
+    },
+    {
+        "titulo": "Libro 580",
+        "autor": "Autor 580",
+        "isbn": "978-0315011241",
+        "paginas": 113,
+        "precio": 25,
+        "ventas": 39791
+    },
+    {
+        "titulo": "Libro 581",
+        "autor": "Autor 581",
+        "isbn": "978-2647400918",
+        "paginas": 395,
+        "precio": 10,
+        "ventas": 51538
+    },
+    {
+        "titulo": "Libro 582",
+        "autor": "Autor 582",
+        "isbn": "978-0756981269",
+        "paginas": 215,
+        "precio": 30,
+        "ventas": 29704
+    },
+    {
+        "titulo": "Libro 583",
+        "autor": "Autor 583",
+        "isbn": "978-3451779659",
+        "paginas": 520,
+        "precio": 20,
+        "ventas": 32524
+    },
+    {
+        "titulo": "Libro 584",
+        "autor": "Autor 584",
+        "isbn": "978-9859370228",
+        "paginas": 292,
+        "precio": 15,
+        "ventas": 39632
+    },
+    {
+        "titulo": "Libro 585",
+        "autor": "Autor 585",
+        "isbn": "978-0788343608",
+        "paginas": 246,
+        "precio": 30,
+        "ventas": 27410
+    },
+    {
+        "titulo": "Libro 586",
+        "autor": "Autor 586",
+        "isbn": "978-1148779431",
+        "paginas": 155,
+        "precio": 20,
+        "ventas": 38738
+    },
+    {
+        "titulo": "Libro 587",
+        "autor": "Autor 587",
+        "isbn": "978-7235649334",
+        "paginas": 147,
+        "precio": 30,
+        "ventas": 53433
+    },
+    {
+        "titulo": "Libro 588",
+        "autor": "Autor 588",
+        "isbn": "978-1350278154",
+        "paginas": 201,
+        "precio": 30,
+        "ventas": 4410
+    },
+    {
+        "titulo": "Libro 589",
+        "autor": "Autor 589",
+        "isbn": "978-4025532919",
+        "paginas": 191,
+        "precio": 35,
+        "ventas": 23469
+    },
+    {
+        "titulo": "Libro 590",
+        "autor": "Autor 590",
+        "isbn": "978-7104675924",
+        "paginas": 89,
+        "precio": 10,
+        "ventas": 5163
+    },
+    {
+        "titulo": "Libro 591",
+        "autor": "Autor 591",
+        "isbn": "978-2818299415",
+        "paginas": 482,
+        "precio": 30,
+        "ventas": 27830
+    },
+    {
+        "titulo": "Libro 592",
+        "autor": "Autor 592",
+        "isbn": "978-4964190942",
+        "paginas": 543,
+        "precio": 15,
+        "ventas": 3303
+    },
+    {
+        "titulo": "Libro 593",
+        "autor": "Autor 593",
+        "isbn": "978-1099370802",
+        "paginas": 112,
+        "precio": 40,
+        "ventas": 10189
+    },
+    {
+        "titulo": "Libro 594",
+        "autor": "Autor 594",
+        "isbn": "978-8594923762",
+        "paginas": 390,
+        "precio": 10,
+        "ventas": 7850
+    },
+    {
+        "titulo": "Libro 595",
+        "autor": "Autor 595",
+        "isbn": "978-8694929541",
+        "paginas": 318,
+        "precio": 35,
+        "ventas": 56261
+    },
+    {
+        "titulo": "Libro 596",
+        "autor": "Autor 596",
+        "isbn": "978-8055458540",
+        "paginas": 163,
+        "precio": 25,
+        "ventas": 22478
+    },
+    {
+        "titulo": "Libro 597",
+        "autor": "Autor 597",
+        "isbn": "978-5047500454",
+        "paginas": 362,
+        "precio": 10,
+        "ventas": 42531
+    },
+    {
+        "titulo": "Libro 598",
+        "autor": "Autor 598",
+        "isbn": "978-0583077414",
+        "paginas": 245,
+        "precio": 15,
+        "ventas": 22479
+    },
+    {
+        "titulo": "Libro 599",
+        "autor": "Autor 599",
+        "isbn": "978-7413473913",
+        "paginas": 354,
+        "precio": 10,
+        "ventas": 42771
+    },
+    {
+        "titulo": "Libro 600",
+        "autor": "Autor 600",
+        "isbn": "978-9867197454",
+        "paginas": 221,
+        "precio": 15,
+        "ventas": 53537
+    },
+    {
+        "titulo": "Libro 601",
+        "autor": "Autor 601",
+        "isbn": "978-7693157932",
+        "paginas": 87,
+        "precio": 40,
+        "ventas": 39848
+    },
+    {
+        "titulo": "Libro 602",
+        "autor": "Autor 602",
+        "isbn": "978-6067930932",
+        "paginas": 380,
+        "precio": 25,
+        "ventas": 21809
+    },
+    {
+        "titulo": "Libro 603",
+        "autor": "Autor 603",
+        "isbn": "978-0153349298",
+        "paginas": 343,
+        "precio": 10,
+        "ventas": 2507
+    },
+    {
+        "titulo": "Libro 604",
+        "autor": "Autor 604",
+        "isbn": "978-2201007569",
+        "paginas": 591,
+        "precio": 35,
+        "ventas": 17732
+    },
+    {
+        "titulo": "Libro 605",
+        "autor": "Autor 605",
+        "isbn": "978-3060420623",
+        "paginas": 429,
+        "precio": 30,
+        "ventas": 55486
+    },
+    {
+        "titulo": "Libro 606",
+        "autor": "Autor 606",
+        "isbn": "978-8716066150",
+        "paginas": 274,
+        "precio": 15,
+        "ventas": 55116
+    },
+    {
+        "titulo": "Libro 607",
+        "autor": "Autor 607",
+        "isbn": "978-6854583676",
+        "paginas": 387,
+        "precio": 10,
+        "ventas": 21412
+    },
+    {
+        "titulo": "Libro 608",
+        "autor": "Autor 608",
+        "isbn": "978-7475005822",
+        "paginas": 544,
+        "precio": 15,
+        "ventas": 59725
+    },
+    {
+        "titulo": "Libro 609",
+        "autor": "Autor 609",
+        "isbn": "978-5304495851",
+        "paginas": 535,
+        "precio": 15,
+        "ventas": 54291
+    },
+    {
+        "titulo": "Libro 610",
+        "autor": "Autor 610",
+        "isbn": "978-3613750851",
+        "paginas": 295,
+        "precio": 15,
+        "ventas": 50481
+    },
+    {
+        "titulo": "Libro 611",
+        "autor": "Autor 611",
+        "isbn": "978-5183753892",
+        "paginas": 385,
+        "precio": 30,
+        "ventas": 56922
+    },
+    {
+        "titulo": "Libro 612",
+        "autor": "Autor 612",
+        "isbn": "978-9327397732",
+        "paginas": 448,
+        "precio": 35,
+        "ventas": 539
+    },
+    {
+        "titulo": "Libro 613",
+        "autor": "Autor 613",
+        "isbn": "978-0741254299",
+        "paginas": 313,
+        "precio": 10,
+        "ventas": 33506
+    },
+    {
+        "titulo": "Libro 614",
+        "autor": "Autor 614",
+        "isbn": "978-0718157145",
+        "paginas": 199,
+        "precio": 25,
+        "ventas": 58610
+    },
+    {
+        "titulo": "Libro 615",
+        "autor": "Autor 615",
+        "isbn": "978-7507075730",
+        "paginas": 451,
+        "precio": 15,
+        "ventas": 51472
+    },
+    {
+        "titulo": "Libro 616",
+        "autor": "Autor 616",
+        "isbn": "978-2023946912",
+        "paginas": 123,
+        "precio": 40,
+        "ventas": 26661
+    },
+    {
+        "titulo": "Libro 617",
+        "autor": "Autor 617",
+        "isbn": "978-5700975293",
+        "paginas": 471,
+        "precio": 40,
+        "ventas": 4761
+    },
+    {
+        "titulo": "Libro 618",
+        "autor": "Autor 618",
+        "isbn": "978-4935453455",
+        "paginas": 287,
+        "precio": 40,
+        "ventas": 24709
+    },
+    {
+        "titulo": "Libro 619",
+        "autor": "Autor 619",
+        "isbn": "978-2083672328",
+        "paginas": 286,
+        "precio": 25,
+        "ventas": 39579
+    },
+    {
+        "titulo": "Libro 620",
+        "autor": "Autor 620",
+        "isbn": "978-0081751232",
+        "paginas": 104,
+        "precio": 30,
+        "ventas": 45908
+    },
+    {
+        "titulo": "Libro 621",
+        "autor": "Autor 621",
+        "isbn": "978-4395208521",
+        "paginas": 226,
+        "precio": 20,
+        "ventas": 35848
+    },
+    {
+        "titulo": "Libro 622",
+        "autor": "Autor 622",
+        "isbn": "978-4652795671",
+        "paginas": 575,
+        "precio": 15,
+        "ventas": 1028
+    },
+    {
+        "titulo": "Libro 623",
+        "autor": "Autor 623",
+        "isbn": "978-3408842848",
+        "paginas": 578,
+        "precio": 25,
+        "ventas": 59092
+    },
+    {
+        "titulo": "Libro 624",
+        "autor": "Autor 624",
+        "isbn": "978-3704662607",
+        "paginas": 89,
+        "precio": 15,
+        "ventas": 34360
+    },
+    {
+        "titulo": "Libro 625",
+        "autor": "Autor 625",
+        "isbn": "978-5705433486",
+        "paginas": 527,
+        "precio": 30,
+        "ventas": 7757
+    },
+    {
+        "titulo": "Libro 626",
+        "autor": "Autor 626",
+        "isbn": "978-6158998264",
+        "paginas": 476,
+        "precio": 15,
+        "ventas": 46263
+    },
+    {
+        "titulo": "Libro 627",
+        "autor": "Autor 627",
+        "isbn": "978-9972646796",
+        "paginas": 571,
+        "precio": 30,
+        "ventas": 19629
+    },
+    {
+        "titulo": "Libro 628",
+        "autor": "Autor 628",
+        "isbn": "978-8394940432",
+        "paginas": 153,
+        "precio": 30,
+        "ventas": 5702
+    },
+    {
+        "titulo": "Libro 629",
+        "autor": "Autor 629",
+        "isbn": "978-5632059676",
+        "paginas": 516,
+        "precio": 25,
+        "ventas": 6168
+    },
+    {
+        "titulo": "Libro 630",
+        "autor": "Autor 630",
+        "isbn": "978-4934867319",
+        "paginas": 526,
+        "precio": 30,
+        "ventas": 33052
+    },
+    {
+        "titulo": "Libro 631",
+        "autor": "Autor 631",
+        "isbn": "978-7959425202",
+        "paginas": 388,
+        "precio": 25,
+        "ventas": 11609
+    },
+    {
+        "titulo": "Libro 632",
+        "autor": "Autor 632",
+        "isbn": "978-5073715173",
+        "paginas": 259,
+        "precio": 20,
+        "ventas": 44725
+    },
+    {
+        "titulo": "Libro 633",
+        "autor": "Autor 633",
+        "isbn": "978-8511841203",
+        "paginas": 117,
+        "precio": 40,
+        "ventas": 392
+    },
+    {
+        "titulo": "Libro 634",
+        "autor": "Autor 634",
+        "isbn": "978-2694000747",
+        "paginas": 340,
+        "precio": 10,
+        "ventas": 45178
+    },
+    {
+        "titulo": "Libro 635",
+        "autor": "Autor 635",
+        "isbn": "978-0388213659",
+        "paginas": 352,
+        "precio": 40,
+        "ventas": 45561
+    },
+    {
+        "titulo": "Libro 636",
+        "autor": "Autor 636",
+        "isbn": "978-0648697921",
+        "paginas": 94,
+        "precio": 20,
+        "ventas": 11459
+    },
+    {
+        "titulo": "Libro 637",
+        "autor": "Autor 637",
+        "isbn": "978-2881598967",
+        "paginas": 503,
+        "precio": 10,
+        "ventas": 28974
+    },
+    {
+        "titulo": "Libro 638",
+        "autor": "Autor 638",
+        "isbn": "978-3399122560",
+        "paginas": 83,
+        "precio": 30,
+        "ventas": 2141
+    },
+    {
+        "titulo": "Libro 639",
+        "autor": "Autor 639",
+        "isbn": "978-0069456281",
+        "paginas": 116,
+        "precio": 30,
+        "ventas": 970
+    },
+    {
+        "titulo": "Libro 640",
+        "autor": "Autor 640",
+        "isbn": "978-1334430488",
+        "paginas": 460,
+        "precio": 15,
+        "ventas": 46116
+    },
+    {
+        "titulo": "Libro 641",
+        "autor": "Autor 641",
+        "isbn": "978-6263239976",
+        "paginas": 585,
+        "precio": 40,
+        "ventas": 38978
+    },
+    {
+        "titulo": "Libro 642",
+        "autor": "Autor 642",
+        "isbn": "978-0250205065",
+        "paginas": 405,
+        "precio": 35,
+        "ventas": 18154
+    },
+    {
+        "titulo": "Libro 643",
+        "autor": "Autor 643",
+        "isbn": "978-6708483016",
+        "paginas": 563,
+        "precio": 20,
+        "ventas": 12903
+    },
+    {
+        "titulo": "Libro 644",
+        "autor": "Autor 644",
+        "isbn": "978-0228474407",
+        "paginas": 113,
+        "precio": 15,
+        "ventas": 20306
+    },
+    {
+        "titulo": "Libro 645",
+        "autor": "Autor 645",
+        "isbn": "978-0073341076",
+        "paginas": 552,
+        "precio": 35,
+        "ventas": 32291
+    },
+    {
+        "titulo": "Libro 646",
+        "autor": "Autor 646",
+        "isbn": "978-2333107365",
+        "paginas": 130,
+        "precio": 15,
+        "ventas": 16137
+    },
+    {
+        "titulo": "Libro 647",
+        "autor": "Autor 647",
+        "isbn": "978-8131446612",
+        "paginas": 81,
+        "precio": 35,
+        "ventas": 25783
+    },
+    {
+        "titulo": "Libro 648",
+        "autor": "Autor 648",
+        "isbn": "978-7758606868",
+        "paginas": 193,
+        "precio": 15,
+        "ventas": 54959
+    },
+    {
+        "titulo": "Libro 649",
+        "autor": "Autor 649",
+        "isbn": "978-5128565242",
+        "paginas": 413,
+        "precio": 30,
+        "ventas": 26920
+    },
+    {
+        "titulo": "Libro 650",
+        "autor": "Autor 650",
+        "isbn": "978-1669232398",
+        "paginas": 372,
+        "precio": 10,
+        "ventas": 5497
+    },
+    {
+        "titulo": "Libro 651",
+        "autor": "Autor 651",
+        "isbn": "978-5912295346",
+        "paginas": 364,
+        "precio": 35,
+        "ventas": 6335
+    },
+    {
+        "titulo": "Libro 652",
+        "autor": "Autor 652",
+        "isbn": "978-7068465130",
+        "paginas": 95,
+        "precio": 10,
+        "ventas": 53960
+    },
+    {
+        "titulo": "Libro 653",
+        "autor": "Autor 653",
+        "isbn": "978-8694007260",
+        "paginas": 152,
+        "precio": 30,
+        "ventas": 25033
+    },
+    {
+        "titulo": "Libro 654",
+        "autor": "Autor 654",
+        "isbn": "978-9127917197",
+        "paginas": 366,
+        "precio": 15,
+        "ventas": 16808
+    },
+    {
+        "titulo": "Libro 655",
+        "autor": "Autor 655",
+        "isbn": "978-2668178729",
+        "paginas": 382,
+        "precio": 15,
+        "ventas": 14258
+    },
+    {
+        "titulo": "Libro 656",
+        "autor": "Autor 656",
+        "isbn": "978-3665148335",
+        "paginas": 292,
+        "precio": 20,
+        "ventas": 34038
+    },
+    {
+        "titulo": "Libro 657",
+        "autor": "Autor 657",
+        "isbn": "978-6162378097",
+        "paginas": 542,
+        "precio": 15,
+        "ventas": 57784
+    },
+    {
+        "titulo": "Libro 658",
+        "autor": "Autor 658",
+        "isbn": "978-9923620891",
+        "paginas": 341,
+        "precio": 40,
+        "ventas": 8562
+    },
+    {
+        "titulo": "Libro 659",
+        "autor": "Autor 659",
+        "isbn": "978-4739897698",
+        "paginas": 142,
+        "precio": 15,
+        "ventas": 51384
+    },
+    {
+        "titulo": "Libro 660",
+        "autor": "Autor 660",
+        "isbn": "978-4778489855",
+        "paginas": 532,
+        "precio": 15,
+        "ventas": 53506
+    },
+    {
+        "titulo": "Libro 661",
+        "autor": "Autor 661",
+        "isbn": "978-3381471798",
+        "paginas": 471,
+        "precio": 15,
+        "ventas": 47897
+    },
+    {
+        "titulo": "Libro 662",
+        "autor": "Autor 662",
+        "isbn": "978-9120440355",
+        "paginas": 431,
+        "precio": 35,
+        "ventas": 32308
+    },
+    {
+        "titulo": "Libro 663",
+        "autor": "Autor 663",
+        "isbn": "978-2987101847",
+        "paginas": 477,
+        "precio": 20,
+        "ventas": 35176
+    },
+    {
+        "titulo": "Libro 664",
+        "autor": "Autor 664",
+        "isbn": "978-2949577348",
+        "paginas": 558,
+        "precio": 30,
+        "ventas": 25643
+    },
+    {
+        "titulo": "Libro 665",
+        "autor": "Autor 665",
+        "isbn": "978-6098795439",
+        "paginas": 179,
+        "precio": 25,
+        "ventas": 3640
+    },
+    {
+        "titulo": "Libro 666",
+        "autor": "Autor 666",
+        "isbn": "978-1475722482",
+        "paginas": 335,
+        "precio": 25,
+        "ventas": 10437
+    },
+    {
+        "titulo": "Libro 667",
+        "autor": "Autor 667",
+        "isbn": "978-9756142410",
+        "paginas": 197,
+        "precio": 15,
+        "ventas": 32882
+    },
+    {
+        "titulo": "Libro 668",
+        "autor": "Autor 668",
+        "isbn": "978-8062567367",
+        "paginas": 571,
+        "precio": 20,
+        "ventas": 34114
+    },
+    {
+        "titulo": "Libro 669",
+        "autor": "Autor 669",
+        "isbn": "978-8009969001",
+        "paginas": 510,
+        "precio": 25,
+        "ventas": 6775
+    },
+    {
+        "titulo": "Libro 670",
+        "autor": "Autor 670",
+        "isbn": "978-2137599902",
+        "paginas": 495,
+        "precio": 40,
+        "ventas": 47903
+    },
+    {
+        "titulo": "Libro 671",
+        "autor": "Autor 671",
+        "isbn": "978-1433075488",
+        "paginas": 295,
+        "precio": 30,
+        "ventas": 39706
+    },
+    {
+        "titulo": "Libro 672",
+        "autor": "Autor 672",
+        "isbn": "978-4670043868",
+        "paginas": 298,
+        "precio": 40,
+        "ventas": 38088
+    },
+    {
+        "titulo": "Libro 673",
+        "autor": "Autor 673",
+        "isbn": "978-6037430675",
+        "paginas": 227,
+        "precio": 40,
+        "ventas": 18542
+    },
+    {
+        "titulo": "Libro 674",
+        "autor": "Autor 674",
+        "isbn": "978-0338865545",
+        "paginas": 157,
+        "precio": 30,
+        "ventas": 5899
+    },
+    {
+        "titulo": "Libro 675",
+        "autor": "Autor 675",
+        "isbn": "978-8741569719",
+        "paginas": 366,
+        "precio": 15,
+        "ventas": 16000
+    },
+    {
+        "titulo": "Libro 676",
+        "autor": "Autor 676",
+        "isbn": "978-9023348198",
+        "paginas": 382,
+        "precio": 15,
+        "ventas": 20001
+    },
+    {
+        "titulo": "Libro 677",
+        "autor": "Autor 677",
+        "isbn": "978-2039234394",
+        "paginas": 191,
+        "precio": 30,
+        "ventas": 38732
+    },
+    {
+        "titulo": "Libro 678",
+        "autor": "Autor 678",
+        "isbn": "978-4496936406",
+        "paginas": 260,
+        "precio": 10,
+        "ventas": 46292
+    },
+    {
+        "titulo": "Libro 679",
+        "autor": "Autor 679",
+        "isbn": "978-3339408522",
+        "paginas": 566,
+        "precio": 35,
+        "ventas": 10678
+    },
+    {
+        "titulo": "Libro 680",
+        "autor": "Autor 680",
+        "isbn": "978-6890324769",
+        "paginas": 475,
+        "precio": 40,
+        "ventas": 58441
+    },
+    {
+        "titulo": "Libro 681",
+        "autor": "Autor 681",
+        "isbn": "978-2995220073",
+        "paginas": 290,
+        "precio": 30,
+        "ventas": 38848
+    },
+    {
+        "titulo": "Libro 682",
+        "autor": "Autor 682",
+        "isbn": "978-3064216247",
+        "paginas": 268,
+        "precio": 40,
+        "ventas": 30346
+    },
+    {
+        "titulo": "Libro 683",
+        "autor": "Autor 683",
+        "isbn": "978-4600966621",
+        "paginas": 584,
+        "precio": 20,
+        "ventas": 43228
+    },
+    {
+        "titulo": "Libro 684",
+        "autor": "Autor 684",
+        "isbn": "978-7825212321",
+        "paginas": 224,
+        "precio": 20,
+        "ventas": 31168
+    },
+    {
+        "titulo": "Libro 685",
+        "autor": "Autor 685",
+        "isbn": "978-7040436567",
+        "paginas": 284,
+        "precio": 30,
+        "ventas": 15977
+    },
+    {
+        "titulo": "Libro 686",
+        "autor": "Autor 686",
+        "isbn": "978-9476150002",
+        "paginas": 252,
+        "precio": 25,
+        "ventas": 17474
+    },
+    {
+        "titulo": "Libro 687",
+        "autor": "Autor 687",
+        "isbn": "978-4568923836",
+        "paginas": 378,
+        "precio": 10,
+        "ventas": 23479
+    },
+    {
+        "titulo": "Libro 688",
+        "autor": "Autor 688",
+        "isbn": "978-4138693762",
+        "paginas": 187,
+        "precio": 30,
+        "ventas": 41594
+    },
+    {
+        "titulo": "Libro 689",
+        "autor": "Autor 689",
+        "isbn": "978-4936922941",
+        "paginas": 500,
+        "precio": 15,
+        "ventas": 39101
+    },
+    {
+        "titulo": "Libro 690",
+        "autor": "Autor 690",
+        "isbn": "978-6063682407",
+        "paginas": 360,
+        "precio": 20,
+        "ventas": 9192
+    },
+    {
+        "titulo": "Libro 691",
+        "autor": "Autor 691",
+        "isbn": "978-6140491959",
+        "paginas": 208,
+        "precio": 20,
+        "ventas": 30379
+    },
+    {
+        "titulo": "Libro 692",
+        "autor": "Autor 692",
+        "isbn": "978-5527346411",
+        "paginas": 184,
+        "precio": 35,
+        "ventas": 35822
+    },
+    {
+        "titulo": "Libro 693",
+        "autor": "Autor 693",
+        "isbn": "978-2348921330",
+        "paginas": 245,
+        "precio": 10,
+        "ventas": 48174
+    },
+    {
+        "titulo": "Libro 694",
+        "autor": "Autor 694",
+        "isbn": "978-3225793690",
+        "paginas": 138,
+        "precio": 40,
+        "ventas": 38129
+    },
+    {
+        "titulo": "Libro 695",
+        "autor": "Autor 695",
+        "isbn": "978-3951452616",
+        "paginas": 180,
+        "precio": 30,
+        "ventas": 4299
+    },
+    {
+        "titulo": "Libro 696",
+        "autor": "Autor 696",
+        "isbn": "978-3691047913",
+        "paginas": 107,
+        "precio": 35,
+        "ventas": 42305
+    },
+    {
+        "titulo": "Libro 697",
+        "autor": "Autor 697",
+        "isbn": "978-7289951529",
+        "paginas": 162,
+        "precio": 10,
+        "ventas": 30340
+    },
+    {
+        "titulo": "Libro 698",
+        "autor": "Autor 698",
+        "isbn": "978-2057325595",
+        "paginas": 188,
+        "precio": 40,
+        "ventas": 32265
+    },
+    {
+        "titulo": "Libro 699",
+        "autor": "Autor 699",
+        "isbn": "978-0918573181",
+        "paginas": 553,
+        "precio": 10,
+        "ventas": 4058
+    },
+    {
+        "titulo": "Libro 700",
+        "autor": "Autor 700",
+        "isbn": "978-0851736322",
+        "paginas": 125,
+        "precio": 15,
+        "ventas": 37824
+    },
+    {
+        "titulo": "Libro 701",
+        "autor": "Autor 701",
+        "isbn": "978-2483889605",
+        "paginas": 256,
+        "precio": 10,
+        "ventas": 56366
+    },
+    {
+        "titulo": "Libro 702",
+        "autor": "Autor 702",
+        "isbn": "978-0033545370",
+        "paginas": 513,
+        "precio": 25,
+        "ventas": 26989
+    },
+    {
+        "titulo": "Libro 703",
+        "autor": "Autor 703",
+        "isbn": "978-4446381429",
+        "paginas": 131,
+        "precio": 25,
+        "ventas": 11993
+    },
+    {
+        "titulo": "Libro 704",
+        "autor": "Autor 704",
+        "isbn": "978-7987217353",
+        "paginas": 156,
+        "precio": 30,
+        "ventas": 59561
+    },
+    {
+        "titulo": "Libro 705",
+        "autor": "Autor 705",
+        "isbn": "978-3149951115",
+        "paginas": 209,
+        "precio": 20,
+        "ventas": 10316
+    },
+    {
+        "titulo": "Libro 706",
+        "autor": "Autor 706",
+        "isbn": "978-9987134180",
+        "paginas": 505,
+        "precio": 10,
+        "ventas": 49914
+    },
+    {
+        "titulo": "Libro 707",
+        "autor": "Autor 707",
+        "isbn": "978-1895983203",
+        "paginas": 254,
+        "precio": 20,
+        "ventas": 39640
+    },
+    {
+        "titulo": "Libro 708",
+        "autor": "Autor 708",
+        "isbn": "978-0439794767",
+        "paginas": 576,
+        "precio": 20,
+        "ventas": 53166
+    },
+    {
+        "titulo": "Libro 709",
+        "autor": "Autor 709",
+        "isbn": "978-3887961772",
+        "paginas": 434,
+        "precio": 40,
+        "ventas": 7459
+    },
+    {
+        "titulo": "Libro 710",
+        "autor": "Autor 710",
+        "isbn": "978-3338501243",
+        "paginas": 80,
+        "precio": 35,
+        "ventas": 18109
+    },
+    {
+        "titulo": "Libro 711",
+        "autor": "Autor 711",
+        "isbn": "978-3360228637",
+        "paginas": 395,
+        "precio": 30,
+        "ventas": 7979
+    },
+    {
+        "titulo": "Libro 712",
+        "autor": "Autor 712",
+        "isbn": "978-6602778667",
+        "paginas": 422,
+        "precio": 35,
+        "ventas": 24014
+    },
+    {
+        "titulo": "Libro 713",
+        "autor": "Autor 713",
+        "isbn": "978-4098579052",
+        "paginas": 547,
+        "precio": 35,
+        "ventas": 28871
+    },
+    {
+        "titulo": "Libro 714",
+        "autor": "Autor 714",
+        "isbn": "978-4396707470",
+        "paginas": 388,
+        "precio": 10,
+        "ventas": 7327
+    },
+    {
+        "titulo": "Libro 715",
+        "autor": "Autor 715",
+        "isbn": "978-3274442299",
+        "paginas": 113,
+        "precio": 15,
+        "ventas": 51322
+    },
+    {
+        "titulo": "Libro 716",
+        "autor": "Autor 716",
+        "isbn": "978-4506544086",
+        "paginas": 511,
+        "precio": 40,
+        "ventas": 24435
+    },
+    {
+        "titulo": "Libro 717",
+        "autor": "Autor 717",
+        "isbn": "978-2151920612",
+        "paginas": 146,
+        "precio": 10,
+        "ventas": 41094
+    },
+    {
+        "titulo": "Libro 718",
+        "autor": "Autor 718",
+        "isbn": "978-6588609104",
+        "paginas": 456,
+        "precio": 15,
+        "ventas": 42412
+    },
+    {
+        "titulo": "Libro 719",
+        "autor": "Autor 719",
+        "isbn": "978-5301046650",
+        "paginas": 233,
+        "precio": 15,
+        "ventas": 49203
+    },
+    {
+        "titulo": "Libro 720",
+        "autor": "Autor 720",
+        "isbn": "978-4235586446",
+        "paginas": 461,
+        "precio": 35,
+        "ventas": 20918
+    },
+    {
+        "titulo": "Libro 721",
+        "autor": "Autor 721",
+        "isbn": "978-1883054819",
+        "paginas": 537,
+        "precio": 20,
+        "ventas": 57410
+    },
+    {
+        "titulo": "Libro 722",
+        "autor": "Autor 722",
+        "isbn": "978-5057762434",
+        "paginas": 386,
+        "precio": 20,
+        "ventas": 20323
+    },
+    {
+        "titulo": "Libro 723",
+        "autor": "Autor 723",
+        "isbn": "978-2666413825",
+        "paginas": 272,
+        "precio": 20,
+        "ventas": 14369
+    },
+    {
+        "titulo": "Libro 724",
+        "autor": "Autor 724",
+        "isbn": "978-7746436176",
+        "paginas": 499,
+        "precio": 35,
+        "ventas": 27165
+    },
+    {
+        "titulo": "Libro 725",
+        "autor": "Autor 725",
+        "isbn": "978-2564130093",
+        "paginas": 508,
+        "precio": 15,
+        "ventas": 9181
+    },
+    {
+        "titulo": "Libro 726",
+        "autor": "Autor 726",
+        "isbn": "978-8547134943",
+        "paginas": 226,
+        "precio": 40,
+        "ventas": 32632
+    },
+    {
+        "titulo": "Libro 727",
+        "autor": "Autor 727",
+        "isbn": "978-2737022661",
+        "paginas": 208,
+        "precio": 20,
+        "ventas": 29851
+    },
+    {
+        "titulo": "Libro 728",
+        "autor": "Autor 728",
+        "isbn": "978-0263332127",
+        "paginas": 385,
+        "precio": 35,
+        "ventas": 49899
+    },
+    {
+        "titulo": "Libro 729",
+        "autor": "Autor 729",
+        "isbn": "978-9358037600",
+        "paginas": 390,
+        "precio": 30,
+        "ventas": 20040
+    },
+    {
+        "titulo": "Libro 730",
+        "autor": "Autor 730",
+        "isbn": "978-4130526762",
+        "paginas": 203,
+        "precio": 35,
+        "ventas": 56137
+    },
+    {
+        "titulo": "Libro 731",
+        "autor": "Autor 731",
+        "isbn": "978-1396881631",
+        "paginas": 225,
+        "precio": 15,
+        "ventas": 40214
+    },
+    {
+        "titulo": "Libro 732",
+        "autor": "Autor 732",
+        "isbn": "978-6468851373",
+        "paginas": 400,
+        "precio": 35,
+        "ventas": 4764
+    },
+    {
+        "titulo": "Libro 733",
+        "autor": "Autor 733",
+        "isbn": "978-5245460448",
+        "paginas": 344,
+        "precio": 35,
+        "ventas": 41258
+    },
+    {
+        "titulo": "Libro 734",
+        "autor": "Autor 734",
+        "isbn": "978-9896741127",
+        "paginas": 552,
+        "precio": 40,
+        "ventas": 49258
+    },
+    {
+        "titulo": "Libro 735",
+        "autor": "Autor 735",
+        "isbn": "978-1906999572",
+        "paginas": 228,
+        "precio": 25,
+        "ventas": 40370
+    },
+    {
+        "titulo": "Libro 736",
+        "autor": "Autor 736",
+        "isbn": "978-3497659384",
+        "paginas": 256,
+        "precio": 40,
+        "ventas": 36877
+    },
+    {
+        "titulo": "Libro 737",
+        "autor": "Autor 737",
+        "isbn": "978-6049252428",
+        "paginas": 399,
+        "precio": 35,
+        "ventas": 10548
+    },
+    {
+        "titulo": "Libro 738",
+        "autor": "Autor 738",
+        "isbn": "978-4052836432",
+        "paginas": 139,
+        "precio": 35,
+        "ventas": 43859
+    },
+    {
+        "titulo": "Libro 739",
+        "autor": "Autor 739",
+        "isbn": "978-2300119174",
+        "paginas": 366,
+        "precio": 20,
+        "ventas": 55090
+    },
+    {
+        "titulo": "Libro 740",
+        "autor": "Autor 740",
+        "isbn": "978-4480853099",
+        "paginas": 544,
+        "precio": 20,
+        "ventas": 22076
+    },
+    {
+        "titulo": "Libro 741",
+        "autor": "Autor 741",
+        "isbn": "978-7742635158",
+        "paginas": 519,
+        "precio": 10,
+        "ventas": 7244
+    },
+    {
+        "titulo": "Libro 742",
+        "autor": "Autor 742",
+        "isbn": "978-8385746342",
+        "paginas": 81,
+        "precio": 40,
+        "ventas": 6152
+    },
+    {
+        "titulo": "Libro 743",
+        "autor": "Autor 743",
+        "isbn": "978-0154705336",
+        "paginas": 216,
+        "precio": 35,
+        "ventas": 44022
+    },
+    {
+        "titulo": "Libro 744",
+        "autor": "Autor 744",
+        "isbn": "978-1533651470",
+        "paginas": 438,
+        "precio": 20,
+        "ventas": 49212
+    },
+    {
+        "titulo": "Libro 745",
+        "autor": "Autor 745",
+        "isbn": "978-9525145696",
+        "paginas": 238,
+        "precio": 15,
+        "ventas": 6842
+    },
+    {
+        "titulo": "Libro 746",
+        "autor": "Autor 746",
+        "isbn": "978-2740524964",
+        "paginas": 224,
+        "precio": 20,
+        "ventas": 1598
+    },
+    {
+        "titulo": "Libro 747",
+        "autor": "Autor 747",
+        "isbn": "978-3392365957",
+        "paginas": 146,
+        "precio": 20,
+        "ventas": 2809
+    },
+    {
+        "titulo": "Libro 748",
+        "autor": "Autor 748",
+        "isbn": "978-4628649678",
+        "paginas": 378,
+        "precio": 10,
+        "ventas": 1018
+    },
+    {
+        "titulo": "Libro 749",
+        "autor": "Autor 749",
+        "isbn": "978-5407009278",
+        "paginas": 236,
+        "precio": 40,
+        "ventas": 57238
+    },
+    {
+        "titulo": "Libro 750",
+        "autor": "Autor 750",
+        "isbn": "978-0367935579",
+        "paginas": 503,
+        "precio": 40,
+        "ventas": 16669
+    },
+    {
+        "titulo": "Libro 751",
+        "autor": "Autor 751",
+        "isbn": "978-7808110513",
+        "paginas": 129,
+        "precio": 10,
+        "ventas": 20114
+    },
+    {
+        "titulo": "Libro 752",
+        "autor": "Autor 752",
+        "isbn": "978-7204390333",
+        "paginas": 230,
+        "precio": 35,
+        "ventas": 35341
+    },
+    {
+        "titulo": "Libro 753",
+        "autor": "Autor 753",
+        "isbn": "978-9884691002",
+        "paginas": 363,
+        "precio": 35,
+        "ventas": 18929
+    },
+    {
+        "titulo": "Libro 754",
+        "autor": "Autor 754",
+        "isbn": "978-7311962547",
+        "paginas": 348,
+        "precio": 25,
+        "ventas": 50789
+    },
+    {
+        "titulo": "Libro 755",
+        "autor": "Autor 755",
+        "isbn": "978-1508821046",
+        "paginas": 192,
+        "precio": 35,
+        "ventas": 16522
+    },
+    {
+        "titulo": "Libro 756",
+        "autor": "Autor 756",
+        "isbn": "978-1119473856",
+        "paginas": 471,
+        "precio": 20,
+        "ventas": 59660
+    },
+    {
+        "titulo": "Libro 757",
+        "autor": "Autor 757",
+        "isbn": "978-1431646637",
+        "paginas": 138,
+        "precio": 20,
+        "ventas": 18837
+    },
+    {
+        "titulo": "Libro 758",
+        "autor": "Autor 758",
+        "isbn": "978-6833598345",
+        "paginas": 191,
+        "precio": 20,
+        "ventas": 5121
+    },
+    {
+        "titulo": "Libro 759",
+        "autor": "Autor 759",
+        "isbn": "978-3999627067",
+        "paginas": 284,
+        "precio": 10,
+        "ventas": 14228
+    },
+    {
+        "titulo": "Libro 760",
+        "autor": "Autor 760",
+        "isbn": "978-7824369509",
+        "paginas": 558,
+        "precio": 25,
+        "ventas": 23275
+    },
+    {
+        "titulo": "Libro 761",
+        "autor": "Autor 761",
+        "isbn": "978-5647367283",
+        "paginas": 439,
+        "precio": 15,
+        "ventas": 45620
+    },
+    {
+        "titulo": "Libro 762",
+        "autor": "Autor 762",
+        "isbn": "978-9918253402",
+        "paginas": 263,
+        "precio": 10,
+        "ventas": 57444
+    },
+    {
+        "titulo": "Libro 763",
+        "autor": "Autor 763",
+        "isbn": "978-7993026308",
+        "paginas": 441,
+        "precio": 25,
+        "ventas": 53031
+    },
+    {
+        "titulo": "Libro 764",
+        "autor": "Autor 764",
+        "isbn": "978-6535690493",
+        "paginas": 586,
+        "precio": 35,
+        "ventas": 8283
+    },
+    {
+        "titulo": "Libro 765",
+        "autor": "Autor 765",
+        "isbn": "978-3122269979",
+        "paginas": 327,
+        "precio": 25,
+        "ventas": 41174
+    },
+    {
+        "titulo": "Libro 766",
+        "autor": "Autor 766",
+        "isbn": "978-9479459631",
+        "paginas": 529,
+        "precio": 25,
+        "ventas": 3788
+    },
+    {
+        "titulo": "Libro 767",
+        "autor": "Autor 767",
+        "isbn": "978-2380781876",
+        "paginas": 87,
+        "precio": 30,
+        "ventas": 18812
+    },
+    {
+        "titulo": "Libro 768",
+        "autor": "Autor 768",
+        "isbn": "978-6340202024",
+        "paginas": 480,
+        "precio": 25,
+        "ventas": 54330
+    },
+    {
+        "titulo": "Libro 769",
+        "autor": "Autor 769",
+        "isbn": "978-0073174400",
+        "paginas": 275,
+        "precio": 35,
+        "ventas": 13245
+    },
+    {
+        "titulo": "Libro 770",
+        "autor": "Autor 770",
+        "isbn": "978-9810555182",
+        "paginas": 530,
+        "precio": 30,
+        "ventas": 37865
+    },
+    {
+        "titulo": "Libro 771",
+        "autor": "Autor 771",
+        "isbn": "978-1976376820",
+        "paginas": 583,
+        "precio": 35,
+        "ventas": 38823
+    },
+    {
+        "titulo": "Libro 772",
+        "autor": "Autor 772",
+        "isbn": "978-3878194197",
+        "paginas": 80,
+        "precio": 25,
+        "ventas": 22177
+    },
+    {
+        "titulo": "Libro 773",
+        "autor": "Autor 773",
+        "isbn": "978-0319891435",
+        "paginas": 316,
+        "precio": 25,
+        "ventas": 13022
+    },
+    {
+        "titulo": "Libro 774",
+        "autor": "Autor 774",
+        "isbn": "978-9283489640",
+        "paginas": 195,
+        "precio": 15,
+        "ventas": 31079
+    },
+    {
+        "titulo": "Libro 775",
+        "autor": "Autor 775",
+        "isbn": "978-7811037600",
+        "paginas": 260,
+        "precio": 15,
+        "ventas": 29682
+    },
+    {
+        "titulo": "Libro 776",
+        "autor": "Autor 776",
+        "isbn": "978-9082932580",
+        "paginas": 297,
+        "precio": 20,
+        "ventas": 8637
+    },
+    {
+        "titulo": "Libro 777",
+        "autor": "Autor 777",
+        "isbn": "978-6920016593",
+        "paginas": 531,
+        "precio": 25,
+        "ventas": 59902
+    },
+    {
+        "titulo": "Libro 778",
+        "autor": "Autor 778",
+        "isbn": "978-0070072665",
+        "paginas": 154,
+        "precio": 25,
+        "ventas": 37262
+    },
+    {
+        "titulo": "Libro 779",
+        "autor": "Autor 779",
+        "isbn": "978-4376583895",
+        "paginas": 427,
+        "precio": 35,
+        "ventas": 32569
+    },
+    {
+        "titulo": "Libro 780",
+        "autor": "Autor 780",
+        "isbn": "978-6298258211",
+        "paginas": 585,
+        "precio": 25,
+        "ventas": 11503
+    },
+    {
+        "titulo": "Libro 781",
+        "autor": "Autor 781",
+        "isbn": "978-1873473762",
+        "paginas": 247,
+        "precio": 20,
+        "ventas": 22045
+    },
+    {
+        "titulo": "Libro 782",
+        "autor": "Autor 782",
+        "isbn": "978-6094877270",
+        "paginas": 398,
+        "precio": 40,
+        "ventas": 18746
+    },
+    {
+        "titulo": "Libro 783",
+        "autor": "Autor 783",
+        "isbn": "978-2400237213",
+        "paginas": 407,
+        "precio": 25,
+        "ventas": 11069
+    },
+    {
+        "titulo": "Libro 784",
+        "autor": "Autor 784",
+        "isbn": "978-4020922347",
+        "paginas": 181,
+        "precio": 30,
+        "ventas": 46974
+    },
+    {
+        "titulo": "Libro 785",
+        "autor": "Autor 785",
+        "isbn": "978-3742379135",
+        "paginas": 197,
+        "precio": 20,
+        "ventas": 33292
+    },
+    {
+        "titulo": "Libro 786",
+        "autor": "Autor 786",
+        "isbn": "978-2548495577",
+        "paginas": 498,
+        "precio": 30,
+        "ventas": 35176
+    },
+    {
+        "titulo": "Libro 787",
+        "autor": "Autor 787",
+        "isbn": "978-2259591434",
+        "paginas": 595,
+        "precio": 30,
+        "ventas": 31703
+    },
+    {
+        "titulo": "Libro 788",
+        "autor": "Autor 788",
+        "isbn": "978-8388750781",
+        "paginas": 332,
+        "precio": 25,
+        "ventas": 30436
+    },
+    {
+        "titulo": "Libro 789",
+        "autor": "Autor 789",
+        "isbn": "978-5285360485",
+        "paginas": 506,
+        "precio": 15,
+        "ventas": 25370
+    },
+    {
+        "titulo": "Libro 790",
+        "autor": "Autor 790",
+        "isbn": "978-5176307057",
+        "paginas": 177,
+        "precio": 15,
+        "ventas": 38329
+    },
+    {
+        "titulo": "Libro 791",
+        "autor": "Autor 791",
+        "isbn": "978-9147002488",
+        "paginas": 560,
+        "precio": 10,
+        "ventas": 35109
+    },
+    {
+        "titulo": "Libro 792",
+        "autor": "Autor 792",
+        "isbn": "978-8928341343",
+        "paginas": 190,
+        "precio": 35,
+        "ventas": 56388
+    },
+    {
+        "titulo": "Libro 793",
+        "autor": "Autor 793",
+        "isbn": "978-8089998669",
+        "paginas": 429,
+        "precio": 35,
+        "ventas": 56218
+    },
+    {
+        "titulo": "Libro 794",
+        "autor": "Autor 794",
+        "isbn": "978-5652525614",
+        "paginas": 125,
+        "precio": 35,
+        "ventas": 33884
+    },
+    {
+        "titulo": "Libro 795",
+        "autor": "Autor 795",
+        "isbn": "978-8111988488",
+        "paginas": 338,
+        "precio": 10,
+        "ventas": 16296
+    },
+    {
+        "titulo": "Libro 796",
+        "autor": "Autor 796",
+        "isbn": "978-2435071503",
+        "paginas": 234,
+        "precio": 30,
+        "ventas": 16182
+    },
+    {
+        "titulo": "Libro 797",
+        "autor": "Autor 797",
+        "isbn": "978-3842580365",
+        "paginas": 457,
+        "precio": 30,
+        "ventas": 21451
+    },
+    {
+        "titulo": "Libro 798",
+        "autor": "Autor 798",
+        "isbn": "978-8689540209",
+        "paginas": 127,
+        "precio": 35,
+        "ventas": 51101
+    },
+    {
+        "titulo": "Libro 799",
+        "autor": "Autor 799",
+        "isbn": "978-5258315276",
+        "paginas": 130,
+        "precio": 40,
+        "ventas": 42047
+    },
+    {
+        "titulo": "Libro 800",
+        "autor": "Autor 800",
+        "isbn": "978-4559085895",
+        "paginas": 97,
+        "precio": 40,
+        "ventas": 49786
+    },
+    {
+        "titulo": "Libro 801",
+        "autor": "Autor 801",
+        "isbn": "978-3850333183",
+        "paginas": 211,
+        "precio": 35,
+        "ventas": 38787
+    },
+    {
+        "titulo": "Libro 802",
+        "autor": "Autor 802",
+        "isbn": "978-2683594850",
+        "paginas": 332,
+        "precio": 30,
+        "ventas": 39052
+    },
+    {
+        "titulo": "Libro 803",
+        "autor": "Autor 803",
+        "isbn": "978-8427734788",
+        "paginas": 418,
+        "precio": 30,
+        "ventas": 16375
+    },
+    {
+        "titulo": "Libro 804",
+        "autor": "Autor 804",
+        "isbn": "978-0996396762",
+        "paginas": 238,
+        "precio": 25,
+        "ventas": 59939
+    },
+    {
+        "titulo": "Libro 805",
+        "autor": "Autor 805",
+        "isbn": "978-4113211579",
+        "paginas": 548,
+        "precio": 20,
+        "ventas": 35720
+    },
+    {
+        "titulo": "Libro 806",
+        "autor": "Autor 806",
+        "isbn": "978-7868604710",
+        "paginas": 521,
+        "precio": 20,
+        "ventas": 45014
+    },
+    {
+        "titulo": "Libro 807",
+        "autor": "Autor 807",
+        "isbn": "978-1714019038",
+        "paginas": 475,
+        "precio": 20,
+        "ventas": 35377
+    },
+    {
+        "titulo": "Libro 808",
+        "autor": "Autor 808",
+        "isbn": "978-3964266285",
+        "paginas": 304,
+        "precio": 30,
+        "ventas": 27856
+    },
+    {
+        "titulo": "Libro 809",
+        "autor": "Autor 809",
+        "isbn": "978-7186548119",
+        "paginas": 371,
+        "precio": 15,
+        "ventas": 25035
+    },
+    {
+        "titulo": "Libro 810",
+        "autor": "Autor 810",
+        "isbn": "978-5221780135",
+        "paginas": 180,
+        "precio": 10,
+        "ventas": 38426
+    },
+    {
+        "titulo": "Libro 811",
+        "autor": "Autor 811",
+        "isbn": "978-3626924256",
+        "paginas": 510,
+        "precio": 40,
+        "ventas": 43731
+    },
+    {
+        "titulo": "Libro 812",
+        "autor": "Autor 812",
+        "isbn": "978-0414443584",
+        "paginas": 493,
+        "precio": 20,
+        "ventas": 57483
+    },
+    {
+        "titulo": "Libro 813",
+        "autor": "Autor 813",
+        "isbn": "978-7042516816",
+        "paginas": 250,
+        "precio": 25,
+        "ventas": 8473
+    },
+    {
+        "titulo": "Libro 814",
+        "autor": "Autor 814",
+        "isbn": "978-4643321821",
+        "paginas": 597,
+        "precio": 30,
+        "ventas": 33035
+    },
+    {
+        "titulo": "Libro 815",
+        "autor": "Autor 815",
+        "isbn": "978-1284004993",
+        "paginas": 233,
+        "precio": 25,
+        "ventas": 41210
+    },
+    {
+        "titulo": "Libro 816",
+        "autor": "Autor 816",
+        "isbn": "978-6382299902",
+        "paginas": 243,
+        "precio": 25,
+        "ventas": 36828
+    },
+    {
+        "titulo": "Libro 817",
+        "autor": "Autor 817",
+        "isbn": "978-1878177302",
+        "paginas": 332,
+        "precio": 10,
+        "ventas": 16519
+    },
+    {
+        "titulo": "Libro 818",
+        "autor": "Autor 818",
+        "isbn": "978-9014242464",
+        "paginas": 525,
+        "precio": 10,
+        "ventas": 41620
+    },
+    {
+        "titulo": "Libro 819",
+        "autor": "Autor 819",
+        "isbn": "978-3717491461",
+        "paginas": 563,
+        "precio": 30,
+        "ventas": 30215
+    },
+    {
+        "titulo": "Libro 820",
+        "autor": "Autor 820",
+        "isbn": "978-4631580905",
+        "paginas": 585,
+        "precio": 10,
+        "ventas": 4939
+    },
+    {
+        "titulo": "Libro 821",
+        "autor": "Autor 821",
+        "isbn": "978-3340378188",
+        "paginas": 353,
+        "precio": 15,
+        "ventas": 47750
+    },
+    {
+        "titulo": "Libro 822",
+        "autor": "Autor 822",
+        "isbn": "978-1263286224",
+        "paginas": 292,
+        "precio": 30,
+        "ventas": 56441
+    },
+    {
+        "titulo": "Libro 823",
+        "autor": "Autor 823",
+        "isbn": "978-2579353205",
+        "paginas": 111,
+        "precio": 10,
+        "ventas": 33267
+    },
+    {
+        "titulo": "Libro 824",
+        "autor": "Autor 824",
+        "isbn": "978-7486450509",
+        "paginas": 322,
+        "precio": 25,
+        "ventas": 44106
+    },
+    {
+        "titulo": "Libro 825",
+        "autor": "Autor 825",
+        "isbn": "978-8668729755",
+        "paginas": 446,
+        "precio": 30,
+        "ventas": 34973
+    },
+    {
+        "titulo": "Libro 826",
+        "autor": "Autor 826",
+        "isbn": "978-5745366107",
+        "paginas": 110,
+        "precio": 25,
+        "ventas": 56126
+    },
+    {
+        "titulo": "Libro 827",
+        "autor": "Autor 827",
+        "isbn": "978-3866941613",
+        "paginas": 589,
+        "precio": 15,
+        "ventas": 8488
+    },
+    {
+        "titulo": "Libro 828",
+        "autor": "Autor 828",
+        "isbn": "978-0037452330",
+        "paginas": 554,
+        "precio": 15,
+        "ventas": 20298
+    },
+    {
+        "titulo": "Libro 829",
+        "autor": "Autor 829",
+        "isbn": "978-4307167743",
+        "paginas": 542,
+        "precio": 15,
+        "ventas": 12877
+    },
+    {
+        "titulo": "Libro 830",
+        "autor": "Autor 830",
+        "isbn": "978-4015269633",
+        "paginas": 190,
+        "precio": 20,
+        "ventas": 46997
+    },
+    {
+        "titulo": "Libro 831",
+        "autor": "Autor 831",
+        "isbn": "978-6366274873",
+        "paginas": 373,
+        "precio": 40,
+        "ventas": 34933
+    },
+    {
+        "titulo": "Libro 832",
+        "autor": "Autor 832",
+        "isbn": "978-0455126896",
+        "paginas": 528,
+        "precio": 35,
+        "ventas": 57010
+    },
+    {
+        "titulo": "Libro 833",
+        "autor": "Autor 833",
+        "isbn": "978-6664596956",
+        "paginas": 512,
+        "precio": 30,
+        "ventas": 2317
+    },
+    {
+        "titulo": "Libro 834",
+        "autor": "Autor 834",
+        "isbn": "978-5817034761",
+        "paginas": 479,
+        "precio": 30,
+        "ventas": 11169
+    },
+    {
+        "titulo": "Libro 835",
+        "autor": "Autor 835",
+        "isbn": "978-8344240201",
+        "paginas": 586,
+        "precio": 20,
+        "ventas": 17457
+    },
+    {
+        "titulo": "Libro 836",
+        "autor": "Autor 836",
+        "isbn": "978-6327658322",
+        "paginas": 260,
+        "precio": 30,
+        "ventas": 33701
+    },
+    {
+        "titulo": "Libro 837",
+        "autor": "Autor 837",
+        "isbn": "978-7867379950",
+        "paginas": 202,
+        "precio": 40,
+        "ventas": 26285
+    },
+    {
+        "titulo": "Libro 838",
+        "autor": "Autor 838",
+        "isbn": "978-2614615079",
+        "paginas": 89,
+        "precio": 20,
+        "ventas": 30271
+    },
+    {
+        "titulo": "Libro 839",
+        "autor": "Autor 839",
+        "isbn": "978-4957378537",
+        "paginas": 416,
+        "precio": 25,
+        "ventas": 28688
+    },
+    {
+        "titulo": "Libro 840",
+        "autor": "Autor 840",
+        "isbn": "978-8472890279",
+        "paginas": 106,
+        "precio": 40,
+        "ventas": 25825
+    },
+    {
+        "titulo": "Libro 841",
+        "autor": "Autor 841",
+        "isbn": "978-9774238781",
+        "paginas": 225,
+        "precio": 30,
+        "ventas": 32681
+    },
+    {
+        "titulo": "Libro 842",
+        "autor": "Autor 842",
+        "isbn": "978-2644221045",
+        "paginas": 408,
+        "precio": 30,
+        "ventas": 28184
+    },
+    {
+        "titulo": "Libro 843",
+        "autor": "Autor 843",
+        "isbn": "978-6254180604",
+        "paginas": 300,
+        "precio": 10,
+        "ventas": 36141
+    },
+    {
+        "titulo": "Libro 844",
+        "autor": "Autor 844",
+        "isbn": "978-1268024015",
+        "paginas": 253,
+        "precio": 15,
+        "ventas": 26021
+    },
+    {
+        "titulo": "Libro 845",
+        "autor": "Autor 845",
+        "isbn": "978-5198796574",
+        "paginas": 94,
+        "precio": 10,
+        "ventas": 26419
+    },
+    {
+        "titulo": "Libro 846",
+        "autor": "Autor 846",
+        "isbn": "978-8941464457",
+        "paginas": 269,
+        "precio": 40,
+        "ventas": 45603
+    },
+    {
+        "titulo": "Libro 847",
+        "autor": "Autor 847",
+        "isbn": "978-4086542689",
+        "paginas": 87,
+        "precio": 30,
+        "ventas": 42961
+    },
+    {
+        "titulo": "Libro 848",
+        "autor": "Autor 848",
+        "isbn": "978-5037083237",
+        "paginas": 375,
+        "precio": 20,
+        "ventas": 5622
+    },
+    {
+        "titulo": "Libro 849",
+        "autor": "Autor 849",
+        "isbn": "978-7005865341",
+        "paginas": 417,
+        "precio": 25,
+        "ventas": 27847
+    },
+    {
+        "titulo": "Libro 850",
+        "autor": "Autor 850",
+        "isbn": "978-5796433367",
+        "paginas": 270,
+        "precio": 15,
+        "ventas": 45207
+    },
+    {
+        "titulo": "Libro 851",
+        "autor": "Autor 851",
+        "isbn": "978-1533012083",
+        "paginas": 131,
+        "precio": 25,
+        "ventas": 40006
+    },
+    {
+        "titulo": "Libro 852",
+        "autor": "Autor 852",
+        "isbn": "978-4371569285",
+        "paginas": 230,
+        "precio": 10,
+        "ventas": 15136
+    },
+    {
+        "titulo": "Libro 853",
+        "autor": "Autor 853",
+        "isbn": "978-0031724440",
+        "paginas": 597,
+        "precio": 30,
+        "ventas": 55762
+    },
+    {
+        "titulo": "Libro 854",
+        "autor": "Autor 854",
+        "isbn": "978-8250368768",
+        "paginas": 193,
+        "precio": 15,
+        "ventas": 6066
+    },
+    {
+        "titulo": "Libro 855",
+        "autor": "Autor 855",
+        "isbn": "978-7167754286",
+        "paginas": 587,
+        "precio": 30,
+        "ventas": 35977
+    },
+    {
+        "titulo": "Libro 856",
+        "autor": "Autor 856",
+        "isbn": "978-0842086515",
+        "paginas": 307,
+        "precio": 40,
+        "ventas": 51496
+    },
+    {
+        "titulo": "Libro 857",
+        "autor": "Autor 857",
+        "isbn": "978-3795928588",
+        "paginas": 205,
+        "precio": 40,
+        "ventas": 14231
+    },
+    {
+        "titulo": "Libro 858",
+        "autor": "Autor 858",
+        "isbn": "978-3656706685",
+        "paginas": 477,
+        "precio": 15,
+        "ventas": 49905
+    },
+    {
+        "titulo": "Libro 859",
+        "autor": "Autor 859",
+        "isbn": "978-7556823171",
+        "paginas": 520,
+        "precio": 20,
+        "ventas": 58379
+    },
+    {
+        "titulo": "Libro 860",
+        "autor": "Autor 860",
+        "isbn": "978-6562981417",
+        "paginas": 562,
+        "precio": 25,
+        "ventas": 31007
+    },
+    {
+        "titulo": "Libro 861",
+        "autor": "Autor 861",
+        "isbn": "978-9038800882",
+        "paginas": 585,
+        "precio": 20,
+        "ventas": 5131
+    },
+    {
+        "titulo": "Libro 862",
+        "autor": "Autor 862",
+        "isbn": "978-5898574160",
+        "paginas": 227,
+        "precio": 40,
+        "ventas": 37953
+    },
+    {
+        "titulo": "Libro 863",
+        "autor": "Autor 863",
+        "isbn": "978-7092746665",
+        "paginas": 484,
+        "precio": 40,
+        "ventas": 39858
+    },
+    {
+        "titulo": "Libro 864",
+        "autor": "Autor 864",
+        "isbn": "978-1532045353",
+        "paginas": 189,
+        "precio": 15,
+        "ventas": 32269
+    },
+    {
+        "titulo": "Libro 865",
+        "autor": "Autor 865",
+        "isbn": "978-7130076168",
+        "paginas": 387,
+        "precio": 25,
+        "ventas": 40289
+    },
+    {
+        "titulo": "Libro 866",
+        "autor": "Autor 866",
+        "isbn": "978-5364829045",
+        "paginas": 498,
+        "precio": 20,
+        "ventas": 16338
+    },
+    {
+        "titulo": "Libro 867",
+        "autor": "Autor 867",
+        "isbn": "978-7101689595",
+        "paginas": 596,
+        "precio": 30,
+        "ventas": 37000
+    },
+    {
+        "titulo": "Libro 868",
+        "autor": "Autor 868",
+        "isbn": "978-2509210039",
+        "paginas": 337,
+        "precio": 25,
+        "ventas": 41830
+    },
+    {
+        "titulo": "Libro 869",
+        "autor": "Autor 869",
+        "isbn": "978-8543348807",
+        "paginas": 502,
+        "precio": 35,
+        "ventas": 24168
+    },
+    {
+        "titulo": "Libro 870",
+        "autor": "Autor 870",
+        "isbn": "978-9430596877",
+        "paginas": 239,
+        "precio": 15,
+        "ventas": 20555
+    },
+    {
+        "titulo": "Libro 871",
+        "autor": "Autor 871",
+        "isbn": "978-4253419669",
+        "paginas": 475,
+        "precio": 35,
+        "ventas": 20319
+    },
+    {
+        "titulo": "Libro 872",
+        "autor": "Autor 872",
+        "isbn": "978-1895197538",
+        "paginas": 163,
+        "precio": 15,
+        "ventas": 19231
+    },
+    {
+        "titulo": "Libro 873",
+        "autor": "Autor 873",
+        "isbn": "978-8609519329",
+        "paginas": 370,
+        "precio": 15,
+        "ventas": 38885
+    },
+    {
+        "titulo": "Libro 874",
+        "autor": "Autor 874",
+        "isbn": "978-1866020227",
+        "paginas": 81,
+        "precio": 25,
+        "ventas": 13185
+    },
+    {
+        "titulo": "Libro 875",
+        "autor": "Autor 875",
+        "isbn": "978-0267724568",
+        "paginas": 491,
+        "precio": 15,
+        "ventas": 47985
+    },
+    {
+        "titulo": "Libro 876",
+        "autor": "Autor 876",
+        "isbn": "978-6167592326",
+        "paginas": 561,
+        "precio": 30,
+        "ventas": 54740
+    },
+    {
+        "titulo": "Libro 877",
+        "autor": "Autor 877",
+        "isbn": "978-2178968530",
+        "paginas": 170,
+        "precio": 35,
+        "ventas": 21763
+    },
+    {
+        "titulo": "Libro 878",
+        "autor": "Autor 878",
+        "isbn": "978-5863769919",
+        "paginas": 283,
+        "precio": 10,
+        "ventas": 37420
+    },
+    {
+        "titulo": "Libro 879",
+        "autor": "Autor 879",
+        "isbn": "978-9002182841",
+        "paginas": 493,
+        "precio": 20,
+        "ventas": 29033
+    },
+    {
+        "titulo": "Libro 880",
+        "autor": "Autor 880",
+        "isbn": "978-7576713650",
+        "paginas": 410,
+        "precio": 25,
+        "ventas": 57760
+    },
+    {
+        "titulo": "Libro 881",
+        "autor": "Autor 881",
+        "isbn": "978-3076676798",
+        "paginas": 525,
+        "precio": 10,
+        "ventas": 25124
+    },
+    {
+        "titulo": "Libro 882",
+        "autor": "Autor 882",
+        "isbn": "978-2194958170",
+        "paginas": 310,
+        "precio": 20,
+        "ventas": 20710
+    },
+    {
+        "titulo": "Libro 883",
+        "autor": "Autor 883",
+        "isbn": "978-7133140330",
+        "paginas": 426,
+        "precio": 20,
+        "ventas": 42942
+    },
+    {
+        "titulo": "Libro 884",
+        "autor": "Autor 884",
+        "isbn": "978-1267965508",
+        "paginas": 275,
+        "precio": 25,
+        "ventas": 35777
+    },
+    {
+        "titulo": "Libro 885",
+        "autor": "Autor 885",
+        "isbn": "978-4038398507",
+        "paginas": 83,
+        "precio": 30,
+        "ventas": 4830
+    },
+    {
+        "titulo": "Libro 886",
+        "autor": "Autor 886",
+        "isbn": "978-3358762646",
+        "paginas": 279,
+        "precio": 30,
+        "ventas": 18183
+    },
+    {
+        "titulo": "Libro 887",
+        "autor": "Autor 887",
+        "isbn": "978-5032803998",
+        "paginas": 468,
+        "precio": 30,
+        "ventas": 9327
+    },
+    {
+        "titulo": "Libro 888",
+        "autor": "Autor 888",
+        "isbn": "978-5548794402",
+        "paginas": 488,
+        "precio": 15,
+        "ventas": 59290
+    },
+    {
+        "titulo": "Libro 889",
+        "autor": "Autor 889",
+        "isbn": "978-6483848828",
+        "paginas": 549,
+        "precio": 20,
+        "ventas": 4073
+    },
+    {
+        "titulo": "Libro 890",
+        "autor": "Autor 890",
+        "isbn": "978-5354526056",
+        "paginas": 318,
+        "precio": 30,
+        "ventas": 57619
+    },
+    {
+        "titulo": "Libro 891",
+        "autor": "Autor 891",
+        "isbn": "978-3063712787",
+        "paginas": 194,
+        "precio": 10,
+        "ventas": 28907
+    },
+    {
+        "titulo": "Libro 892",
+        "autor": "Autor 892",
+        "isbn": "978-8770768564",
+        "paginas": 224,
+        "precio": 20,
+        "ventas": 59396
+    },
+    {
+        "titulo": "Libro 893",
+        "autor": "Autor 893",
+        "isbn": "978-6522083828",
+        "paginas": 574,
+        "precio": 10,
+        "ventas": 12680
+    },
+    {
+        "titulo": "Libro 894",
+        "autor": "Autor 894",
+        "isbn": "978-5732236089",
+        "paginas": 282,
+        "precio": 40,
+        "ventas": 55990
+    },
+    {
+        "titulo": "Libro 895",
+        "autor": "Autor 895",
+        "isbn": "978-4161767342",
+        "paginas": 249,
+        "precio": 25,
+        "ventas": 16769
+    },
+    {
+        "titulo": "Libro 896",
+        "autor": "Autor 896",
+        "isbn": "978-7290792997",
+        "paginas": 281,
+        "precio": 35,
+        "ventas": 59466
+    },
+    {
+        "titulo": "Libro 897",
+        "autor": "Autor 897",
+        "isbn": "978-7683886471",
+        "paginas": 198,
+        "precio": 10,
+        "ventas": 59613
+    },
+    {
+        "titulo": "Libro 898",
+        "autor": "Autor 898",
+        "isbn": "978-4895475698",
+        "paginas": 181,
+        "precio": 30,
+        "ventas": 52356
+    },
+    {
+        "titulo": "Libro 899",
+        "autor": "Autor 899",
+        "isbn": "978-2999287373",
+        "paginas": 308,
+        "precio": 10,
+        "ventas": 42991
+    },
+    {
+        "titulo": "Libro 900",
+        "autor": "Autor 900",
+        "isbn": "978-3884377235",
+        "paginas": 127,
+        "precio": 40,
+        "ventas": 57161
+    },
+    {
+        "titulo": "Libro 901",
+        "autor": "Autor 901",
+        "isbn": "978-0519242913",
+        "paginas": 577,
+        "precio": 40,
+        "ventas": 1261
+    },
+    {
+        "titulo": "Libro 902",
+        "autor": "Autor 902",
+        "isbn": "978-3539052405",
+        "paginas": 381,
+        "precio": 30,
+        "ventas": 21355
+    },
+    {
+        "titulo": "Libro 903",
+        "autor": "Autor 903",
+        "isbn": "978-7798244313",
+        "paginas": 80,
+        "precio": 20,
+        "ventas": 52802
+    },
+    {
+        "titulo": "Libro 904",
+        "autor": "Autor 904",
+        "isbn": "978-8424938501",
+        "paginas": 197,
+        "precio": 30,
+        "ventas": 49893
+    },
+    {
+        "titulo": "Libro 905",
+        "autor": "Autor 905",
+        "isbn": "978-3512540302",
+        "paginas": 326,
+        "precio": 20,
+        "ventas": 58894
+    },
+    {
+        "titulo": "Libro 906",
+        "autor": "Autor 906",
+        "isbn": "978-8901152287",
+        "paginas": 465,
+        "precio": 15,
+        "ventas": 4196
+    },
+    {
+        "titulo": "Libro 907",
+        "autor": "Autor 907",
+        "isbn": "978-5975971684",
+        "paginas": 89,
+        "precio": 10,
+        "ventas": 9857
+    },
+    {
+        "titulo": "Libro 908",
+        "autor": "Autor 908",
+        "isbn": "978-2463403823",
+        "paginas": 471,
+        "precio": 15,
+        "ventas": 53174
+    },
+    {
+        "titulo": "Libro 909",
+        "autor": "Autor 909",
+        "isbn": "978-2344960029",
+        "paginas": 80,
+        "precio": 10,
+        "ventas": 45930
+    },
+    {
+        "titulo": "Libro 910",
+        "autor": "Autor 910",
+        "isbn": "978-5228650676",
+        "paginas": 310,
+        "precio": 15,
+        "ventas": 26807
+    },
+    {
+        "titulo": "Libro 911",
+        "autor": "Autor 911",
+        "isbn": "978-1044424224",
+        "paginas": 548,
+        "precio": 15,
+        "ventas": 21579
+    },
+    {
+        "titulo": "Libro 912",
+        "autor": "Autor 912",
+        "isbn": "978-0636046446",
+        "paginas": 557,
+        "precio": 10,
+        "ventas": 36078
+    },
+    {
+        "titulo": "Libro 913",
+        "autor": "Autor 913",
+        "isbn": "978-0621530765",
+        "paginas": 586,
+        "precio": 30,
+        "ventas": 35441
+    },
+    {
+        "titulo": "Libro 914",
+        "autor": "Autor 914",
+        "isbn": "978-9661354610",
+        "paginas": 449,
+        "precio": 25,
+        "ventas": 15408
+    },
+    {
+        "titulo": "Libro 915",
+        "autor": "Autor 915",
+        "isbn": "978-7054852972",
+        "paginas": 410,
+        "precio": 20,
+        "ventas": 31296
+    },
+    {
+        "titulo": "Libro 916",
+        "autor": "Autor 916",
+        "isbn": "978-5186855742",
+        "paginas": 599,
+        "precio": 35,
+        "ventas": 22766
+    },
+    {
+        "titulo": "Libro 917",
+        "autor": "Autor 917",
+        "isbn": "978-1317955779",
+        "paginas": 210,
+        "precio": 15,
+        "ventas": 8484
+    },
+    {
+        "titulo": "Libro 918",
+        "autor": "Autor 918",
+        "isbn": "978-5580771757",
+        "paginas": 510,
+        "precio": 20,
+        "ventas": 14639
+    },
+    {
+        "titulo": "Libro 919",
+        "autor": "Autor 919",
+        "isbn": "978-5627823680",
+        "paginas": 281,
+        "precio": 25,
+        "ventas": 24620
+    },
+    {
+        "titulo": "Libro 920",
+        "autor": "Autor 920",
+        "isbn": "978-8719915646",
+        "paginas": 141,
+        "precio": 30,
+        "ventas": 33691
+    },
+    {
+        "titulo": "Libro 921",
+        "autor": "Autor 921",
+        "isbn": "978-4999526631",
+        "paginas": 487,
+        "precio": 40,
+        "ventas": 56804
+    },
+    {
+        "titulo": "Libro 922",
+        "autor": "Autor 922",
+        "isbn": "978-6399913318",
+        "paginas": 417,
+        "precio": 25,
+        "ventas": 29341
+    },
+    {
+        "titulo": "Libro 923",
+        "autor": "Autor 923",
+        "isbn": "978-1012141263",
+        "paginas": 437,
+        "precio": 35,
+        "ventas": 13455
+    },
+    {
+        "titulo": "Libro 924",
+        "autor": "Autor 924",
+        "isbn": "978-3758961053",
+        "paginas": 234,
+        "precio": 10,
+        "ventas": 45812
+    },
+    {
+        "titulo": "Libro 925",
+        "autor": "Autor 925",
+        "isbn": "978-4556068417",
+        "paginas": 325,
+        "precio": 25,
+        "ventas": 725
+    },
+    {
+        "titulo": "Libro 926",
+        "autor": "Autor 926",
+        "isbn": "978-4501590259",
+        "paginas": 181,
+        "precio": 40,
+        "ventas": 48233
+    },
+    {
+        "titulo": "Libro 927",
+        "autor": "Autor 927",
+        "isbn": "978-8327342892",
+        "paginas": 192,
+        "precio": 10,
+        "ventas": 59330
+    },
+    {
+        "titulo": "Libro 928",
+        "autor": "Autor 928",
+        "isbn": "978-1637072821",
+        "paginas": 498,
+        "precio": 40,
+        "ventas": 1617
+    },
+    {
+        "titulo": "Libro 929",
+        "autor": "Autor 929",
+        "isbn": "978-9101175694",
+        "paginas": 406,
+        "precio": 30,
+        "ventas": 27366
+    },
+    {
+        "titulo": "Libro 930",
+        "autor": "Autor 930",
+        "isbn": "978-6578358158",
+        "paginas": 559,
+        "precio": 15,
+        "ventas": 43751
+    },
+    {
+        "titulo": "Libro 931",
+        "autor": "Autor 931",
+        "isbn": "978-0850925487",
+        "paginas": 536,
+        "precio": 25,
+        "ventas": 33915
+    },
+    {
+        "titulo": "Libro 932",
+        "autor": "Autor 932",
+        "isbn": "978-0242892978",
+        "paginas": 409,
+        "precio": 20,
+        "ventas": 20891
+    },
+    {
+        "titulo": "Libro 933",
+        "autor": "Autor 933",
+        "isbn": "978-6114775923",
+        "paginas": 116,
+        "precio": 35,
+        "ventas": 35730
+    },
+    {
+        "titulo": "Libro 934",
+        "autor": "Autor 934",
+        "isbn": "978-4787016435",
+        "paginas": 502,
+        "precio": 40,
+        "ventas": 20997
+    },
+    {
+        "titulo": "Libro 935",
+        "autor": "Autor 935",
+        "isbn": "978-7064693767",
+        "paginas": 469,
+        "precio": 15,
+        "ventas": 36939
+    },
+    {
+        "titulo": "Libro 936",
+        "autor": "Autor 936",
+        "isbn": "978-3605576185",
+        "paginas": 514,
+        "precio": 20,
+        "ventas": 47175
+    },
+    {
+        "titulo": "Libro 937",
+        "autor": "Autor 937",
+        "isbn": "978-8747076441",
+        "paginas": 391,
+        "precio": 40,
+        "ventas": 55544
+    },
+    {
+        "titulo": "Libro 938",
+        "autor": "Autor 938",
+        "isbn": "978-1763035121",
+        "paginas": 338,
+        "precio": 40,
+        "ventas": 7518
+    },
+    {
+        "titulo": "Libro 939",
+        "autor": "Autor 939",
+        "isbn": "978-0229223596",
+        "paginas": 538,
+        "precio": 20,
+        "ventas": 31534
+    },
+    {
+        "titulo": "Libro 940",
+        "autor": "Autor 940",
+        "isbn": "978-7634289294",
+        "paginas": 114,
+        "precio": 40,
+        "ventas": 16174
+    },
+    {
+        "titulo": "Libro 941",
+        "autor": "Autor 941",
+        "isbn": "978-2138573566",
+        "paginas": 266,
+        "precio": 40,
+        "ventas": 18041
+    },
+    {
+        "titulo": "Libro 942",
+        "autor": "Autor 942",
+        "isbn": "978-6057684408",
+        "paginas": 172,
+        "precio": 40,
+        "ventas": 48859
+    },
+    {
+        "titulo": "Libro 943",
+        "autor": "Autor 943",
+        "isbn": "978-3562138205",
+        "paginas": 397,
+        "precio": 35,
+        "ventas": 45876
+    },
+    {
+        "titulo": "Libro 944",
+        "autor": "Autor 944",
+        "isbn": "978-9878128814",
+        "paginas": 151,
+        "precio": 25,
+        "ventas": 56698
+    },
+    {
+        "titulo": "Libro 945",
+        "autor": "Autor 945",
+        "isbn": "978-3511388428",
+        "paginas": 526,
+        "precio": 35,
+        "ventas": 17070
+    },
+    {
+        "titulo": "Libro 946",
+        "autor": "Autor 946",
+        "isbn": "978-4733271695",
+        "paginas": 459,
+        "precio": 35,
+        "ventas": 47626
+    },
+    {
+        "titulo": "Libro 947",
+        "autor": "Autor 947",
+        "isbn": "978-3222804311",
+        "paginas": 253,
+        "precio": 25,
+        "ventas": 28144
+    },
+    {
+        "titulo": "Libro 948",
+        "autor": "Autor 948",
+        "isbn": "978-6243493989",
+        "paginas": 578,
+        "precio": 10,
+        "ventas": 51081
+    },
+    {
+        "titulo": "Libro 949",
+        "autor": "Autor 949",
+        "isbn": "978-2072048131",
+        "paginas": 526,
+        "precio": 30,
+        "ventas": 55248
+    },
+    {
+        "titulo": "Libro 950",
+        "autor": "Autor 950",
+        "isbn": "978-5880931333",
+        "paginas": 205,
+        "precio": 40,
+        "ventas": 40205
+    },
+    {
+        "titulo": "Libro 951",
+        "autor": "Autor 951",
+        "isbn": "978-9418381495",
+        "paginas": 221,
+        "precio": 15,
+        "ventas": 41105
+    },
+    {
+        "titulo": "Libro 952",
+        "autor": "Autor 952",
+        "isbn": "978-6596180455",
+        "paginas": 433,
+        "precio": 40,
+        "ventas": 29724
+    },
+    {
+        "titulo": "Libro 953",
+        "autor": "Autor 953",
+        "isbn": "978-0927028969",
+        "paginas": 439,
+        "precio": 20,
+        "ventas": 35786
+    },
+    {
+        "titulo": "Libro 954",
+        "autor": "Autor 954",
+        "isbn": "978-6433931357",
+        "paginas": 207,
+        "precio": 20,
+        "ventas": 24154
+    },
+    {
+        "titulo": "Libro 955",
+        "autor": "Autor 955",
+        "isbn": "978-0955176172",
+        "paginas": 237,
+        "precio": 25,
+        "ventas": 56696
+    },
+    {
+        "titulo": "Libro 956",
+        "autor": "Autor 956",
+        "isbn": "978-6273051811",
+        "paginas": 349,
+        "precio": 35,
+        "ventas": 56007
+    },
+    {
+        "titulo": "Libro 957",
+        "autor": "Autor 957",
+        "isbn": "978-5155622202",
+        "paginas": 98,
+        "precio": 40,
+        "ventas": 31923
+    },
+    {
+        "titulo": "Libro 958",
+        "autor": "Autor 958",
+        "isbn": "978-9303832396",
+        "paginas": 464,
+        "precio": 25,
+        "ventas": 42996
+    },
+    {
+        "titulo": "Libro 959",
+        "autor": "Autor 959",
+        "isbn": "978-6475284438",
+        "paginas": 143,
+        "precio": 40,
+        "ventas": 24690
+    },
+    {
+        "titulo": "Libro 960",
+        "autor": "Autor 960",
+        "isbn": "978-4916105923",
+        "paginas": 127,
+        "precio": 20,
+        "ventas": 50676
+    },
+    {
+        "titulo": "Libro 961",
+        "autor": "Autor 961",
+        "isbn": "978-7040090262",
+        "paginas": 231,
+        "precio": 35,
+        "ventas": 21252
+    },
+    {
+        "titulo": "Libro 962",
+        "autor": "Autor 962",
+        "isbn": "978-3394234888",
+        "paginas": 386,
+        "precio": 35,
+        "ventas": 488
+    },
+    {
+        "titulo": "Libro 963",
+        "autor": "Autor 963",
+        "isbn": "978-1405378677",
+        "paginas": 295,
+        "precio": 25,
+        "ventas": 11995
+    },
+    {
+        "titulo": "Libro 964",
+        "autor": "Autor 964",
+        "isbn": "978-5219890539",
+        "paginas": 518,
+        "precio": 20,
+        "ventas": 1749
+    },
+    {
+        "titulo": "Libro 965",
+        "autor": "Autor 965",
+        "isbn": "978-7044149034",
+        "paginas": 484,
+        "precio": 25,
+        "ventas": 32374
+    },
+    {
+        "titulo": "Libro 966",
+        "autor": "Autor 966",
+        "isbn": "978-1951791553",
+        "paginas": 175,
+        "precio": 15,
+        "ventas": 31717
+    },
+    {
+        "titulo": "Libro 967",
+        "autor": "Autor 967",
+        "isbn": "978-4352281570",
+        "paginas": 452,
+        "precio": 15,
+        "ventas": 9366
+    },
+    {
+        "titulo": "Libro 968",
+        "autor": "Autor 968",
+        "isbn": "978-4986967918",
+        "paginas": 303,
+        "precio": 20,
+        "ventas": 45493
+    },
+    {
+        "titulo": "Libro 969",
+        "autor": "Autor 969",
+        "isbn": "978-5234357516",
+        "paginas": 512,
+        "precio": 40,
+        "ventas": 23508
+    },
+    {
+        "titulo": "Libro 970",
+        "autor": "Autor 970",
+        "isbn": "978-1037538077",
+        "paginas": 339,
+        "precio": 40,
+        "ventas": 50052
+    },
+    {
+        "titulo": "Libro 971",
+        "autor": "Autor 971",
+        "isbn": "978-9776965092",
+        "paginas": 232,
+        "precio": 20,
+        "ventas": 45097
+    },
+    {
+        "titulo": "Libro 972",
+        "autor": "Autor 972",
+        "isbn": "978-4236897089",
+        "paginas": 378,
+        "precio": 20,
+        "ventas": 56531
+    },
+    {
+        "titulo": "Libro 973",
+        "autor": "Autor 973",
+        "isbn": "978-5620426026",
+        "paginas": 577,
+        "precio": 40,
+        "ventas": 51560
+    },
+    {
+        "titulo": "Libro 974",
+        "autor": "Autor 974",
+        "isbn": "978-6619077631",
+        "paginas": 203,
+        "precio": 10,
+        "ventas": 19488
+    },
+    {
+        "titulo": "Libro 975",
+        "autor": "Autor 975",
+        "isbn": "978-5262635359",
+        "paginas": 386,
+        "precio": 35,
+        "ventas": 23757
+    },
+    {
+        "titulo": "Libro 976",
+        "autor": "Autor 976",
+        "isbn": "978-7972698620",
+        "paginas": 136,
+        "precio": 10,
+        "ventas": 35267
+    },
+    {
+        "titulo": "Libro 977",
+        "autor": "Autor 977",
+        "isbn": "978-5980967174",
+        "paginas": 134,
+        "precio": 20,
+        "ventas": 19705
+    },
+    {
+        "titulo": "Libro 978",
+        "autor": "Autor 978",
+        "isbn": "978-2390947750",
+        "paginas": 101,
+        "precio": 35,
+        "ventas": 17706
+    },
+    {
+        "titulo": "Libro 979",
+        "autor": "Autor 979",
+        "isbn": "978-3743814560",
+        "paginas": 85,
+        "precio": 15,
+        "ventas": 37127
+    },
+    {
+        "titulo": "Libro 980",
+        "autor": "Autor 980",
+        "isbn": "978-0207313877",
+        "paginas": 564,
+        "precio": 10,
+        "ventas": 52648
+    },
+    {
+        "titulo": "Libro 981",
+        "autor": "Autor 981",
+        "isbn": "978-0501461095",
+        "paginas": 469,
+        "precio": 20,
+        "ventas": 32046
+    },
+    {
+        "titulo": "Libro 982",
+        "autor": "Autor 982",
+        "isbn": "978-4905465039",
+        "paginas": 235,
+        "precio": 30,
+        "ventas": 43036
+    },
+    {
+        "titulo": "Libro 983",
+        "autor": "Autor 983",
+        "isbn": "978-1071104556",
+        "paginas": 173,
+        "precio": 40,
+        "ventas": 28348
+    },
+    {
+        "titulo": "Libro 984",
+        "autor": "Autor 984",
+        "isbn": "978-1216133863",
+        "paginas": 451,
+        "precio": 40,
+        "ventas": 7668
+    },
+    {
+        "titulo": "Libro 985",
+        "autor": "Autor 985",
+        "isbn": "978-3145504682",
+        "paginas": 130,
+        "precio": 20,
+        "ventas": 59027
+    },
+    {
+        "titulo": "Libro 986",
+        "autor": "Autor 986",
+        "isbn": "978-7869243238",
+        "paginas": 122,
+        "precio": 15,
+        "ventas": 30819
+    },
+    {
+        "titulo": "Libro 987",
+        "autor": "Autor 987",
+        "isbn": "978-2748183321",
+        "paginas": 166,
+        "precio": 20,
+        "ventas": 27428
+    },
+    {
+        "titulo": "Libro 988",
+        "autor": "Autor 988",
+        "isbn": "978-5292123520",
+        "paginas": 549,
+        "precio": 25,
+        "ventas": 10948
+    },
+    {
+        "titulo": "Libro 989",
+        "autor": "Autor 989",
+        "isbn": "978-0843931128",
+        "paginas": 176,
+        "precio": 15,
+        "ventas": 23492
+    },
+    {
+        "titulo": "Libro 990",
+        "autor": "Autor 990",
+        "isbn": "978-8168819187",
+        "paginas": 266,
+        "precio": 35,
+        "ventas": 6035
+    },
+    {
+        "titulo": "Libro 991",
+        "autor": "Autor 991",
+        "isbn": "978-8060437526",
+        "paginas": 99,
+        "precio": 15,
+        "ventas": 33486
+    },
+    {
+        "titulo": "Libro 992",
+        "autor": "Autor 992",
+        "isbn": "978-5119644210",
+        "paginas": 312,
+        "precio": 20,
+        "ventas": 29594
+    },
+    {
+        "titulo": "Libro 993",
+        "autor": "Autor 993",
+        "isbn": "978-6119696913",
+        "paginas": 171,
+        "precio": 25,
+        "ventas": 7028
+    },
+    {
+        "titulo": "Libro 994",
+        "autor": "Autor 994",
+        "isbn": "978-0439990533",
+        "paginas": 417,
+        "precio": 10,
+        "ventas": 57394
+    },
+    {
+        "titulo": "Libro 995",
+        "autor": "Autor 995",
+        "isbn": "978-6942843594",
+        "paginas": 502,
+        "precio": 35,
+        "ventas": 29186
+    },
+    {
+        "titulo": "Libro 996",
+        "autor": "Autor 996",
+        "isbn": "978-8740650439",
+        "paginas": 470,
+        "precio": 25,
+        "ventas": 55184
+    },
+    {
+        "titulo": "Libro 997",
+        "autor": "Autor 997",
+        "isbn": "978-9829003185",
+        "paginas": 277,
+        "precio": 35,
+        "ventas": 8867
+    },
+    {
+        "titulo": "Libro 998",
+        "autor": "Autor 998",
+        "isbn": "978-4234488467",
+        "paginas": 149,
+        "precio": 35,
+        "ventas": 37018
+    },
+    {
+        "titulo": "Libro 999",
+        "autor": "Autor 999",
+        "isbn": "978-4590924123",
+        "paginas": 224,
+        "precio": 30,
+        "ventas": 26563
+    },
+    {
+        "titulo": "Libro 1000",
+        "autor": "Autor 1000",
+        "isbn": "978-0173990572",
+        "paginas": 182,
+        "precio": 20,
+        "ventas": 4377
+    }
+]

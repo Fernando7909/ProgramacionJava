@@ -1,3 +1,4 @@
+package MP03_Marina.EJERCICIOS_REPASO_ARRAYS.Ejercicios_repaso_Arrays_1;
 /*10. Escriba un programa Java para encontrar el valor máximo y mínimo de una matriz.*/
 
 import java.util.Arrays;
@@ -6,7 +7,7 @@ public class Ejercicio_10{
 	public static void main(String[] args){
 
 		int[] array_int = {5, 10, 15, 20, 25, 30, 65, 3, 55};
-		int Valor_max = array_int[0];
+		int Valor_max = 0;
 		int Valor_min = array_int[0];
 
 		System.out.println("El Array inicialmente es: " + Arrays.toString(array_int));

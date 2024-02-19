@@ -52,8 +52,8 @@ public class Examen_arrays2 {
                 lector.next();
             }
         }
-        for (int j = 0; j < array_int.length; j++) {
-            if (array_int[j] == numero_buscar) {
+        for (int j = 0; j < array_int.length; j++) {  //(int j = 0; j < array_int.length && !Medida3; j++) así en cuanto encuentra el valor buscado
+            if (array_int[j] == numero_buscar) {      // deja de buscar sin recorrer todo el array
                 System.out.println("El valor " + numero_buscar + " se encontró en la posición " + j + " del vector");
                 Medida3 = true;
                 //break;

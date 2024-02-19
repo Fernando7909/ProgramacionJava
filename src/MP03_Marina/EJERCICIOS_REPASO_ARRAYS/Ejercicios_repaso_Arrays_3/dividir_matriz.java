@@ -1,4 +1,4 @@
-/*9.Tome una matriz de 10 elementos. Divídalo por la mitad y almacene los elementos en dos matrices diferentes.*/
+package MP03_Marina.EJERCICIOS_REPASO_ARRAYS.Ejercicios_repaso_Arrays_3;/*9.Tome una matriz de 10 elementos. Divídalo por la mitad y almacene los elementos en dos matrices diferentes.*/
 
 public class dividir_matriz{
     public static void main(String[] args){
@@ -15,7 +15,7 @@ public class dividir_matriz{
         System.out.print("]");
         System.out.print("\nEl new_array2 es: [ ");
         for(int j = 0; j < new_array2.length; j++) {
-            new_array2[j] = array_int[array_int.length / 2 + j];
+            new_array2[j] = array_int[j + array_int.length / 2];
             System.out.print(new_array2[j] + " ");
         }
         System.out.print("]");

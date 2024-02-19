@@ -1,4 +1,6 @@
-/*import java.util.Scanner;
+package MP03_Marina.UF_2.RegistreTemperatures;
+
+import java.util.Scanner;
 
 public class RegistreTemperatures {
   //Constantes
@@ -94,7 +96,7 @@ public class RegistreTemperatures {
   }
 
   //eliminem la funció finalitzarExecucio()
-  /*public void finalitzarExecucio() {
+  public void finalitzarExecucio() {
     fi = true;
   }
 
@@ -201,6 +203,6 @@ public class RegistreTemperatures {
     System.out.print((maxima - minima));
   }
 }
-*/
+
 
 
