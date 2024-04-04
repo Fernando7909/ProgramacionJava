@@ -1,4 +1,4 @@
-package UF_2;
+package MP03_Marina.UF_2.LlegirEnters;
 
 import java.util.Scanner;
 public class LlegirEnters {

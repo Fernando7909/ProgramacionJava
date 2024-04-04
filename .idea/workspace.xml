@@ -5,146 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ej_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ej_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ej_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ej_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ej_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_1/Ejercicio_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ej_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ej_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ejercicio_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ejercicio_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ejercicio_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ejercicio_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Ejercicio_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Fusionar_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Fusionar_arrays.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Valor_cubico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/Valor_cubico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/elementos_comunes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/elementos_comunes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/suma_impares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_2/suma_impares.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/Numeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/Numeros.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/Orden_inverso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/Orden_inverso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/dividir_matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/dividir_matriz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/imprimir_numeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/imprimir_numeros.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/numero_presente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/numero_presente.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/suma_producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_3/suma_producto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Adivina_personaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Adivina_personaje.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Buscar_elemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Buscar_elemento.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Diferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Diferencia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Eliminar_palabras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Eliminar_palabras.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Valores_unicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios_repaso_Arrays_4/Valores_unicos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Examen_arrays3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Programa_principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/EnviarCorreo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/ParserPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/activation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/javax.mail.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/libros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/venta_libros.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo Deportivo _ Noticias deportivas_ Fútbol, motor, tenis y más.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Titulares_ElPais.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/numeroMasPequeño.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaEnPalabra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaenText/notaEnTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Cita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Main_Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Pagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Clase_Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Encargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Peticion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Sucursal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/TiposProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Transportista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/main_Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Arona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Ibiza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/MP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Ogg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Persona/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/ProjecteFigura (4).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Static/ExempleUsosStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Cliente_Servidor/cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Cliente_Servidor/servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Mundo_deportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Mundo_deportivo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Parsear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/enlaces_prat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/prat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/scraping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgramacionJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ej_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 1/Ejercicio_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ej_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Ejercicio_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Fusionar_arrays.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/Valor_cubico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/elementos_comunes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 2/suma_impares.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Numeros.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/Orden_inverso.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/dividir_matriz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/imprimir_numeros.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/numero_presente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 3/suma_producto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Adivina_personaje.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Buscar_elemento.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Diferencia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Eliminar_palabras.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/EJERCICIOS_REPASO_ARRAYS/Ejercicios repaso Arrays 4/Valores_unicos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/Examen/Examen_arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/Examen_arrays2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/Examen/FH_Stop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/Examen/FH_Stop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/Examen/Stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_funciones/NumeroMasGrande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios_funciones/NumeroMasGrande.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Areas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Areas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Programa_principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Programa_principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/LlegirEnters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/LlegirEnters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Parametros_Salida/Parametros_Salida2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Prediccion_Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Prediccion_Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/RegistreTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/RegistreTemperatures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +93,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -177,61 +116,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Areas.executor": "Run",
-    "Application.Areas_mod.executor": "Run",
-    "Application.CalculMinMaxMediana.executor": "Run",
-    "Application.Ej_1.executor": "Run",
-    "Application.Eje_1.executor": "Run",
-    "Application.Eje_2.executor": "Run",
-    "Application.Eje_3.executor": "Run",
-    "Application.Eje_4.executor": "Run",
-    "Application.Eje_5.executor": "Run",
-    "Application.Eje_6.executor": "Run",
-    "Application.Eje_7.executor": "Run",
-    "Application.Eje_8.executor": "Run",
-    "Application.Ejercicio_10.executor": "Run",
-    "Application.Ejercicio_12.executor": "Run",
-    "Application.Ejercicio_7.executor": "Run",
-    "Application.Ejercicio_9.executor": "Run",
-    "Application.Eliminar_elemento.executor": "Run",
-    "Application.EnviarCorreo.executor": "Run",
-    "Application.Examen_arrays1.executor": "Run",
-    "Application.Examen_arrays2.executor": "Run",
-    "Application.Examen_arrays3.executor": "Run",
-    "Application.FH_Stop.executor": "Run",
-    "Application.FernandoHernandez_TaulaMultiplicar.executor": "Run",
-    "Application.LlegirEnters.executor": "Run",
-    "Application.Loops_1.executor": "Run",
-    "Application.Loops_2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NotaMaxima.executor": "Run",
-    "Application.NotaenText.executor": "Run",
-    "Application.NumeroMasGrande.executor": "Run",
-    "Application.ParserPersona.executor": "Run",
-    "Application.PrediccioPersona.executor": "Run",
-    "Application.Prediccion_Persona.executor": "Run",
-    "Application.Programa_principal.executor": "Run",
-    "Application.RegistreNotes.executor": "Run",
-    "Application.RegistreNotes_mod.executor": "Run",
-    "Application.RegistreTemperatures.executor": "Run",
-    "Application.SimpleXMLParser.executor": "Run",
-    "Application.Stop2.executor": "Run",
-    "Application.dividir_matriz.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Propietario/Downloads/jsoup-1.17.2.jar",
-    "onboarding.tips.debug.path": "C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Areas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Areas_mod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculMinMaxMediana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clase_Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cliente_servidor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ej_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eje_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eliminar_elemento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnviarCorreo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examen_arrays1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examen_arrays2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examen_arrays3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExempleUsosStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FH_Stop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FernandoHernandez_TaulaMultiplicar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LlegirEnters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mundo_deportivo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mundo_deportivo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotaEnPalabra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotaMaxima.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotaenText.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumeroMasGrande.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parsear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParserPersona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Periodico.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Persona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrediccioPersona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prediccion_Persona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programa_principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistreNotes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistreNotes_mod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegistreTemperatures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleXMLParser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stop2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dividir_matriz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.enlaces_prat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_Empresa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numeroMasPequeño.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.scraping.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Propietario/Downloads/commons-io-2.15.1.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Propietario\Desktop\ProgramacionJava" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -328,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707906795602</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1708360990761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708360990762</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

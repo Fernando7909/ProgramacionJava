@@ -9,7 +9,7 @@ public class RegistreTemperatures {
   //Variables globales
   private boolean fi = false;
   private int numTemperatures = 0;
-  private float[] temperatures = new float[MAX_SETMANES * 7];
+  private float[] array_temperatures = new float[MAX_SETMANES * 7];
   private int dia = 1;
   private int mes = 1;
 
@@ -60,7 +60,7 @@ public class RegistreTemperatures {
   //M todes associats al punt 3
   public void registreTemperaturesSetmanals() {
     //Cal controlar si hi haurà espai per a aquests 7 registres
-    if ((numTemperatures + 7) >= temperatures.length) {
+    if ((numTemperatures + 7) >= array_temperatures.length) {
       System.out.println("No queda espai per a més temperatures.");
     }
     else {
@@ -106,7 +106,7 @@ public class RegistreTemperatures {
     int numLlegides = 0;
     while (numLlegides < 7) {
       if (lector.hasNextFloat()) {
-        temperatures[numTemperatures] = lector.nextFloat();
+        array_temperatures[numTemperatures] = lector.nextFloat();
         numLlegides++;
         numTemperatures++;
       }
@@ -184,20 +184,20 @@ public class RegistreTemperatures {
   public void calculaMitjana() {
     float acumulador = 0;
     for(int i = 0; i < numTemperatures; i++) {
-      acumulador = acumulador + temperatures[i];
+      acumulador = acumulador + array_temperatures[i];
     }
     System.out.print((acumulador / numTemperatures));
   }
 
   public void calculaDiferencia() {
-    float maxima = temperatures[0];
-    float minima = temperatures[0];
+    float maxima = array_temperatures[0];
+    float minima = array_temperatures[0];
     for(int i = 1; i < numTemperatures; i++) {
-      if (temperatures[i] < minima) {
-        minima = temperatures[i];
+      if (array_temperatures[i] < minima) {
+        minima = array_temperatures[i];
       }
-      if (temperatures[i] > maxima) {
-        maxima = temperatures[i];
+      if (array_temperatures[i] > maxima) {
+        maxima = array_temperatures[i];
       }
     }
     System.out.print((maxima - minima));

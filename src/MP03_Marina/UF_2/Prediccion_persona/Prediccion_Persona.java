@@ -1,4 +1,4 @@
-package UF_2.Prediccion_persona;
+package MP03_Marina.UF_2.Prediccion_persona;
 
 import java.util.Scanner;
 public class Prediccion_Persona {

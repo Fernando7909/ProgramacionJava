@@ -1,4 +1,4 @@
-package UF_2.Eliminar_elemento;
+package MP03_Marina.UF_2.Eliminar_elemento;
 
 import java.util.Scanner;
 
@@ -47,8 +47,8 @@ public class Eliminar_elemento {
 			if (lector.hasNextInt()) {
 				for (int i = 0; i < Longitud; i++) {
 					array_int[i] = lector.nextInt();
+					Medida2 = true;
 				}
-				Medida2 = true;
 			}
 			else {
 				System.out.println("ERROR! Has introducido un valor equivocado");

@@ -1,11 +1,11 @@
-package UF_2;
+package MP03_Marina.UF_2.Calcular_Areas;
 
 import java.util.Scanner;
 
 public class Areas { //Variables globales. Se pueden usar en todo el programa
     Scanner lector = new Scanner(System.in);
-    double Area;
-
+    double Area; /*Debido a que Area esta declarada como variable global, no es necesario un return de Area en cada calculo
+    del area de cada figura. Se almacena directamente*/
     public static void main(String[] args){
         Areas programa = new Areas();
         programa.inicio();
@@ -48,12 +48,13 @@ public class Areas { //Variables globales. Se pueden usar en todo el programa
         circulo();
         }
     }
-    public void triangulo(){
+    public double triangulo(){
         System.out.println("Introduce la medida de la base: ");
         double b = lector.nextDouble();
         System.out.println("Introduce la medida de la altura: ");
         double h = lector.nextDouble();
         Area = (b*h)/2;
+        return Area;
     }
     public void cuadrado(){
         System.out.println("Introduce la medida del radio: ");

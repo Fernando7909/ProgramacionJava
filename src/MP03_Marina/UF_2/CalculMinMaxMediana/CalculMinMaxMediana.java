@@ -1,4 +1,4 @@
-package UF_2.CalculMinMaxMediana;
+package MP03_Marina.UF_2.CalculMinMaxMediana;
 
 import java.util.Scanner;
 public class CalculMinMaxMediana {

@@ -12,7 +12,6 @@ public class Programa_principal {
         while (!fin){
             mostrarMenu();
             selectOpcion();
-            calcular();
         }
     }
     public void mostrarMenu(){
@@ -34,7 +33,7 @@ public class Programa_principal {
                     select = true;
                 } else if (opcion.toLowerCase().equalsIgnoreCase("FIN")) {
                     finalizarEjecucion();
-                    //select = true;
+                    select = true;
                 } else {
                     System.out.println("ERROR! Selecciona una de las 2 opciones.");
                 }
