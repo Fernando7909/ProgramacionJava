@@ -5,85 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/Mundo Deportivo _ Noticias deportivas_ Fútbol, motor, tenis y más.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titulares_ElPais.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejemplo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/Eje_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_practica/numeroMasPequeño.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaEnPalabra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/NotaenText/notaEnTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Cita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Main_Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/AGENDA/Pagina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/CUSTOMER/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Clase_Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Creacion_ejemplo/triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Encargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Peticion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Sucursal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/TiposProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/Transportista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Empresa/main_Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_Simple/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Arona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Ibiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Herencia_multinivel/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/MP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Ogg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Media/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Persona/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/ProjecteFigura (4).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Static/ExempleUsosStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Cliente_Servidor/cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Cliente_Servidor/servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Mundo_deportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Mundo_deportivo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Parsear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/enlaces_prat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/prat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP4_Ignasi/scraping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UF6_ AEA1_PR1 - UML escola.docx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML ESCOLA.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML_ESCOLA_Fernando_Hdez.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/MP02 - UF1 setmana3.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramacionJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/Ejercicios_funciones/NumeroMasGrande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios_funciones/NumeroMasGrande.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/CalculMinMaxMediana/CalculMinMaxMediana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Areas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Calcular_Areas/Areas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Eliminar_elemento/Eliminar_elemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Programa_principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Estudiante_curso/Programa_principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/LlegirEnters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/LlegirEnters/LlegirEnters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Parametros_Salida/Parametros_Salida2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Prediccion_Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/Prediccion_persona/Prediccion_Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/RegistreTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_2/RegistreTemperatures/RegistreTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +42,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fernando7909&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fernando7909/ProgramacionJava.git&quot;,
+    &quot;accountId&quot;: &quot;2e4af691-5168-4ff9-a4e2-0b1683e11bb0&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -151,6 +104,8 @@
     &quot;Application.Loops_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Loops_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Mundo_deportivo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Mundo_deportivo2.executor&quot;: &quot;Run&quot;,
     &quot;Application.NotaEnPalabra.executor&quot;: &quot;Run&quot;,
@@ -193,13 +148,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Propietario\Desktop\ProgramacionJava" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -298,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708360990762</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1712238093839</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712238093839</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

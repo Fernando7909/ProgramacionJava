@@ -1,13 +1,11 @@
-package MP4_Ignasi;
+/*package MP4_Ignasi;
 
 import java.io.IOException;
 import java.net.URL;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.apache.commons.io.FileUtils;
 import java.io.File;
 
 public class Periodico {
@@ -30,8 +28,10 @@ public class Periodico {
 
 
         // Escribimos el archivo
-        FileUtils.writeStringToFile(new File("C:\\Users\\Propietario\\Desktop\\archivoPeriodico.txt"), contenidoCompleto.toString());
+        Object FileUtils = " ";
+        FileUtils.toString(new File("C:\\Users\\Propietario\\Desktop\\archivoPeriodico.txt"), contenidoCompleto.toString());
 
 
     }
 }
+*/

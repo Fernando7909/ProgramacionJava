@@ -15,7 +15,7 @@ public class Rombo extends Figura {
         this. dm = dm;
     }
     public Rombo(String figura, int id, int dM, int dm) {
-        super(figura, id);
+        super(figura);
         this.dM = dM;
         this.dm = dm;
     }

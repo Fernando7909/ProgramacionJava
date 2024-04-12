@@ -1,13 +1,14 @@
 package MP03_Marina.UF_4.Proyecto_Figura;
 
 import java.util.Scanner;
-public class Main {
+public class Main2 {
     Scanner lector = new Scanner(System.in);
     boolean fin = false;
     double area;
     String figura;
+
     public static void main(String[] args) {
-        Main programa = new Main();
+        Main2 programa = new Main2();
         programa.inicio();
     }
     //Funciones Constructoras:
@@ -39,7 +40,7 @@ public class Main {
             figura = seleccionarFigura();
             area = leerDatos(figura);
             area = calcularArea(area);
-            imprimirDatos(figura, area);
+            Fig0.imprimirDatos(area, figura);
         }
         else if (opcion.equalsIgnoreCase("end")) {
             finalizarEjecucion();
@@ -111,24 +112,7 @@ public class Main {
         return area;
     }
 
-    public void imprimirDatos(String figura, double area){
-        System.out.println("El área de la figura " + figura + " es de : " + area + " cm2.");
-        System.out.println("\n");
-        System.out.println("------------------------------------------------------------");
-    }
     public void finalizarEjecucion() {
         fin = true;
     }
-
-
-    //Esta parte del código que está comentada, hace referencia a la primera parte del ejercicio.
-    /*Figura[] figuras = {Tri0, Cu0, Re0, Tra0, Ro0, Pa0, Ci0};
-
-    for (Figura figura : figuras){
-        System.out.println("La figura con ID: " + figura.getId() + " es un " + figura.getFigura() + ".\nEl area del " + figura.getFigura() + " es: " + figura.calcularArea());
-        System.out.println();
-        System.out.println("---------------------");
-        System.out.println();
-    }
-     */
 }

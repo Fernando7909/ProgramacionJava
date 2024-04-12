@@ -13,7 +13,7 @@ public class Cuadrado extends Figura {
         this.lado = lado;
     }
     public Cuadrado(String figura, int id, int lado) {
-        super(figura, id);
+        super(figura);
         this.lado = lado;
     }
 

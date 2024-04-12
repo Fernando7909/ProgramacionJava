@@ -15,7 +15,7 @@ public class Paralelogramo extends Figura{
         this.h = h;
     }
     public Paralelogramo(String figura, int id, int b, int h) {
-        super(figura, id);
+        super(figura);
         this.b = b;
         this.h = h;
     }

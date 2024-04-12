@@ -9,7 +9,7 @@ public class Circulo extends Figura{
     //Funciones Constructoras:
     public Circulo(){}
     public Circulo(String figura, int id, int radio) {
-        super(figura, id);
+        super(figura);
         this.radio = radio;
     }
 

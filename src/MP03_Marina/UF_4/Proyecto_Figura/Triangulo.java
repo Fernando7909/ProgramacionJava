@@ -14,7 +14,7 @@ public class Triangulo extends Figura {
         this.h = h;
     }
     public Triangulo(String figura, int id, int base, int h) {
-        super(figura, id);
+        super(figura);
         this.base = base;
         this.h = h;
     }
@@ -37,6 +37,7 @@ public class Triangulo extends Figura {
 
     //Otras funciones:
     public void Triangulo(int a, int b){}
+
     @Override
     public double calcularArea(){
         Scanner lector = new Scanner(System.in);

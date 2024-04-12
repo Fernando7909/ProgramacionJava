@@ -17,7 +17,7 @@ public class Trapecio extends Figura{
         this.h = h;
     }
     public Trapecio(String figura, int id, int a, int b, int h) {
-        super(figura, id);
+        super(figura);
         this.a = a;
         this.b = b;
         this.h = h;
