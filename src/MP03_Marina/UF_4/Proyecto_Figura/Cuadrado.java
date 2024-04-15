@@ -15,6 +15,7 @@ public class Cuadrado extends Figura {
     public Cuadrado(String figura, int id, int lado) {
         super(figura);
         this.lado = lado;
+
     }
 
     //Getters:
@@ -28,7 +29,6 @@ public class Cuadrado extends Figura {
     }
 
     //Otras Funciones:
-    public void Cuadrado(int r){}
     @Override
     public double calcularArea(){
         Scanner lector = new Scanner(System.in);

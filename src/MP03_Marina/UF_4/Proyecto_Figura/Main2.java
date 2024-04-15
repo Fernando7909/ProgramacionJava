@@ -40,7 +40,7 @@ public class Main2 {
             figura = seleccionarFigura();
             area = leerDatos(figura);
             area = calcularArea(area);
-            Fig0.imprimirDatos(area, figura);
+            imprimirDatos(area, figura);
         }
         else if (opcion.equalsIgnoreCase("end")) {
             finalizarEjecucion();
@@ -110,6 +110,11 @@ public class Main2 {
     }
     public double calcularArea(double Area){
         return area;
+    }
+    public void imprimirDatos(double area, String figura) {
+        System.out.println("La figura con id: " + Fig0.getId() + " es un " + figura);
+        System.out.println("El área del " + figura + " es de : " + area);
+        System.out.println("------------------------------------------------------------");
     }
 
     public void finalizarEjecucion() {

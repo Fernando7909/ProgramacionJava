@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UF6_ AEA1_PR1 - UML escola.docx.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML ESCOLA.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML_ESCOLA_Fernando_Hdez.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/MP02 - UF1 setmana3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Programmer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP4_Ignasi/Periodico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712238093839</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1712934617582</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712934617582</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
