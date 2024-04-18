@@ -28,6 +28,11 @@ public class Developer extends Employee{
     public void escribirCodigo(){
         System.out.println(getPuestoTrabajo() + " " + getNombre() + " is writting code in " + getLenguajeProgramacion());
     }
+    @Override
+    public String generarReport(){
+        System.out.println("Performance report for " + getPuestoTrabajo() + " " + getNombre() + ": Good");
+        return null;
+    }
 
     @Override
     public double calcularBonus(){

@@ -16,6 +16,11 @@ public class Programmer extends Employee{
     public void debug(){
         System.out.println(getPuestoTrabajo() + " " + getNombre() + " is debugging code in Python.");
     }
+    @Override
+    public String generarReport(){
+        System.out.println("Performance report for " + getPuestoTrabajo() + " " + getNombre() + ": Excellent");
+        return null;
+    }
 
     @Override
     public double calcularBonus(){

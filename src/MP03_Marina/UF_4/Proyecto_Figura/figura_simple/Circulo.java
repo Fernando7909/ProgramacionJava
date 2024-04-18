@@ -1,20 +1,28 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_simple;
 
 import java.util.Scanner;
 public class Circulo extends Figura{
 
     //Atributos
-    private int radio;
+    private int radio = 0;
 
     //Funciones Constructoras:
-    public Circulo(){}
+    public Circulo(){
+        super("Circulo");
+    }
+
+    public Circulo(int radio) {
+        super("Circulo");
+        this.radio = radio;
+    }
+
     public Circulo(String figura, int id, int radio) {
         super(figura);
         this.radio = radio;
     }
 
     //Getters:
-    public double getRadio(){
+    public int getRadio(){
         return radio;
     }
 
@@ -27,11 +35,6 @@ public class Circulo extends Figura{
     public void Circulo(int r){}
     @Override
     public double calcularArea(){
-        Scanner lector = new Scanner(System.in);
-
-        System.out.println("Introduce la medida del radio del Circulo: ");
-        setRadio(radio = lector.nextInt());
-
         return Math.PI * Math.pow(radio, 2);
     }
 }

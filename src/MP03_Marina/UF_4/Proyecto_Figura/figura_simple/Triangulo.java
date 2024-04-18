@@ -1,4 +1,4 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_simple;
 
 import java.util.Scanner;
 public class Triangulo extends Figura {
@@ -8,13 +8,12 @@ public class Triangulo extends Figura {
     private int h;
 
     //Funciones Constructoras:
-    public Triangulo(){}
-    public Triangulo(int base, int h){
-        this.base = base;
-        this.h = h;
+    public Triangulo(){
+        super("Triangulo");
     }
-    public Triangulo(String figura, int id, int base, int h) {
-        super(figura);
+
+    public Triangulo(int base, int h) {
+        super("Triangulo");
         this.base = base;
         this.h = h;
     }
@@ -40,15 +39,6 @@ public class Triangulo extends Figura {
 
     @Override
     public double calcularArea(){
-        Scanner lector = new Scanner(System.in);
-
-        System.out.println("Introduce la medida de base del Triangulo: ");
-        int base = lector.nextInt();
-        setBase(base);
-        System.out.println("Introduce la medida de altura (h) del triangulo: ");
-        int h = lector.nextInt();
-        setH(h);
-
         return this.base * this.h;
     }
 }

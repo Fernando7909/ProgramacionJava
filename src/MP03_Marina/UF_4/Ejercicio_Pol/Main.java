@@ -5,8 +5,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        boolean ejecutar = false;
+        String nombre = " ";
+        String direccion = " ";
+        double salario = 0;
 
-        while (true) {
+        // He quitado el while (true)
+        while (!ejecutar) {
             System.out.println("Quin tipus d'empleat ets? (Manager, Developer, Programmer, Exit)");
             String puestoTrabajo = scanner.nextLine().toLowerCase();
 
@@ -14,12 +19,32 @@ public class Main {
                 break;
             }
 
+            // He añadido una gestion de errores para cada pregunta
+
             System.out.println("Com et dius?");
-            String nombre = scanner.nextLine().toLowerCase();
+            if (scanner.hasNextLine()){
+                nombre = scanner.nextLine();
+            }
+            else {
+                System.out.println("ERROR! Escribe un nombre.");
+            }
+
             System.out.println("Quina és la teva direcció?");
-            String direccion = scanner.nextLine().toLowerCase();
+            if (scanner.hasNextLine()){
+                direccion = scanner.nextLine();
+            }
+            else {
+                System.out.println("ERROR! Escribe un nombre.");
+            }
+
             System.out.println("Quin és el teu rang salarial?");
-            double salario = scanner.nextDouble();
+            if (scanner.hasNextDouble()){
+                salario = scanner.nextDouble();
+            }
+            else {
+                System.out.println("ERROR! Escribe tu rango salarial.");
+                scanner.next();
+            }
             scanner.nextLine(); // Limpiar el búfer
 
             Employee nouEmpleat = crearEmpleat(puestoTrabajo, nombre, direccion, salario, scanner);
@@ -29,7 +54,6 @@ public class Main {
                 System.out.println("Rol d'empleat no vàlid.");
             }
         }
-
         scanner.close();
     }
 
@@ -57,18 +81,21 @@ public class Main {
         System.out.println("Direcció: " + empleado.getDireccion());
         System.out.println("Salari: " + empleado.getSalario());
         System.out.println("Posició: " + empleado.getPuestoTrabajo());
+
         if (empleado instanceof Manager) {
             System.out.println("Nombre de treballadors: " + ((Manager) empleado).getNumTrabajadores());
             ((Manager) empleado).gestionProyecto();
-        } else if (empleado instanceof Developer) {
+        }
+        else if (empleado instanceof Developer) {
             System.out.println("Llenguatge de programació: " + ((Developer) empleado).getLenguajeProgramacion());
             ((Developer) empleado).escribirCodigo();
-        } else if (empleado instanceof Programmer) {
+        }
+        else if (empleado instanceof Programmer) {
             Programmer.debug();
         }
+
         System.out.println("Bonus: " + empleado.calcularBonus());
         System.out.println("Informe: " + empleado.generarReport());
         System.out.println("--------------------------------------");
     }
-    
 }

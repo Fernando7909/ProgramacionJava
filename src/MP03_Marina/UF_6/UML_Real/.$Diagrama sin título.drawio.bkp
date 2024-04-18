@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-04-16T10:40:24.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="qEkmESpepp-OVYHUCYVu" version="24.1.0" type="device">
+  <diagram name="Página-1" id="_hcn87Br7ETUtxc8sMHJ">
+    <mxGraphModel dx="1276" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-14" value="Instrumento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-15" value="Id_instrumento: int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-14">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-16" value="nombre: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-14">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-17" value="tipo:instrumento: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-14">
+          <mxGeometry y="86" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-20" value="&lt;div&gt;ImprimirCaracterísticas()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CalcularPrecio: double&lt;/div&gt;" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-14">
+          <mxGeometry y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-21" value="Instrumento_Viento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="321" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-26" value="Instrumento_Percusion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="321" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-31" value="Instrumento_Cuerda" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="321" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-36" value="Guitarra" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-37" value="Id_instrumento: int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-36">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-38" value="nombre: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-36">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-39" value="tipo:instrumento: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-36">
+          <mxGeometry y="86" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-40" value="&lt;div&gt;ImprimirCaracterísticas()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CalcularPrecio: double&lt;/div&gt;" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-36">
+          <mxGeometry y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-41" value="Piano" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-42" value="Id_instrumento: int" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-41">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-43" value="nombre: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-41">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-44" value="tipo:instrumento: String" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-41">
+          <mxGeometry y="86" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dY8vfZVI0cBew9GyoE2p-45" value="&lt;div&gt;ImprimirCaracterísticas()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CalcularPrecio: double&lt;/div&gt;" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="dY8vfZVI0cBew9GyoE2p-41">
+          <mxGeometry y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

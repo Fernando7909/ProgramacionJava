@@ -1,10 +1,10 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_simple;
 
 public class Figura {
 
     //Atributos:
-    private int id = 0;  // le damos un valor aunque sea 0 o nulo
-    private String figura = " ";
+    private static int id = 0;  // le damos un valor aunque sea 0 o nulo
+    private String figura = "";
 
 
     //Funciones Constructoras:
@@ -18,10 +18,10 @@ public class Figura {
 
     //Getters:
     public String getFigura(){
-        return figura;
+        return this.figura;
     }
     public int getId(){
-        return this.id;
+        return id;
     }
 
 
@@ -33,12 +33,14 @@ public class Figura {
         this.id = id;
     }
 
-    public double getArea(){
-        return 5;
-    }
-
     //Otras Funciones:
     public double calcularArea(){
         return 0.0;
+    }
+
+    public void imprimirDatos() {
+        System.out.println("La figura con id: " + getId() + " es un " + getFigura());
+        System.out.println("El área del " + getFigura() + " es de : " + calcularArea());
+        System.out.println("------------------------------------------------------------");
     }
 }

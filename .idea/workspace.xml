@@ -5,16 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Paralelogramo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Rombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Trapecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Paralelogramo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Rombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Trapecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_simple/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/MainFigura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Pararllelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Quadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Rombe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Trapezi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Cercle_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Figura_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/MainFiguraMillorada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Parallelogram_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Quadrat_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Rectangle_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Rombe_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Trapezi_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Solucion_figura/Figura_Scanner/Triangle_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/UML_Real/.$Diagrama sin título.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/UML_Real/Diagrama sin título.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Ejercicio_Pol/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Cuadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Paralelogramo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Rombo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Trapecio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Persona/Programmer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,81 +103,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Areas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Areas_mod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculMinMaxMediana.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clase_Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cliente_servidor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ej_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eje_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio_12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Eliminar_elemento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnviarCorreo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Examen_arrays1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Examen_arrays2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Examen_arrays3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExempleUsosStatic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FH_Stop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FernandoHernandez_TaulaMultiplicar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LlegirEnters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mundo_deportivo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mundo_deportivo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotaEnPalabra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotaMaxima.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotaenText.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroMasGrande.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Parsear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParserPersona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Periodico.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Persona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrediccioPersona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prediccion_Persona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programa_principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegistreNotes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegistreNotes_mod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegistreTemperatures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleXMLParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stop2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cliente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dividir_matriz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.enlaces_prat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main_Empresa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numeroMasPequeño.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.scraping.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Propietario/Downloads/commons-io-2.15.1.jar&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Areas.executor": "Run",
+    "Application.Areas_mod.executor": "Run",
+    "Application.CalculMinMaxMediana.executor": "Run",
+    "Application.Clase_Principal.executor": "Run",
+    "Application.Cliente_servidor.executor": "Run",
+    "Application.Ej_1.executor": "Run",
+    "Application.Eje_1.executor": "Run",
+    "Application.Eje_10.executor": "Run",
+    "Application.Eje_2.executor": "Run",
+    "Application.Eje_3.executor": "Run",
+    "Application.Eje_4.executor": "Run",
+    "Application.Eje_5.executor": "Run",
+    "Application.Eje_6.executor": "Run",
+    "Application.Eje_7.executor": "Run",
+    "Application.Eje_8.executor": "Run",
+    "Application.Eje_9.executor": "Run",
+    "Application.Ejercicio_10.executor": "Run",
+    "Application.Ejercicio_12.executor": "Run",
+    "Application.Ejercicio_7.executor": "Run",
+    "Application.Ejercicio_9.executor": "Run",
+    "Application.Eliminar_elemento.executor": "Run",
+    "Application.EnviarCorreo.executor": "Run",
+    "Application.Examen_arrays1.executor": "Run",
+    "Application.Examen_arrays2.executor": "Run",
+    "Application.Examen_arrays3.executor": "Run",
+    "Application.ExempleUsosStatic.executor": "Run",
+    "Application.FH_Stop.executor": "Run",
+    "Application.FernandoHernandez_TaulaMultiplicar.executor": "Run",
+    "Application.LlegirEnters.executor": "Run",
+    "Application.Loops_1.executor": "Run",
+    "Application.Loops_2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MainFigura.executor": "Run",
+    "Application.MainFiguraMillorada.executor": "Run",
+    "Application.Mundo_deportivo.executor": "Run",
+    "Application.Mundo_deportivo2.executor": "Run",
+    "Application.NotaEnPalabra.executor": "Run",
+    "Application.NotaMaxima.executor": "Run",
+    "Application.NotaenText.executor": "Run",
+    "Application.NumeroMasGrande.executor": "Run",
+    "Application.Parsear.executor": "Run",
+    "Application.ParserPersona.executor": "Run",
+    "Application.Periodico.executor": "Run",
+    "Application.Persona.executor": "Run",
+    "Application.PrediccioPersona.executor": "Run",
+    "Application.Prediccion_Persona.executor": "Run",
+    "Application.Programa_principal.executor": "Run",
+    "Application.RegistreNotes.executor": "Run",
+    "Application.RegistreNotes_mod.executor": "Run",
+    "Application.RegistreTemperatures.executor": "Run",
+    "Application.SimpleXMLParser.executor": "Run",
+    "Application.Stop2.executor": "Run",
+    "Application.cliente.executor": "Run",
+    "Application.dividir_matriz.executor": "Run",
+    "Application.enlaces_prat.executor": "Run",
+    "Application.main_Empresa.executor": "Run",
+    "Application.numeroMasPequeño.executor": "Run",
+    "Application.prat.executor": "Run",
+    "Application.scraping.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Propietario/Downloads/commons-io-2.15.1.jar",
+    "onboarding.tips.debug.path": "C:/Users/Propietario/Desktop/ProgramacionJava/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Propietario\Desktop\ProgramacionJava" />
@@ -252,7 +298,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712934617582</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1713197747301</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713197747301</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1713197767201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713197767201</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

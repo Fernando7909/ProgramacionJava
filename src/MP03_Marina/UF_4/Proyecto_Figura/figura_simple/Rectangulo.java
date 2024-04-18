@@ -1,4 +1,4 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_simple;
 
 import java.util.Scanner;
 public class Rectangulo extends Figura {
@@ -8,8 +8,12 @@ public class Rectangulo extends Figura {
     private int lado2;
 
     //Funciones Constructoras:
-    public Rectangulo(){}
-    public Rectangulo(int lado1, int lado2){
+    public Rectangulo(){
+        super("Rectangulo");
+    }
+
+    public Rectangulo(int lado1, int lado2) {
+        super("Rectangulo");
         this.lado1 = lado1;
         this.lado2 = lado2;
     }
@@ -34,13 +38,6 @@ public class Rectangulo extends Figura {
     public void Rectangulo(int c1, int c2){}
     @Override
     public double calcularArea(){
-        Scanner lector = new Scanner(System.in);
-
-        System.out.println("Introduce la medida del lado1 del Rectangulo: ");
-        setLado1(lado1 = lector.nextInt());
-        System.out.println("Introduce la medida del lado2 del Rectangulo: ");
-        setLado2(lado2 = lector.nextInt());
-
         return this.lado1 * this.lado2;
     }
 }

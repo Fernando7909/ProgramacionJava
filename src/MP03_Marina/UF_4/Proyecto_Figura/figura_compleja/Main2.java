@@ -1,4 +1,4 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_compleja;
 
 import java.util.Scanner;
 public class Main2 {
@@ -13,13 +13,6 @@ public class Main2 {
     }
     //Funciones Constructoras:
     Figura Fig0 = new Figura();
-    Triangulo Tri0 = new Triangulo();
-    Cuadrado Cu0 = new Cuadrado();
-    Rectangulo Re0 = new Rectangulo();
-    Trapecio Tra0 = new Trapecio();
-    Rombo Ro0 = new Rombo();
-    Paralelogramo Pa0 = new Paralelogramo();
-    Circulo Ci0 = new Circulo();
 
     public void inicio() {
         while (!fin) {
@@ -38,9 +31,7 @@ public class Main2 {
 
         if (opcion.equalsIgnoreCase("start")){
             figura = seleccionarFigura();
-            area = leerDatos(figura);
-            area = calcularArea(area);
-            imprimirDatos(area, figura);
+            leerDatos(figura);
         }
         else if (opcion.equalsIgnoreCase("end")) {
             finalizarEjecucion();
@@ -83,38 +74,63 @@ public class Main2 {
         }
         return figura;
     }
-    public double leerDatos(String figura){
+    public void leerDatos(String figura){
 
         if (figura.equalsIgnoreCase("Triangulo")){
-            area = Tri0.calcularArea();
+            Triangulo Tri = new Triangulo();
+            System.out.println("Introduce la medida de base del Triangulo: ");
+            Tri.setBase(lector.nextInt());
+            System.out.println("Introduce la medida de altura (h) del triangulo: ");
+            Tri.setH(lector.nextInt());
+            Tri.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Trapecio")) {
-            area = Tra0.calcularArea();
+            Trapecio Tra = new Trapecio();
+            System.out.println("Introduce la medida del 1º lado del Trapecio: ");
+            Tra.setA(lector.nextInt());
+            System.out.println("Introduce la medida del 2º lado del Trapecio: ");
+            Tra.setB(lector.nextInt());
+            System.out.println("Introduce la medida de altura (h) del Trapecio: ");
+            Tra.setH(lector.nextInt());
+            Tra.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Rombo")) {
-            area = Ro0.calcularArea();
+            Rombo Ro = new Rombo();
+            System.out.println("Introduce la medida del Diagonal Mayor del Rombo: ");
+            Ro.setDM(lector.nextInt());
+            System.out.println("Introduce la medida del Diagonal Menor del Rombo: ");
+            Ro.setDm(lector.nextInt());
+            Ro.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Rectangulo")) {
-            area = Re0.calcularArea();
+            Rectangulo Re = new Rectangulo();
+            System.out.println("Introduce la medida del lado1 del Rectangulo: ");
+            Re.setLado1(lector.nextInt());
+            System.out.println("Introduce la medida del lado2 del Rectangulo: ");
+            Re.setLado2(lector.nextInt());
+            Re.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Paralelogramo")) {
-            area = Pa0.calcularArea();
+            Paralelogramo Pa = new Paralelogramo();
+            System.out.println("Introduce la medida de un lado del Paralelogramo: ");
+            Pa.setB(lector.nextInt());
+            System.out.println("Introduce la medida de altura (h) del Paralelogramo: ");
+            Pa.setH(lector.nextInt());
+            Pa.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Cuadrado")) {
-            area = Cu0.calcularArea();
+            Cuadrado Cu = new Cuadrado();
+            System.out.println("Introduce la medida de un lado del Cuadrado: ");
+            Cu.setLado(lector.nextInt());
+            Cu.imprimirDatos();
         }
         else if (figura.equalsIgnoreCase("Circulo")) {
-            area = Ci0.calcularArea();
+            Circulo Ci = new Circulo();
+            System.out.println("Introduce la medida del radio del Circulo: ");
+            Ci.setRadio(lector.nextInt());
+            Ci.imprimirDatos();
         }
-        return area;
-    }
-    public double calcularArea(double Area){
-        return area;
-    }
-    public void imprimirDatos(double area, String figura) {
-        System.out.println("La figura con id: " + Fig0.getId() + " es un " + figura);
-        System.out.println("El área del " + figura + " es de : " + area);
-        System.out.println("------------------------------------------------------------");
+        lector.nextLine();  //Limpia el Búfer
     }
 
     public void finalizarEjecucion() {

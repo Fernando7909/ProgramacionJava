@@ -28,6 +28,11 @@ public class Manager extends Employee{
     public void gestionProyecto(){
         System.out.println(getPuestoTrabajo() + " " + getNombre() + " is managing a project.");
     }
+    @Override
+    public String generarReport(){
+        System.out.println("Performance report for " + getPuestoTrabajo() + " " + getNombre() + ": Excellent");
+        return null;
+    }
 
     @Override
     public double calcularBonus(){

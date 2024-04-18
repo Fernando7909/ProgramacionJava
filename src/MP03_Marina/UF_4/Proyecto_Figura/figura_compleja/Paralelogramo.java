@@ -1,4 +1,4 @@
-package MP03_Marina.UF_4.Proyecto_Figura;
+package MP03_Marina.UF_4.Proyecto_Figura.figura_compleja;
 
 import java.util.Scanner;
 
@@ -9,13 +9,12 @@ public class Paralelogramo extends Figura{
     private int h;
 
     //Funciones constructoras:
-    public Paralelogramo(){}
-    public Paralelogramo(int b, int h){
-        this.b = b;
-        this.h = h;
+    public Paralelogramo(){
+        super("Paralelogramo");
     }
-    public Paralelogramo(String figura, int id, int b, int h) {
-        super(figura);
+
+    public Paralelogramo(int b, int h) {
+        super("Paralelogramo");
         this.b = b;
         this.h = h;
     }
@@ -40,13 +39,6 @@ public class Paralelogramo extends Figura{
     public void Paralelogramo(int b, int h){}
     @Override
     public double calcularArea(){
-        Scanner lector = new Scanner(System.in);
-
-        System.out.println("Introduce la medida de un lado del Paralelogramo: ");
-        setB(b = lector.nextInt());
-        System.out.println("Introduce la medida de altura (h) del Paralelogramo: ");
-        setH(h = lector.nextInt());
-
         return this.b * this.h;
     }
 }

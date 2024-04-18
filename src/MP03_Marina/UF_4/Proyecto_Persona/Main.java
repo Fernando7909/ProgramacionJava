@@ -12,9 +12,9 @@ public class Main {
         System.out.println("Developer´s Bonus: $" + D.getSalario());
         System.out.println("Programmer´s Bonus: $" + P.getSalario());
 
-        System.out.println("Performance report for " + M.getPuestoTrabajo() + " " + M.getNombre() + ": Excellent");
-        System.out.println("Performance report for " + D.getPuestoTrabajo() + " " + D.getNombre() + ": Good");
-        System.out.println("Performance report for " + P.getPuestoTrabajo() + " " + P.getNombre() + ": Excellent");
+        M.generarReport();
+        D.generarReport();
+        P.generarReport();
 
         M.gestionProyecto();
         D.escribirCodigo();
