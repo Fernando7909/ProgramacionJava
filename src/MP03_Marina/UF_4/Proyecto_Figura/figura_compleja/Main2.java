@@ -4,16 +4,12 @@ import java.util.Scanner;
 public class Main2 {
     Scanner lector = new Scanner(System.in);
     boolean fin = false;
-    double area;
     String figura;
 
     public static void main(String[] args) {
         Main2 programa = new Main2();
         programa.inicio();
     }
-    //Funciones Constructoras:
-    Figura Fig0 = new Figura();
-
     public void inicio() {
         while (!fin) {
             mostrarMenu();

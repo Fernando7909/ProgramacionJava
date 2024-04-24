@@ -1,7 +1,5 @@
 package MP03_Marina.UF_4.Proyecto_Figura.figura_compleja;
 
-import java.util.Scanner;
-
 public class Rombo extends Figura {
 
     //Atributos:

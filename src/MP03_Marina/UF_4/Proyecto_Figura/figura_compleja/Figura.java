@@ -28,7 +28,7 @@ public class Figura {
         this.figura = figura;
     }
     public void setId(int id) {
-        Figura.id = id;
+        this.id = id;
     }
 
     //Otras Funciones:
