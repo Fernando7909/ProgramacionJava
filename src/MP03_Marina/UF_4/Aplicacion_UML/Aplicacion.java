@@ -58,7 +58,7 @@ public class Aplicacion {
         return "Explicacion App";
     }
     public boolean aplicacionCreada(){
-        return false;
+        return true;
     }
     public boolean eliminarId(int idApp){
         return false;

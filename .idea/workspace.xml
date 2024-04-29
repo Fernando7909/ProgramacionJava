@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd79518-e48a-479d-8b98-ffcf2064dcf7" name="Changes" comment="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Aplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Movil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Web.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_3/ComprovarFicheros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_3/Ejemplo1_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/CMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Dinamica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Ecommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Estatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Hibrida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Nativa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/WebApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Rombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Proyecto_Figura/figura_compleja/Rombo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML ESCOLA.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/Escola/UML ESCOLA.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Aplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Movil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Movil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_4/Aplicacion_UML/Web.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MP03_Marina/UF_6/UML_Real/Diagrama sin título.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/MP03_Marina/UF_6/UML_Real/Diagrama sin título.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +72,7 @@
     &quot;Application.CalculMinMaxMediana.executor&quot;: &quot;Run&quot;,
     &quot;Application.Clase_Principal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cliente_servidor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComprovarFicheros.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ej_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Eje_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Eje_10.executor&quot;: &quot;Run&quot;,
@@ -78,6 +84,7 @@
     &quot;Application.Eje_7.executor&quot;: &quot;Run&quot;,
     &quot;Application.Eje_8.executor&quot;: &quot;Run&quot;,
     &quot;Application.Eje_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo1_file.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ejercicio_10.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ejercicio_12.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ejercicio_7.executor&quot;: &quot;Run&quot;,
@@ -278,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713479707341</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Ejercicio terminado. En el IntelliJ me marca en rojo todos los print, nextLine(), nextInt() y Scanner.">
+      <option name="closed" value="true" />
+      <created>1713964760996</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713964760996</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

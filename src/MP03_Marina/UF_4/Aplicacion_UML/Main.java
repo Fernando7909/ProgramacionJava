@@ -24,37 +24,50 @@ public class Main {
     }
     public void seleccionarOpcion(){
         System.out.println("Selecciona una de las 2 opciones: ");
-        String opcion1 = lector.nextLine();
+        boolean opcionValida1 = false;
 
-        switch (opcion1.toUpperCase()){
-            case "Y":
-                seleccionarAplicacion();
-                break;
-            case "N":
-                finalizarEjecucion();
-                break;
-            default:
-                System.out.println("Opcion NO valida.");
+        while (!opcionValida1) {
+            String opcion1 = lector.nextLine().toUpperCase();
+            switch (opcion1) {
+                case "Y":
+                    seleccionarAplicacion();
+                    opcionValida1 = true;
+                    break;
+                case "N":
+                    finalizarEjecucion();
+                    opcionValida1 = true;
+                    break;
+                default:
+                    System.out.println("Opcion NO valida. Selecciona una opción");
+            }
         }
-        lector.close();
     }
     public void seleccionarAplicacion(){
         System.out.println("Tenemos 2 tipos de Aplicaciones disponibles: Web o Movil.");
         System.out.println("Selecciona una de las 2 Aplicaciones: ");
-        String opcion2 = lector.nextLine();
+        boolean opcionValida2 = false;
 
-        switch (opcion2.toUpperCase()){
-            case "WEB":
-                Web web = new Web();
-                break;
-            case "MOVIL":
-                Movil movil = new Movil();
-                break;
-            default:
-                System.out.println("Opcion NO valida.");
+        while (!opcionValida2) {
+            String opcion2 = lector.nextLine().toUpperCase();
+            switch (opcion2) {
+                case "WEB":
+                    Web web = new Web();
+                    web.crearAplicacionWeb();
+                    opcionValida2 = true;
+                    break;
+                case "MOVIL":
+                    Movil movil = new Movil();
+                    movil.crearAplicacionMovil();
+                    opcionValida2 = true;
+                    break;
+                default:
+                    System.out.println("Opcion NO valida. Selecciona una opción");
+            }
         }
     }
     public void finalizarEjecucion(){
         fin = true;
+        lector.close();
+        System.out.println("Hasta la próxima!!");
     }
 }
