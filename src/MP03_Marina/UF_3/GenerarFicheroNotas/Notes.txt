@@ -1,0 +1,4 @@
+Maria Almerich 4 3,5 6 -1
+Joan Sebastia 4,5 8,5 5 6,5 7 -1
+Carme Gonzalez 6,5 8,75 10 9,5 -1
+fi

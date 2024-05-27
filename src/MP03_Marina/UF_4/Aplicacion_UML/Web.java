@@ -1,4 +1,5 @@
 package MP03_Marina.UF_4.Aplicacion_UML;
+
 import java.util.Scanner;
 
 public class Web extends Aplicacion{
@@ -7,10 +8,13 @@ public class Web extends Aplicacion{
     private static int idAppWeb = 0;
 
     //CONSTRUCTORA
-    public Web() {}
+    public Web() {
+        ++idAppWeb;
+    }
 
     public Web(String nombre, String descripcion, String sistemaOperativo, String lenguajeProgramacion) {
         super(nombre, descripcion, sistemaOperativo, lenguajeProgramacion);
+        ++idAppWeb;
     }
 
     //GETTERS
@@ -24,7 +28,7 @@ public class Web extends Aplicacion{
     }
 
     //OTRAS FUNCIONES
-    public boolean eliminarId(int idApp){
+    public boolean eliminarId(int idAppWeb){
         return false;
     }
     public void crearAplicacionWeb(){
@@ -63,7 +67,6 @@ public class Web extends Aplicacion{
         }
     }
     public boolean aplicacionCreada(){
-        return false;
+        return true;
     }
-
 }

@@ -53,14 +53,8 @@ public class Aplicacion {
         this.lenguajeProgramacion = lenguajeProgramacion;
     }
 
-    //OTRAS FUNCIONES
-    public String explicacionTipoApp(){
-        return "Explicacion App";
-    }
+    //OTRAS FUNCIONES / METODOS
     public boolean aplicacionCreada(){
         return true;
-    }
-    public boolean eliminarId(int idApp){
-        return false;
     }
 }

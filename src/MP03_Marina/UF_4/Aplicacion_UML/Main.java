@@ -1,6 +1,5 @@
 package MP03_Marina.UF_4.Aplicacion_UML;
 
-import java.lang.module.ModuleFinder;
 import java.util.Scanner;
 
 public class Main {
@@ -12,35 +11,14 @@ public class Main {
         programa.inicio();
     }
     public void inicio(){
-        if (!fin){
+        while (!fin){
             mostrarMenu();
+            seleccionarAplicacion();
             seleccionarOpcion();
         }
     }
     public void mostrarMenu(){
         System.out.println("Bienvenido al Programa de Aplicaciones!!!");
-        System.out.println("Si quieres comenzar en programa escribe Yes [Y]");
-        System.out.println("Si quieres finalizar el programa escribe No [N]");
-    }
-    public void seleccionarOpcion(){
-        System.out.println("Selecciona una de las 2 opciones: ");
-        boolean opcionValida1 = false;
-
-        while (!opcionValida1) {
-            String opcion1 = lector.nextLine().toUpperCase();
-            switch (opcion1) {
-                case "Y":
-                    seleccionarAplicacion();
-                    opcionValida1 = true;
-                    break;
-                case "N":
-                    finalizarEjecucion();
-                    opcionValida1 = true;
-                    break;
-                default:
-                    System.out.println("Opcion NO valida. Selecciona una opción");
-            }
-        }
     }
     public void seleccionarAplicacion(){
         System.out.println("Tenemos 2 tipos de Aplicaciones disponibles: Web o Movil.");
@@ -61,13 +39,35 @@ public class Main {
                     opcionValida2 = true;
                     break;
                 default:
-                    System.out.println("Opcion NO valida. Selecciona una opción");
+                    System.out.println("Opcion NO valida. Selecciona una opción valida (WEB o MOVIL)");
+            }
+        }
+    }
+    public void seleccionarOpcion(){
+        System.out.println("------------------------------------------\n");
+        System.out.println("Si quieres volver a ejecutar el programa escribe [Y] Yes");
+        System.out.println("Si quieres finalizar el programa escribe [N] No");
+        System.out.println("Selecciona una de las 2 opciones: ");
+        boolean opcionValida1 = false;
+
+        while (!opcionValida1) {
+            String opcion1 = lector.nextLine().toUpperCase();
+            switch (opcion1) {
+                case "Y":
+                    fin = false;
+                    opcionValida1 = true;
+                    break;
+                case "N":
+                    finalizarEjecucion();
+                    opcionValida1 = true;
+                    break;
+                default:
+                    System.out.println("Opcion NO valida. Selecciona una  de las 2 opciones [Y] o [N]");
             }
         }
     }
     public void finalizarEjecucion(){
         fin = true;
-        lector.close();
         System.out.println("Hasta la próxima!!");
     }
 }

@@ -8,10 +8,13 @@ public class Movil extends Aplicacion{
     private static int idAppMovil = 0;
 
     //CONSTRUCTORAS
-    public Movil(){}
+    public Movil(){
+        ++idAppMovil;
+    }
 
     public Movil(String nombre, String descripcion, String sistemaOperativo, String lenguajeProgramacion){
         super(nombre, descripcion, sistemaOperativo, lenguajeProgramacion);
+        ++idAppMovil;
     }
 
     //GETTERS
@@ -25,7 +28,7 @@ public class Movil extends Aplicacion{
     }
 
     //OTRAS FUNCIONES
-    public boolean eliminarId(int idApp){
+    public boolean eliminarId(int idAppMovil){
         return false;
     }
     public void crearAplicacionMovil(){
@@ -57,9 +60,8 @@ public class Movil extends Aplicacion{
                     System.out.println("Opcion NO valida.");
             }
         }
-        lector.close();
     }
     public boolean aplicacionCreada(){
-        return false;
+        return true;
     }
 }

@@ -1,4 +1,4 @@
-package MP03_Marina.UF_3;
+package MP03_Marina.UF_3.ComprovarFicheros;
 
 import java.io.File;
 

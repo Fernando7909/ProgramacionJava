@@ -1,0 +1,1 @@
+El numero de palabras del fichero entrada.txt es: 8
